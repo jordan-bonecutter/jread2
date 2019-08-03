@@ -1,0 +1,6 @@
+*.key
+*.png
+__pycache__/*
+*.log
+*.pkl
+*.zip
