@@ -22,10 +22,15 @@ var url = process.argv[2];
 /*Start headless process*/
 var headless = spawn(headlessPath, ["--headless", "--disable-gpu", "--no-sandbox", '--remote-debugging-port='+debuggingPort, "--disk-cache-size=0", "--disable-gpu-program-cache", "--media-cache-size=0", "aggressive-cache-discard", "--disable-gpu-shader-disk-cache", "--single-process", "--no-first-run", "--no-default-browser-check", "--user-data-dir=remote-profile", "--trace-config-file"]);
 
+console.error(headless.pid);
+
 headless.on('error', (err) => {
   console.error(`Failed to start headless process: ${err}`);
 });
 
+process.on("SIGINT", function(){
+  headless.kill();
+});
 
 var redirects = new Map();
 var responses = new Map();

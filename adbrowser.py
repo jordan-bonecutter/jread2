@@ -75,7 +75,7 @@ class Crawler:
 
         try:
             draw = kwargs["draw"]
-        except:
+        except KeyError:
             draw = False
 
         try:

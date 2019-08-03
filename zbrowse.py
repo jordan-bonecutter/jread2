@@ -38,9 +38,8 @@ class IncompleteTree(RuntimeError):
 def __cleanup():
     global _proc, _files
     for process in _proc:
-      process.send_signal(signal.SIGINT)
+      process.kill()
       process.wait()
-    dbprint("ceased all subprocesses")
     for fi in _files:
         fi.close()
     _files = []
@@ -72,6 +71,11 @@ def __get(*args, **kwargs):
         z_proc.wait(kwargs["timeout"])
         end = time.time()
         __cleanup()
+        chrome_id = int(zerr.contents.split()[0])
+        try:
+          os.kill(chrome_id, signal.SIGTERM)
+        except ProcessLookupError:
+          pass 
         if re.search(r"heap out of memory", zerr.contents) is not None:
             raise OutOfMemory()
         try:
