@@ -5,3 +5,5 @@ __pycache__/*
 *.pkl
 *.zip
 remote-profile/*
+res/crawl.json
+util/zbrowse/remote-profile/*
