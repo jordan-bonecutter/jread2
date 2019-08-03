@@ -79,8 +79,11 @@ class Crawler:
             draw = False
 
         try:
+            counter = 0
             while True:
-                self.save(self.ofile)
+                counter += 1
+                if counter % 10 is 0:
+                    self.save(self.ofile)
                 for site in self.sites:
                     try:
                         data = zbrowse.get(domain = site, timeout = self.data[site]["timer"], port=port)
