@@ -16,13 +16,9 @@ from dbprint import *
 import jparse
 import time
 
-zbpath = "../zbrowse/"
+zbpath = "./util/zbrowse/"
 _zout_name = "tmp/__zb_sout.snap"
 _zerr_name = "tmp/__zb_serr.snap"
-
-tcpath = "../trace-chrome/"
-_tout_name = "tmp/__tc_sout.snap"
-_terr_name = "tmp/__tc_serr.snap"
 
 _proc   = []
 _files  = []
@@ -62,8 +58,7 @@ def __get(*args, **kwargs):
     # set up local variables
     start = time.time()
     domain = "https://www." + kwargs["domain"]
-    zopts = ("node", zbpath+"js/index.js", domain, str(port))
-    topts = ("node", tcpath+"bin/trace-chrome.js", "-p", str(port))
+    zopts = ("node", zbpath+"index.js", domain, str(port))
 
     # append so cleanup is easier
     zout   = SnapFile.open(_zout_name)
