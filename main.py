@@ -8,9 +8,15 @@ from adbrowser import Crawler
 import sys
 import threading
 from dbprint import dbprint
+import os
+import time
+import assassin
 
 def main(argv):
     try:
+        assassin.tokill = []
+        assassin.tklock = threading.Lock()
+        assassin.assassinate()
         if "-q" in argv:
             dbprint.should_print = False
         dbprint("Starting from main")

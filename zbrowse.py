@@ -15,6 +15,7 @@ import json
 from dbprint import *
 import jparse
 import time
+import assassin
 
 zbpath = "./util/zbrowse/"
 _zout_name = "tmp/__zb_sout.snap"
@@ -73,10 +74,15 @@ def __get(*args, **kwargs):
         __cleanup()
         chrome_id = int(zerr.contents.split()[0])
         try:
+          dbprint("killing chromium at " + str(chrome_id))
           os.kill(chrome_id, signal.SIGTERM)
+          assassin.tklock.acquire()
+          assassin.tokill.append(chrome_id)
+          assassin.tklock.release()
         except ProcessLookupError:
           pass 
         if re.search(r"heap out of memory", zerr.contents) is not None:
+            os.system("rm -f report.*")
             raise OutOfMemory()
         try:
             tree = json.loads(zout.contents)

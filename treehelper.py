@@ -24,7 +24,7 @@ _vt_attr = None
 _vt_apkf = "setup_files/vt.key"
 _vt_pkl = "pickles/vt.pkl"
 
-name_limit = 300
+name_limit = 30000
 
 def num_ad_nodes(tree, explicit):
     ret = 0
