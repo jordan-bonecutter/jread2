@@ -6,4 +6,8 @@ __pycache__/*
 *.zip
 remote-profile/*
 res/crawl.json
+res/crawl*
+addata.json
+setup_files/trust.json
+res/img/ignoreme/*
 util/zbrowse/remote-profile/*
