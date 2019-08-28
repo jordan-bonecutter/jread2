@@ -101,7 +101,7 @@ def _get_raw_depth(rtree, depth):
 
     return mdepth
 
-def get_tree(rtree):
+def get_tree(rtree, performance):
     global _rules
     if _rules == None:
         if os.path.exists(_rules_pkl):
@@ -115,7 +115,7 @@ def get_tree(rtree):
     # set variables
     tree = []
 
-    traverse_tree(rtree[0]["_root"], tree, rtree[1], 0)
+    traverse_tree(rtree["_root"], tree, performance, 0)
 
     for idl, layer in enumerate(tree[1:]):
         for url, node in layer.items():
@@ -128,7 +128,7 @@ def get_tree(rtree):
 
     return {"tree_full": tree, "tree_trim": _trim_tree(tree)}
 
-def traverse_tree(rtree, tree, traces, layer):
+def traverse_tree(rtree, tree, performance, layer):
     global _rules
 
     # ensure tree is big enough
@@ -176,14 +176,14 @@ def traverse_tree(rtree, tree, traces, layer):
             pass
 
         # get associated activities
-        matches = [json.loads(trace) for trace in traces if re.search(r"\""+re.escape(nname)+r"\"", trace) is not None]
-        tree[layer][nname].update({"relatedEvents": matches})
+        if nname in performance:
+          tree[layer][nname].update({"performance": performance[nname]})
 
     if not "children" in rtree:
         return
 
     for child in rtree["children"]:
-        traverse_tree(child, tree, traces, layer+1)
+        traverse_tree(child, tree, performance, layer+1)
 
 def _trim_tree(tree):
     trim = []

@@ -10,18 +10,14 @@ import threading
 from dbprint import dbprint
 import os
 import time
-import assassin
 
 def main(argv):
     try:
-        assassin.tokill = []
-        assassin.tklock = threading.Lock()
-        assassin.assassinate()
         if "-q" in argv:
             dbprint.should_print = False
         dbprint("Starting from main")
         crawler = Crawler.fromfile("setup_files/options.json")
-        crawler.crawl(port=9222, draw=False)
+        crawler.crawl(port=9223, draw=False)
     except KeyboardInterrupt:
         print()
         dbprint("main interrupted, shutting down")

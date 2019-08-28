@@ -11,7 +11,9 @@ import json
 import treehelper
 import drawtree
 import re
+import subprocess
 
+__chrome_path__ = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 time_max = 120
 
 class ParseError(RuntimeError):
@@ -79,6 +81,8 @@ class Crawler:
             draw = False
 
         try:
+            #chrome = subprocess.Popen((__chrome_path__, "--headless", "--remote-debugging-port="+str(port), "--disable-gpu", "--no-sandbox", "--disk-cache-size=1", "--disable-gpu-program-cache", "--media-cache-size=1", "--aggressive-cache-discard", "--single-process", "--no-first-run", "--no-default-browser-check", "--user-data-dir=tmp/remote-profile"), stdout=open("./tmp/__chromium_stdout.log", "w"), stderr=open("./tmp/__chromium_stderr.log", "w"))
+            chrome = subprocess.Popen((__chrome_path__, "--headless", "--remote-debugging-port="+str(port))) 
             counter = 0
             while True:
                 for site in self.sites:
@@ -86,7 +90,7 @@ class Crawler:
                     if counter % 10 is 0:
                         self.save(self.ofile)
                     try:
-                        data = zbrowse.get(domain = site, timeout = self.data[site]["timer"], port=port)
+                        tree, performance = zbrowse.get(domain = site, timeout = self.data[site]["timer"], port=port)
                     except zbrowse.Timeout as e:
                         dbprint("Zbrowse timed out in " + str(e.timer) + "s at site " + site) 
                         if self.data[site]["timer"]*2 < time_max:
@@ -99,8 +103,8 @@ class Crawler:
                         dbprint("Error parsing json from zbrowse at site " + site)
                     else:
                         dbprint("snapshot at " + site + " was succesful!")
-                        trees = treehelper.get_tree(data)
-                        dbprint("raw depth = " + str(treehelper.get_raw_depth(data[0])))
+                        trees = treehelper.get_tree(tree, performance)
+                        dbprint("raw depth = " + str(treehelper.get_raw_depth(tree)))
                         dbprint("new depth = " + str(len(trees["tree_full"])))
                         self.data[site]["snapshots"].append(trees)
                         l = len(self.data[site]["snapshots"])
@@ -111,6 +115,7 @@ class Crawler:
                             drawtree.draw_tree(trees["tree_trim"], "res/img/"+site+str(l)+"trim.png")
         except KeyboardInterrupt:
             self.save(self.ofile)
+            chrome.kill()
         raise KeyboardInterrupt()
 
     def save(self, fname):

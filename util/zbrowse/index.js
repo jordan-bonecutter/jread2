@@ -1,6 +1,7 @@
 /*Requirements to spawn and communicate with headless*/
 var Chrome = require('chrome-remote-interface');
 var spawn = require('child_process').spawn;
+var pup   = require('puppeteer');
 
 /*Utility functions*/
 var tree = require('./util/tree.js')
@@ -19,23 +20,11 @@ var headlessPath = "/Applications/Chromium.app/Contents/MacOS/Chromium";
 var debuggingPort = Number(process.argv[3]);
 var url = process.argv[2];
 
-/*Start headless process*/
-var headless = spawn(headlessPath, ["--headless", "--disable-gpu", "--no-sandbox", '--remote-debugging-port='+debuggingPort, "--disk-cache-size=0", "--disable-gpu-program-cache", "--media-cache-size=0", "aggressive-cache-discard", "--disable-gpu-shader-disk-cache", "--single-process", "--no-first-run", "--no-default-browser-check", "--user-data-dir=remote-profile", "--trace-config-file"]);
-
-console.error(headless.pid);
-
-headless.on('error', (err) => {
-  console.error(`Failed to start headless process: ${err}`);
-});
-
-process.on("SIGINT", function(){
-  headless.kill();
-});
-
 var redirects = new Map();
 var responses = new Map();
 var requests = new Map();
 var networkData = new Map();
+var toinject = fs.readFileSync(process.cwd() + '/util/zbrowse/toinject.js').toString();
 
 //Timeout 2s before connecting
 setTimeout(connect, 2000);
@@ -52,15 +41,26 @@ function getChromeInstance() {
 }
 
 function enableInstanceProperties(instance) {
-    
     userAgent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36";
+    pup.connect({browserURL: 'http://localhost:'+debuggingPort}).then((browser) => {
+      browser.on('targetcreated', (target) => {
+        target.page().then((page) => {
+          if(page == null){
+            return; 
+          } else {
+            page.once('domcontentloaded', () => { page.addScriptTag({content: toinject}); });
+            page.on('console', (msg) => {
+              if(msg._text.startsWith('!@#$!@#$')){
+                console.log(msg._text);
+              }
+            });
+          }
+        });
+      });
+    });
     instance.Page.enable();
     instance.Network.enable();
     instance.Network.setUserAgentOverride({userAgent: userAgent});
-    
-    instance.once('ready', () => {
-        instance.Page.navigate({url: url});
-    });
 
     instance.Network.responseReceived(function(data) {
         requestId = data['requestId'];
@@ -79,6 +79,10 @@ function enableInstanceProperties(instance) {
         } else {
             requests[data['requestId']] = data;
         }
+    });
+    
+    instance.once('ready', () => {
+        instance.Page.navigate({url: url});
     });
 }
 
@@ -127,19 +131,9 @@ function getResourceTree(instance) {
         networkTree._root.numResources = numResources; 
         console.log(JSON.stringify(networkTree));
 
-        headless.kill();
+        //headless.kill();
         process.exit(0);
     });
-}
-
-function getReferer(response) {
-    headers = response['response']['headers'];
-    console.log(headers);
-    if ('Referer' in headers) {
-        console.log(headers['Referer']);    
-    } else if ('referer' in headers) {
-        console.log(headers['referer']);      
-    }
 }
 
 function connect() {

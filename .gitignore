@@ -4,6 +4,7 @@ __pycache__/*
 *.log
 *.pkl
 *.zip
+tmp/*
 remote-profile/*
 res/crawl.json
 res/crawl*
@@ -11,3 +12,7 @@ addata.json
 setup_files/trust.json
 res/img/ignoreme/*
 util/zbrowse/remote-profile/*
+util/zbrowse/tmp/*
+util/zbrowse/node_modules/*
+.DS_Store/*
+*.DS_Store/*

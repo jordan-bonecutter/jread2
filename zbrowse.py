@@ -15,7 +15,7 @@ import json
 from dbprint import *
 import jparse
 import time
-import assassin
+import outputparser
 
 zbpath = "./util/zbrowse/"
 _zout_name = "tmp/__zb_sout.snap"
@@ -72,31 +72,17 @@ def __get(*args, **kwargs):
         z_proc.wait(kwargs["timeout"])
         end = time.time()
         __cleanup()
-        chrome_id = int(zerr.contents.split()[0])
-        try:
-          dbprint("killing chromium at " + str(chrome_id))
-          os.kill(chrome_id, signal.SIGTERM)
-          assassin.tklock.acquire()
-          assassin.tokill.append(chrome_id)
-          assassin.tklock.release()
-        except ProcessLookupError:
-          pass 
         if re.search(r"heap out of memory", zerr.contents) is not None:
             os.system("rm -f report.*")
             raise OutOfMemory()
-        try:
-            tree = json.loads(zout.contents)
-        except json.JSONDecodeError:
-            raise IncompleteTree()
     except subprocess.TimeoutExpired:
         end = time.time()
         __cleanup()
         raise Timeout(end-start)
 
-    with open("chrometrace.log", "r") as fi:
-        trace = fi.read()
-    os.remove("chrometrace.log")
-    lines = list(re.findall(r"(?:^|\n)(.+?),(?:$|\n)", trace))
-    return (json.loads(zout.contents), [line for line in lines if re.search("(?:url|URL|Url)", line) is not None])
+    try:
+        return outputparser.parse(zout.contents)
+    except json.JSONDecodeError:
+        raise IncompleteTree()
 
 get = kbint(__get, __cleanup)
