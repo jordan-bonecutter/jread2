@@ -4,6 +4,8 @@ __pycache__/*
 *.log
 *.pkl
 *.zip
+*.pdf
+*.svg
 tmp/*
 remote-profile/*
 res/crawl.json

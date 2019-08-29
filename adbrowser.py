@@ -13,7 +13,7 @@ import drawtree
 import re
 import subprocess
 
-__chrome_path__ = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+__chrome_path__ = "/Applications/Chromium.app/Contents/MacOS/Chromium"
 time_max = 120
 
 class ParseError(RuntimeError):
@@ -81,8 +81,7 @@ class Crawler:
             draw = False
 
         try:
-            #chrome = subprocess.Popen((__chrome_path__, "--headless", "--remote-debugging-port="+str(port), "--disable-gpu", "--no-sandbox", "--disk-cache-size=1", "--disable-gpu-program-cache", "--media-cache-size=1", "--aggressive-cache-discard", "--single-process", "--no-first-run", "--no-default-browser-check", "--user-data-dir=tmp/remote-profile"), stdout=open("./tmp/__chromium_stdout.log", "w"), stderr=open("./tmp/__chromium_stderr.log", "w"))
-            chrome = subprocess.Popen((__chrome_path__, "--headless", "--remote-debugging-port="+str(port))) 
+            chrome = subprocess.Popen((__chrome_path__, "--headless", "--remote-debugging-port="+str(port), "--disable-gpu", "--no-sandbox", "--disk-cache-size=1", "--disable-gpu-program-cache", "--media-cache-size=1", "--aggressive-cache-discard", "--single-process", "--no-first-run", "--no-default-browser-check", "--user-data-dir=tmp/remote-profile"), stdout=open("./tmp/__chromium_stdout.log", "w"), stderr=open("./tmp/__chromium_stderr.log", "w"))
             counter = 0
             while True:
                 for site in self.sites:
@@ -110,9 +109,9 @@ class Crawler:
                         l = len(self.data[site]["snapshots"])
                         if draw:
                             dbprint("drawing full")
-                            drawtree.draw_tree(trees["tree_full"], "res/img/"+site+str(l)+"full.png")
+                            drawtree.draw_tree(trees["tree_full"], "res/img/"+site+str(l)+"full.pdf")
                             dbprint("drawing trim")
-                            drawtree.draw_tree(trees["tree_trim"], "res/img/"+site+str(l)+"trim.png")
+                            drawtree.draw_tree(trees["tree_trim"], "res/img/"+site+str(l)+"trim.pdf")
         except KeyboardInterrupt:
             self.save(self.ofile)
             chrome.kill()

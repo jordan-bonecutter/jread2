@@ -175,9 +175,18 @@ def traverse_tree(rtree, tree, performance, layer):
         except KeyError:
             pass
 
-        # get associated activities
-        if nname in performance:
-          tree[layer][nname].update({"performance": performance[nname]})
+        try:
+            tree[layer][nname]["reqId"] = rtree["networkData"]["request"]["requestId"]
+        except KeyError:
+            try:
+                tree[layer][nname]["reqId"] = rtree["networkData"]["response"]["requestId"]
+            except KeyError:
+                pass
+
+        try:
+            tree[layer][nname]["timing"] = rtree["networkData"]["response"]["timestamp"]-rtree["networkData"]["request"]["timestamp"]
+        except KeyError:
+            pass
 
     if not "children" in rtree:
         return

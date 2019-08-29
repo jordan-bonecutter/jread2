@@ -8,7 +8,22 @@ from dbprint import dbprint
 
 __magic_string__ = "!@#$!@#$"
 
-def parse(output): 
+def myload(s):
+  tmp = ''
+  i = 0
+  for c in s:
+    if c == ':':
+      break
+    tmp += c
+    i += 1
+
+  return {tmp: s[i+1:]}
+
+def parse(output):
+    return (json.loads(output), [])
+
+def _hhhparse(output): 
+  breakpoint()
   lines = output.split('\n')
   dbprint(str(len(lines)-2) + " performance items logged")
   perf = []
@@ -17,17 +32,20 @@ def parse(output):
     try:
       perf.append(json.loads(lines[i][len(__magic_string__):])) 
     except json.JSONDecodeError:
-      pass
+      perf.append(myload(lines[i][len(__magic_string__):]))
 
   tmp  = perf
   perf = {}
   for p in tmp:
-    perf[p['name']] = p
+    try:
+      perf[p['name']] = p
+    except KeyError:
+      perf.update(p)
 
   try:
     tree = json.loads(lines[len(lines)-2])
   except json.JSONDecodeError:
     pass
-  if "_root" not in tree:
+  if tree != None and "_root" not in tree:
     tree = None
   return (tree, perf)
