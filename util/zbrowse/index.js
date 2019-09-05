@@ -4,12 +4,12 @@ var spawn = require('child_process').spawn;
 var pup   = require('puppeteer');
 
 /*Utility functions*/
-var tree = require('./util/tree.js')
-var queue = require('./util/queue.js')
+var tree = require('./util/tree.js');
+var queue = require('./util/queue.js');
 
 /*Other requirements*/
-var fs = require('fs')
-var url = require('url')
+var fs = require('fs');
+var url = require('url');
 
 if (process.argv.length != 4) {
     console.error('Correct usage: node index.js <url> <port>');
