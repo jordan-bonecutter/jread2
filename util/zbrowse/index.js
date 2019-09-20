@@ -16,7 +16,7 @@ if (process.argv.length != 4) {
     process.exit(-1);     
 }
 
-var headlessPath = "/Applications/Chromium.app/Contents/MacOS/Chromium";
+var headlessPath = "/home/behnam/Desktop/webKitProject/chromium/src/out/first_build/chrome";
 var debuggingPort = Number(process.argv[3]);
 var url = process.argv[2];
 
@@ -70,7 +70,6 @@ function enableInstanceProperties(instance) {
     instance.Tracing.dataCollected((data) => {
         data.value.forEach((v) => {
             cats = JSON.stringify(v.cat);
-            if(cats.indexOf('devtools.timeline') > -1){
                 if(lineCount == 0){
                     writeStream.write('[');
                     lineCount += 1;
@@ -79,7 +78,6 @@ function enableInstanceProperties(instance) {
                     writeStream.write(',\n');
                 }
                 writeStream.write(JSON.stringify(v));
-            }
         });
     });
 
@@ -89,7 +87,7 @@ function enableInstanceProperties(instance) {
     });
     
     instance.once('ready', () => {
-        instance.Tracing.start();
+        instance.Tracing.start({traceConfig:{includedCategories:['devtools.timeline', 'disabled-by-default-devtools.timeline']}});
         instance.Page.navigate({url: url});
     });
 }

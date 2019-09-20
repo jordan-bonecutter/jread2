@@ -17,7 +17,7 @@ def main(argv):
             dbprint.should_print = False
         dbprint("Starting from main")
         crawler = Crawler.fromfile("setup_files/options.json")
-        crawler.crawl(port=9223, draw=False)
+        crawler.crawl(port=9223, draw=False, perfFile="perfLog")
     except KeyboardInterrupt:
         print()
         dbprint("main interrupted, shutting down")

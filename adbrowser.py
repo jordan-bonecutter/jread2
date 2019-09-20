@@ -12,8 +12,12 @@ import treehelper
 import drawtree
 import re
 import subprocess
+import os
+import shutil
+from collections import OrderedDict
+from EvaluatePerformance import EvaluatePerformance
 
-__chrome_path__ = "/Applications/Chromium.app/Contents/MacOS/Chromium"
+__chrome_path__ = "/home/behnam/Desktop/webKitProject/chromium/src/out/first_build/chrome"
 time_max = 120
 
 class ParseError(RuntimeError):
@@ -81,6 +85,11 @@ class Crawler:
             draw = False
 
         try:
+            perfFile = open(kwargs["perfFile"],'w+')
+        except KeyError:
+            perfFile = None
+
+        try:
             chrome = subprocess.Popen((__chrome_path__, "--headless", "--remote-debugging-port="+str(port), "--disable-gpu", "--no-sandbox", "--disk-cache-size=1", "--disable-gpu-program-cache", "--media-cache-size=1", "--aggressive-cache-discard", "--single-process", "--no-first-run", "--no-default-browser-check", "--user-data-dir=tmp/remote-profile"), stdout=open("./tmp/__chromium_stdout.log", "w"), stderr=open("./tmp/__chromium_stderr.log", "w"))
             counter = 0
             while True:
@@ -107,6 +116,12 @@ class Crawler:
                         dbprint("new depth = " + str(len(trees["tree_full"])))
                         self.data[site]["snapshots"].append(trees)
                         l = len(self.data[site]["snapshots"])
+                        if perfFile:
+                          try:
+                            trace_path = os.path.join("./trace", site+"_"+str(l))
+                            shutil.move('trace.json',trace_path)
+                          except:
+                            pass
                         if draw:
                             dbprint("drawing full")
                             drawtree.draw_tree(trees["tree_full"], "res/img/"+site+str(l)+"full.pdf")
