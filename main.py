@@ -10,8 +10,9 @@ import threading
 from dbprint import dbprint
 import os
 import time
+from typing import List
 
-def main(argv):
+def main(argv: List[str]) -> int:
     try:
         if "-q" in argv:
             dbprint.should_print = False

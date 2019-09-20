@@ -198,7 +198,7 @@ class EvaluatePerformance():
       json.dump(self.perfEvents, indent=4)
 
   def checkpoint(self, fname):
-    filehelper.json_save(self.perfEvents, fname)
+    filehelper.file_save(self.perfEvents, fname, json.dump, False)
 
 
   def parse_trace(self, trace, time, B_trace_stack, url, ad_urls):

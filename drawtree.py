@@ -6,10 +6,12 @@
 
 import cairo
 import math
-from treehelper import num_nodes, num_ad_nodes, get_url
+from treehelper import num_nodes, num_ad_nodes, get_url, Tree
 import os
+from typing import Tuple, NoReturn
 
-def interpolate_color(time_in_s):
+
+def interpolate_color(time_in_s: float) -> Tuple[float, float, float]:
     time = time_in_s
     value = math.tanh(8.*time - 2.) + 1.
     if value > 0.5:
@@ -17,8 +19,9 @@ def interpolate_color(time_in_s):
     else:
         return (value*255, 255, 0)
 
+
 maxurl = 30
-def draw_tree(tree, fname):
+def draw_tree(tree: Tree, fname: str) -> NoReturn:
     # get the layout of the tree
     name, fext = os.path.splitext(fname)
     structure = [{} for _ in range(len(tree))]

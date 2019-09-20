@@ -15,6 +15,7 @@ except:
   import pickle
 import filehelper
 import re
+from typing import List, Dict, Union, NoReturn, Any
 
 _rules = None
 _rules_pkl = "pickles/rules.pkl"
@@ -26,7 +27,15 @@ _vt_pkl = "pickles/vt.pkl"
 
 name_limit = 30000
 
-def num_ad_nodes(tree, explicit):
+
+Node = Dict[str, Union[Dict[str, int], str, int]]
+Level = List[Node]
+Tree = List[Level]
+Recursive = None
+ZBTree = Dict[str, Union[List[Recursive], Dict[str, str]]]
+
+
+def num_ad_nodes(tree: Tree, explicit: bool) -> int:
     ret = 0
     for layer in tree:
         for url, data in layer.items():
@@ -38,13 +47,13 @@ def num_ad_nodes(tree, explicit):
                     ret += 1
     return ret
 
-def num_nodes(tree):
+def num_nodes(tree: Tree) -> int:
     ret = 0
     for layer in tree:
         ret += len(layer)
     return ret
 
-def get_url(url):
+def get_url(url: str) -> str:
     if url == None:
         return "nil"
 
@@ -57,7 +66,7 @@ def get_url(url):
     else:
         return ".".join((ext.domain, ext.suffix))
 
-def _get_vtscore(url):
+def _get_vtscore(url: str) -> Dict[str, str]:
     return None
     global _vt_attr
 
@@ -88,10 +97,12 @@ def _get_vtscore(url):
         except (json.decoder.JSONDecodeError, KeyError):
             return 0
 
-def get_raw_depth(rtree):
+
+def get_raw_depth(rtree: ZBTree) -> int:
     return _get_raw_depth(rtree["_root"], 1)
 
-def _get_raw_depth(rtree, depth):
+
+def _get_raw_depth(rtree: ZBTree, depth: int) -> int:
     if not "children" in rtree:
         return depth
     
@@ -101,7 +112,8 @@ def _get_raw_depth(rtree, depth):
 
     return mdepth
 
-def get_tree(rtree, performance):
+
+def get_tree(rtree: ZBTree, performance: Any) -> Tree:
     global _rules
     if _rules == None:
         if os.path.exists(_rules_pkl):
@@ -128,7 +140,8 @@ def get_tree(rtree, performance):
 
     return {"tree_full": tree, "tree_trim": _trim_tree(tree)}
 
-def traverse_tree(rtree, tree, performance, layer):
+
+def traverse_tree(rtree: ZBTree, tree: Tree, performance: Any, layer: int) -> NoReturn:
     global _rules
 
     # ensure tree is big enough
@@ -194,7 +207,8 @@ def traverse_tree(rtree, tree, performance, layer):
     for child in rtree["children"]:
         traverse_tree(child, tree, performance, layer+1)
 
-def _trim_tree(tree):
+
+def _trim_tree(tree: Tree) -> Tree:
     trim = []
     for idl, level in enumerate(tree):
         trim.append({})

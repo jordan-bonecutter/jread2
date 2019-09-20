@@ -14,10 +14,6 @@ from typing import Any, Callable, Union, NoReturn, IO
 import random
 import string
 
-class InvalidPathError(RuntimeError):
-    def __init__(self):
-        pass
-
 
 def file_save(obj: Any, fname: str, serializer: Union[Callable[[Any, IO], NoReturn]], needsBin: bool) -> NoReturn:
     base = os.path.basename(fname)
@@ -41,27 +37,44 @@ def file_save(obj: Any, fname: str, serializer: Union[Callable[[Any, IO], NoRetu
 
     os.rename(tname, fname)
 
+def to_json(o, level=0):
+    INDENT = 3
+    SPACE = " "
+    NEWLINE = "\n"
+    ret = ""
+    if isinstance(o, dict):
+        ret += "{" + NEWLINE
+        comma = ""
+        for k,v in o.items():
+            ret += comma
+            comma = ",\n"
+            ret += SPACE*INDENT*(level+1)
+            ret += '"' + str(k) + '":' + SPACE
+            ret += to_json(v, level + 1)
+
+        ret += NEWLINE + SPACE*INDENT*level + "}"
+        ret += "}"
+    elif isinstance(o, str):
+        ret += '"' + o + '"'
+    elif isinstance(o, list):
+        ret += "[" + ",".join([to_json(e, level+1) for e in o]) + "]"
+    elif isinstance(o, bool):
+        ret += "true" if o else "false"
+    elif isinstance(o, int):
+        ret += str(o)
+    elif isinstance(o, float):
+        ret += '%.7g' % o
+    else:
+        ret += 'null'
+    return ret
+
 
 def json_save(js, fname):
     base = os.path.basename(fname)
     path = "./" + os.path.dirname (fname)
-    tname = path + "/__" + base
+    tname = path + '/' + ''.join(random.SystemRandom().choice(string.ascii_letters + string.digits) for _ in range(64))
 
-    try:
-        with open(tname, "w") as fi:
-            json.dump(js, fi)
-    except TypeError:
-        os.remove(tname)
+    with open(tname, 'w') as fi:
+        json.dump(js, fi, indent = None, separators = (',\n', ': '))
     os.rename(tname, fname)
-
-def pickle_save(obj, fname):
-    base = os.path.basename(fname)
-    path = "./" + os.path.dirname (fname)
-    tname = path + "/__" + base
-
-    try:
-        with open(tname, "wb") as fi:
-            pickle.dump(obj, fi, -1)
-    except TypeError:
-        os.remove(tname)
-    os.rename(tname, fname)
+  

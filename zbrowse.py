@@ -16,6 +16,7 @@ from dbprint import *
 import jparse
 import time
 import outputparser
+from typing import NoReturn
 
 zbpath = "./util/zbrowse/"
 _zout_name = "tmp/__zb_sout.snap"
@@ -24,19 +25,23 @@ _zerr_name = "tmp/__zb_serr.snap"
 _proc   = []
 _files  = []
 
+
 class Timeout(RuntimeError):
     def __init__(self, timer):
         self.timer = timer
+
 
 class OutOfMemory(RuntimeError):
     def __init__(self):
         pass
 
+
 class IncompleteTree(RuntimeError):
     def __init__(self):
         pass
 
-def __cleanup():
+
+def __cleanup() -> NoReturn:
     global _proc, _files
     for process in _proc:
       process.kill()

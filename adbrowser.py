@@ -116,12 +116,6 @@ class Crawler:
                         dbprint("new depth = " + str(len(trees["tree_full"])))
                         self.data[site]["snapshots"].append(trees)
                         l = len(self.data[site]["snapshots"])
-                        if perfFile:
-                          try:
-                            trace_path = os.path.join("./trace", site+"_"+str(l))
-                            shutil.move('trace.json',trace_path)
-                          except:
-                            pass
                         if draw:
                             dbprint("drawing full")
                             drawtree.draw_tree(trees["tree_full"], "res/img/"+site+str(l)+"full.pdf")
@@ -133,4 +127,4 @@ class Crawler:
         raise KeyboardInterrupt()
 
     def save(self, fname):
-        filehelper.file_save(self.data, fname, json.dump, False)
+        filehelper.json_save(self.data, fname)

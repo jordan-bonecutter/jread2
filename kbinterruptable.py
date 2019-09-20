@@ -5,8 +5,9 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 from dbprint import dbprint
+from typing import Callable, Any
 
-def kbint(func, cleanup):
+def kbint(func: Callable, cleanup: Callable) -> Callable:
     def inner(*args, **kwargs):
         try:
             return func(*args, **kwargs)
