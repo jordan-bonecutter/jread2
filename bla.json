@@ -1,0 +1,5032 @@
+{
+  "reddit.com": {
+    "snapshots": [
+      {
+        "tree_full": [
+          {
+            "https://www.reddit.com/": {
+              "parents": {
+                "None": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/json",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.236",
+              "timing": 0.16964500000176486
+            }
+          },
+          {
+            "https://www.redditmedia.com/gtm/jail?id=GTM-5XVNS82": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/html; charset=UTF-8",
+              "ad": "no",
+              "f_id": "9B8CCF2ED3A70BDB17C41DB476F6131C",
+              "reqId": "570333819B3A1DC1F1F4F8B9AA701DB3",
+              "timing": 0.023858000000473112
+            },
+            "https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.70",
+              "timing": 0.21609100000932813
+            },
+            "https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.80f352d9e859b05deae8.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.10",
+              "timing": 0.2389989999937825
+            },
+            "https://preview.redd.it/qoat0ilnrrn31.jpg?width=640&height=813&crop=smart&auto=webp&s=11abe726915f9a99146fd52dc8ee85e0443f9539": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.266",
+              "timing": 0.013729999991483055
+            },
+            "https://preview.redd.it/86g85aiyzpn31.jpg?width=640&height=425&crop=smart&auto=webp&s=935b23bfe9c7c8e86130e87c080700db5b2bebb2": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.182",
+              "timing": 0.074097000004258
+            },
+            "https://styles.redditmedia.com/t5_2r8qf/styles/communityIcon_cjzswhcg5g131.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.274",
+              "timing": 0.011679999995976686
+            },
+            "https://b.thumbs.redditmedia.com/Rtu2Mw0L-mx7AeYtHKkbAh75jQbgzy_Hk2UIlLeZFSs.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.263",
+              "timing": 0.010259000002406538
+            },
+            "https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.503ee0c2d353daa60d6e.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.5",
+              "timing": 0.03662800000165589
+            },
+            "https://www.redditstatic.com/gold/awards/icon/gold_32.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.71",
+              "timing": 0.2166739999956917
+            },
+            "https://styles.redditmedia.com/t5_2xhvq/styles/communityIcon_nr4bcf3zwhu01.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.83",
+              "timing": 0.18557699999655597
+            },
+            "https://www.redditstatic.com/desktop2x/Governance~Reddit.3358a93cefdc0c55d1ae.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.11",
+              "timing": 0.06992899999022484
+            },
+            "https://www.redditstatic.com/desktop2x/ChatPost~CollectionCommentsPage~CommentsPage~Frontpage~ModListing~ModQueuePages~ModerationPages~Mult~8849df7b.70f0e07a7c1b2bcf1d92.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.20",
+              "timing": 0.06821199999831151
+            },
+            "https://www.redditstatic.com/desktop2x/fonts/IBMPlexSans/Medium-c4b185e25a4dde85a29f902cd5ce5360.woff2": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/font-woff2",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.56",
+              "timing": 0.19160900000133552
+            },
+            "https://b.thumbs.redditmedia.com/YDsk0xhD-y4vmQy-AgvQAzzWjwAZtzgLca0PHT52hNU.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.88",
+              "timing": 0.18927599999005906
+            },
+            "https://preview.redd.it/r3tb80o0vrn31.jpg?width=640&height=640&crop=smart&auto=webp&s=675df303996e4b81e033c3c650c5af5f8151b21d": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.289",
+              "timing": 0.009595999988960102
+            },
+            "https://www.redditstatic.com/desktop2x/AdminCommunityTopics~Reddit.f39b1e4dac02501fee01.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.12",
+              "timing": 0.24023699999088421
+            },
+            "https://www.redditstatic.com/desktop2x/RedesignContentFonts.509eef5d33306bd3b0d5.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.3",
+              "timing": 0.030467999997199513
+            },
+            "https://styles.redditmedia.com/t5_2qh1o/styles/communityIcon_vzx333xor7101.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.265",
+              "timing": 0.011985000004642643
+            },
+            "https://i.redd.it/5rxkqplv8sn31.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.87",
+              "timing": 0.18731300000217743
+            },
+            "https://www.redditstatic.com/desktop2x/ChatMessageInput~ChatPost~CollectionCommentsPage~CommentsPage~Explore~Frontpage~GovernanceReleaseNot~3a34166c.ce3ed71caf343caf1433.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.16",
+              "timing": 0.06627199999638833
+            },
+            "https://preview.redd.it/award_images/t5_2qo4s/ps8rwrr8biu21_AptAnalysis.png?width=32&height=32&crop=smart&auto=webp&s=8be1a5c69cf9c5404d4b37e1bf7f712aa1a4a162": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.269",
+              "timing": 0.00974300000234507
+            },
+            "https://preview.redd.it/m9d4z08czqn31.jpg?width=640&height=480&crop=smart&auto=webp&s=c96302555140fb2aed473a151b2171f836cd7002": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.242",
+              "timing": 0.011775999999372289
+            },
+            "https://c.amazon-adsystem.com/aax2/apstag.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "yes",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.161",
+              "timing": 0.4276070000050822
+            },
+            "https://www.redditstatic.com/desktop2x/vendors~Governance~Reddit.7e2adb288af56de67f65.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.6",
+              "timing": 0.0427380000037374
+            },
+            "https://www.redditstatic.com/desktop2x/vendors~CollectionCommentsPage~CommentsPage~Explore~Frontpage~GovernanceReleaseNotesModal~ModListing~afc2720f.c6d86939d4bd0e144927.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.14",
+              "timing": 0.04210900000180118
+            },
+            "https://external-preview.redd.it/dj4y-obQHioD-BwKT4E7fz7qzgVquDDvxnvkECaeiDQ.jpg?width=640&height=334&crop=smart&auto=webp&s=3b0248153cf48fddc95b53988a79843e5b76ecb6": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.80",
+              "timing": 0.18267299998842645
+            },
+            "https://www.redditstatic.com/desktop2x/ChatPost~CollectionCommentsPage~CommentsPage~Frontpage~ModListing~ModQueuePages~Multireddit~Original~029c3338.9900a48544d6e1699106.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.22",
+              "timing": 0.23768199999176431
+            },
+            "https://www.redditstatic.com/desktop2x/vendors~EconHelperActions~Reddit.ae3c9f7d5b30b3be7151.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.8",
+              "timing": 0.042953000011038966
+            },
+            "https://styles.redditmedia.com/t5_2cneq/styles/communityIcon_fy84mdgh75201.jpg?format=pjpg&s=68c3e08c49d16ab93e504ac2ba7377283df08fc7": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/jpeg",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.183",
+              "timing": 0.07646000001113862
+            },
+            "https://www.redditstatic.com/desktop2x/fonts/redesignIcon/redesignFont.24d199555cb63cc4a555b28eb5c3102d.woff": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/font-woff",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.60",
+              "timing": 0.27455999999074265
+            },
+            "https://b.thumbs.redditmedia.com/rubx9lmwyyGVxaBO1bXZrlfhmshea22T-8iYRdiS38o.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.90",
+              "timing": 0.18755200000305194
+            },
+            "https://c.aaxads.com/pxusr.gif?&type=1&vn=1": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/gif",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.194",
+              "timing": 0.0386819999985164
+            },
+            "https://b.thumbs.redditmedia.com/voAwqXNBDO4JwIODmO4HXXkUJbnVo_mL_bENHeagDNo.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.85",
+              "timing": 0.186292999991565
+            },
+            "https://www.redditstatic.com/gold/awards/icon/silver_32.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.72",
+              "timing": 0.21789200000057463
+            },
+            "https://a.thumbs.redditmedia.com/I5yuS5JqzJfER3oWBzCkmadz1S6wXWeJJZExKSGNgJ8.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.198",
+              "timing": 0.031527999992249534
+            },
+            "https://www.redditstatic.com/desktop2x/vendors~Poll~Reddit.5f77a82de48fbb3beb21.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.7",
+              "timing": 0.043176000006496906
+            },
+            "https://preview.redd.it/award_images/t5_2xhvq/rcr0flml50a31_GoldenPeachEmoji.png?width=32&height=32&crop=smart&auto=webp&s=3b1e257d2d164ab0cc144120ce3e62aaa451fa5a": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.255",
+              "timing": 0.019405999992159195
+            },
+            "https://www.redditstatic.com/desktop2x/fonts/IBMPlexSans/Regular-116bb6d508f5307861d3b1269bc597e7.woff2": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/font-woff2",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.54",
+              "timing": 0.19543400000839029
+            },
+            "https://a.thumbs.redditmedia.com/Et13KN5pbQBngrtEDKaxvPyXspb_gjZiXwvspamYoh8.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.247",
+              "timing": 0.01363899999705609
+            },
+            "https://b.thumbs.redditmedia.com/B7IpR8P1mEsQIjdizK5x79s5aGfJUtKk3u2ksGZ9n2Q.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.291",
+              "timing": 0.00943399999232497
+            },
+            "https://external-preview.redd.it/WjvhKKIrqJz1uhAMTOpIM-jso1zXpYlC6hjIbu7Xzig.gif?format=png8&s=4c2e95881bbdbe74693f09c1f11943e25c4ff0d4": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.232",
+              "timing": 0.057751999993342906
+            },
+            "https://www.redditstatic.com/desktop2x/js/ads.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "yes",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.104",
+              "timing": 0.09187200000451412
+            },
+            "https://preview.redd.it/jgh2angxnrn31.jpg?width=640&height=472&crop=smart&auto=webp&s=6bdb74a61bc11cd1c20039073b5a7de8018c1bed": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.282",
+              "timing": 0.009697999994386919
+            },
+            "https://www.redditstatic.com/desktop2x/img/house-ads/rubberducks.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "yes",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.222",
+              "timing": 0.03276699999696575
+            },
+            "https://www.redditstatic.com/gold/awards/icon/platinum_32.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.227",
+              "timing": 0.06738599999516737
+            },
+            "https://www.redditstatic.com/desktop2x/CollectionCommentsPage~CommentsPage~Explore~Frontpage~GovernanceReleaseNotesModal~ModListing~ModQueu~900871b8.b18f429ba4ae525a193c.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.19",
+              "timing": 0.2543619999923976
+            },
+            "https://styles.redditmedia.com/t5_2cneq/styles/communityIcon_fy84mdgh75201.jpg": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/jpeg",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.230",
+              "timing": 0.0598969999991823
+            },
+            "https://styles.redditmedia.com/t5_2rxse/styles/communityIcon_wrjb19eh25l31.jpg": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/jpeg",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.231",
+              "timing": 0.06056399999943096
+            },
+            "https://styles.redditmedia.com/t5_2qh1i/styles/communityIcon_tijjpyw1qe201.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.69",
+              "timing": 0.02702599999611266
+            },
+            "https://www.redditstatic.com/desktop2x/RedesignOldContentFonts.e450653685d17337cac6.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.4",
+              "timing": 0.024697999993804842
+            },
+            "https://b.thumbs.redditmedia.com/34KKs9QoD7d5KcCWZPGe8fqaIsVF_B6kzTEwivgsUos.jpg": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/jpeg",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.220",
+              "timing": 0.02354100000229664
+            },
+            "https://www.redditstatic.com/desktop2x/runtime~Reddit.47b2435a7f4773fb16af.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.2",
+              "timing": 0.07359799998812377
+            },
+            "https://styles.redditmedia.com/t5_2qo4s/styles/communityIcon_1podsfdai4301.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.268",
+              "timing": 0.00898899999447167
+            },
+            "https://preview.redd.it/609b8utmhqn31.jpg?width=640&height=640&crop=smart&auto=webp&s=39865b835e631830ef46d9fb0d836ed939fb3c3f": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.249",
+              "timing": 0.008048000003327616
+            },
+            "https://preview.redd.it/award_images/t5_2xhvq/r77vh7bq50a31_TheGoldenThrone.png?width=32&height=32&crop=smart&auto=webp&s=b6cc78d4fbbb8d732c9e6ab2c1737be3b494fc22": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.254",
+              "timing": 0.016966000010143034
+            },
+            "https://external-preview.redd.it/dpnJlOMMgWkXybageYq7QWdM7Ktm7AzZxBGO3jkoZBI.jpg?width=640&height=334&crop=smart&auto=webp&s=c7dc4e7f30cc8a7085c00467d8287807afb00699": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.244",
+              "timing": 0.007577999989734963
+            },
+            "https://c.aaxads.com/aax.js?pub=AAX763KC6&hst=www.reddit.com&ver=1.2": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/javascript; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.162",
+              "timing": 0.4267330000002403
+            },
+            "https://www.redditstatic.com/desktop2x/ChatPost~CollectionCommentsPage~CommentsPage~Explore~Frontpage~GovernanceReleaseNotesModal~ModListin~44a849ee.47976660be5cd6858268.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.17",
+              "timing": 0.23947299999417737
+            },
+            "https://external-preview.redd.it/IeXHIvpFvUgzFN0Um89aP29coWmRiU8RL9wZ91U8QXk.jpg?auto=webp&s=f075d771b93d8b672a7d89919237a19fe1d29cb0": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.235",
+              "timing": 0.05850800000189338
+            },
+            "https://external-preview.redd.it/O0HDeTVOSazpZjHMLY9AYU7H68OrcF0Q0KHkyk7niqw.jpg?auto=webp&s=d775f540b6f6069e9063f9226f388a8a6ccdb8f1": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/webp",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.234",
+              "timing": 0.05888300000515301
+            },
+            "https://adservice.google.com/adsid/integrator.js?domain=www.reddit.com": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript; charset=UTF-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.190",
+              "timing": 0.10850400000344962
+            },
+            "https://www.redditstatic.com/desktop2x/fonts/NotoSans/Regular-d6a6aa8dc0f93416a832ea04a18c6fb8.woff2": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/font-woff2",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.46",
+              "timing": 0.197636999990209
+            },
+            "https://styles.redditmedia.com/t5_mouw/styles/communityIcon_o50r3yhn00p01.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.261",
+              "timing": 0.01641399999789428
+            },
+            "https://a.thumbs.redditmedia.com/kIpBoUR8zJLMQlF8azhN-kSBsjVUidHjvZNLuHDONm8.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.288",
+              "timing": 0.008801999996649101
+            },
+            "https://a.thumbs.redditmedia.com/E0Bkwgwe5TkVLflBA7WMe9fMSC7DV2UOeff-UpNJeb0.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.81",
+              "timing": 0.18361500000173692
+            },
+            "https://www.googletagservices.com/tag/js/gpt.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.160",
+              "timing": 0.42666800000006333
+            },
+            "https://www.redditstatic.com/desktop2x/CollectionCommentsPage~CommentsPage~Explore~Frontpage~ModListing~ModQueuePages~ModerationPages~Multi~33b955cc.87093118fdc6bbc5980f.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.18",
+              "timing": 0.25816900000791065
+            },
+            "https://www.redditstatic.com/desktop2x/CollectionCommentsPage~CommentsPage~Explore~Frontpage~ModListing~ModQueuePages~ModerationPages~Multi~5f2f5c2a.314055b5bd8d328e1123.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.21",
+              "timing": 0.25425800000084564
+            },
+            "https://www.redditstatic.com/desktop2x/vendors~Chat~ChatMessageInput~CollectionCommentsPage~CommentsPage~Frontpage~PostCreation~RedesignCha~0aefb917.e6923ac4e90b854a1995.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.15",
+              "timing": 0.05431500000122469
+            },
+            "https://a.thumbs.redditmedia.com/mOcAqzHDbH8IFRf3a_cIYOdV3ov_zd4OhFCMi9cQvl8.jpg": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/jpeg",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.184",
+              "timing": 0.0736250000045402
+            },
+            "https://www.redditstatic.com/desktop2x/fonts/IBMPlexSans/Bold-875de5047556e7c822519d95d7ee692d.woff2": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/font-woff2",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.58",
+              "timing": 0.14788399999088142
+            },
+            "https://b.thumbs.redditmedia.com/VZX_KQLnI1DPhlEZ07bIcLzwR1Win808RIt7zm49VIQ.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.281",
+              "timing": 0.010920999993686564
+            },
+            "https://www.redditstatic.com/desktop2x/img/house-ads/btc.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "yes",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.221",
+              "timing": 0.007622999997693114
+            },
+            "https://b.thumbs.redditmedia.com/cROLJBlLhc5pQkIsZPaFJPlSPLqy6nWyESLG7TAYYvI.jpg": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/jpeg",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.292",
+              "timing": 0.007446000003255904
+            },
+            "https://b.thumbs.redditmedia.com/kVZiq5hTApUTyk572gTX7duEalx07VzM9qyrgE6OyAM.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.181",
+              "timing": 0.07528099999763072
+            },
+            "https://styles.redditmedia.com/t5_2s30g/styles/communityIcon_7wkagvae7jd01.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.257",
+              "timing": 0.010240000003250316
+            },
+            "https://styles.redditmedia.com/t5_2v0p0/styles/communityIcon_wzavpugrfww21.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.196",
+              "timing": 0.027721999998902902
+            },
+            "https://b.thumbs.redditmedia.com/amUXWXfydWmcNl53gdZtOk9GSFoW5V7OJ-BMkvWedcc.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.286",
+              "timing": 0.009330000000772998
+            },
+            "https://www.redditstatic.com/desktop2x/Frontpage.4077ac77230c8b0ae67b.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.23",
+              "timing": 0.23839099999167956
+            },
+            "https://www.redditstatic.com/desktop2x/Reddit.537ce8955c019a68e322.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.13",
+              "timing": 0.2553509999997914
+            },
+            "https://www.redditstatic.com/desktop2x/img/trending-placeholder.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.233",
+              "timing": 0.05814700000337325
+            },
+            "https://styles.redditmedia.com/t5_2r8cd/styles/communityIcon_6klq7jfzfjq21.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.197",
+              "timing": 0.028560000006109476
+            },
+            "https://www.redditstatic.com/desktop2x/vendors~Reddit.bb2ade21a865dbd52f3f.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.9",
+              "timing": 0.043176000006496906
+            },
+            "https://aaxdetect.com/pxext.gif?&type=2&vn=1": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.195",
+              "timing": 0.03979699999035802
+            },
+            "https://www.redditstatic.com/desktop2x/fonts/NotoSans/Bold-d4ba4ecba17e90993f442f7bb082a3a2.woff2": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/font-woff2",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.50",
+              "timing": 0.014300999988336116
+            },
+            "https://b.thumbs.redditmedia.com/yiUVjuc-Nge6k5N8t_jwv7T6iV18T7XDLycgvOtIIeY.jpg": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/jpeg",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.103",
+              "timing": 0.2052150000090478
+            },
+            "https://styles.redditmedia.com/t5_m0bnr/styles/communityIcon_00lh12p7icb11.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.241",
+              "timing": 0.010954999990644865
+            },
+            "https://styles.redditmedia.com/t5_2qt55/styles/communityIcon_n3wnthi7sy331.png": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "image/png",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.226",
+              "timing": 0.06633699999656528
+            },
+            "https://www.reddit.com/": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/json",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.236",
+              "timing": 0.16964500000176486
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/GovernanceUserPublicPointsDisplay.1c1697421c86a8f7f8a1.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.163",
+              "timing": 0.3280010000016773
+            },
+            "https://www.redditstatic.com/desktop2x/GovernanceUserPublicPointsDisplay.5c3efa4550780e66091b.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.164",
+              "timing": 0.328510000006645
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/EmailCollectionTooltip.af6c8a934cf31a5632b5.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.166",
+              "timing": 0.15188099999795668
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/EmailVerificationModals.51b9791741291e4659cc.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.168",
+              "timing": 0.1520580000069458
+            },
+            "https://www.redditstatic.com/desktop2x/EmailCollectionTooltip.a8a886a30b780cbbfbbb.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.167",
+              "timing": 0.15503399999579415
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/Trending.1fcc442be176b751117c.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.170",
+              "timing": 0.15388399999937974
+            },
+            "https://www.redditstatic.com/desktop2x/EmailVerificationModals.fabda230cbec8a151ac6.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.169",
+              "timing": 0.15655300000798889
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/AwardTooltip.b2b9530d7d02f7931f17.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.172",
+              "timing": 0.1553669999993872
+            },
+            "https://www.redditstatic.com/desktop2x/Trending.92b07c898a1fc0dc930a.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.171",
+              "timing": 0.15746499999659136
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/CommunityCrossPollinationFocusedVertical.320f7674c8f9ec894f5a.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.174",
+              "timing": 0.15598399999726098
+            },
+            "https://www.redditstatic.com/desktop2x/AwardTooltip.a9b4187cbfe9839c434b.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.173",
+              "timing": 0.1580639999883715
+            },
+            "https://www.redditstatic.com/desktop2x/CommunityCrossPollinationFocusedVertical.0cd46bfa0c3fdb7fe8ef.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.175",
+              "timing": 0.15839700000651646
+            },
+            "https://gql.reddit.com/?request_timestamp=1569015444406": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/json",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.165",
+              "timing": 0.29116600000998005
+            },
+            "https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.193",
+              "timing": 0.05997400000342168
+            },
+            "https://www.reddit.com/timings/perf": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.176",
+              "timing": 0.2469720000080997
+            },
+            "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019091201.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/javascript",
+              "ad": "yes",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.192",
+              "timing": 0.08420399999886286
+            },
+            "https://l3.aaxads.com/log?___stu13p=aveoaamactga5dnnuee25ti2rm86bcrodqacb&slg=8PR6YK195&lwbsh=AAX&gq=reddit.com&flg=AAX763KC6&vyu=2019091915_684&vhuyqdph=c8-web-3&jgsu=0&fvha=0&fvvwu=&xjg=4&dgw=desktop&ylg=00001569015444747028506877803547&yvlg=2094214069169904&vg=1&jwg=100&lqlg=0&jig=&ff=US&vf=CA&fw=IRVINE&dewh=CONTROL&dgeg=0&dps=0&yhuvlrq=1.2&vE=true&fruv=true&glvE=false&lfh=&yz=800&yk=600&skw=3508&fo=&__rk=1&dss=0&uwbsh=&deg=2&ghqg=63&glhqg=&glvwduw=&gvwduw=8&uhtxuo=https%3A%2F%2Fwww.reddit.com%2F&nzui=&hsxuo=https%3A%2F%2Fwww.reddit.com%2F": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.201",
+              "timing": 0.04228300000249874
+            },
+            "https://www.googletagmanager.com/gtm.js?id=GTM-5XVNS82&l=googleTagManager": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript; charset=UTF-8",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.205",
+              "timing": 0.008091999989119358
+            },
+            "https://secure.quantserve.com/aquant.js?a=p-xLEyC0FLYFXAH": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.207",
+              "timing": 0.0049670000007608905
+            },
+            "https://rules.quantcount.com/rules-p-xLEyC0FLYFXAH.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/x-javascript",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.209",
+              "timing": 0.0025919999898178503
+            },
+            "https://www.redditstatic.com/desktop2x/PushNotifications.5f3120bdeff9ebf9dd25.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.211",
+              "timing": 0.009949999992386438
+            },
+            "https://www.redditstatic.com/desktop2x/CommentsPage.e3ac0d9e838f5c85f56d.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.213",
+              "timing": 0.028551999988849275
+            },
+            "https://www.redditstatic.com/desktop2x/Subreddit.16fde74845acbb6bcb43.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.214",
+              "timing": 0.030337000003783032
+            },
+            "https://gateway.reddit.com/desktopapi/v1/sidebar_ads?allow_over18=&include=": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/json; charset=UTF-8",
+              "ad": "yes",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.210",
+              "timing": 0.14540799999667797
+            },
+            "https://pixel.quantserve.com/pixel;r=808318104;rf=0;uh=136f3f37daa0;a=p-xLEyC0FLYFXAH;url=https%3A%2F%2Fwww.redditmedia.com%2Fgtm%3Fid%3DGTM-5XVNS82%26cb%3Dnull;fpan=0;fpa=P0-591277524-1566419959085;ns=1;ce=1;qjs=1;qv=4c19192-20180628134937;cm=;ref=;je=0;sr=1280x800x24;enc=n;dst=1;et=1569015444838;tzo=420;ogl=": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.212",
+              "timing": 0.14221799999359064
+            },
+            "https://www.reddit.com/api/jail/asknicely.json?feature=&app_name=web2x&raw_json=1&gilding_detail=1": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/json; charset=UTF-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.215",
+              "timing": 0.09500499999558087
+            },
+            "https://www.reddit.com/api/trending_searches_v1.json?withAds=1&raw_json=1&gilding_detail=1": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/json; charset=UTF-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.189",
+              "timing": 0.48282399999152403
+            },
+            "https://external-preview.redd.it/p8guLObesUl_rAyJ4DFdBwBvrs-RXkzITaaK74EhFy8.gif?width=640&format=mp4&s=478227db349d31ec1ec6e152f42ca2368223e52a": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "video/mp4",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.228",
+              "timing": 0.10321200000180397
+            },
+            "https://alb.reddit.com/skatepark?IDLT=Xc1550nbvBOfGOw4E1gHRmt4nanTTiQB4F9tI7LZmo48-sx5Q": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.206",
+              "timing": 0.4270470000046771
+            }
+          },
+          {
+            "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null": {
+              "parents": {
+                "https://www.redditmedia.com/gtm/jail?id=GTM-5XVNS82": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/html; charset=UTF-8",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "8514F357A7717DEF1AE56A4C94E46321",
+              "timing": 0.007462000008672476
+            },
+            "https://www.redditstatic.com/gtm-jail.jTMwZME_TT8.js": {
+              "parents": {
+                "https://www.redditmedia.com/gtm/jail?id=GTM-5XVNS82": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "9B8CCF2ED3A70BDB17C41DB476F6131C",
+              "reqId": "1000026301.199",
+              "timing": 0.02235500000824686
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/GovernanceUserPublicPointsDisplay.1c1697421c86a8f7f8a1.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.163",
+              "timing": 0.3280010000016773
+            },
+            "https://www.redditstatic.com/desktop2x/GovernanceUserPublicPointsDisplay.5c3efa4550780e66091b.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.164",
+              "timing": 0.328510000006645
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/EmailCollectionTooltip.af6c8a934cf31a5632b5.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.166",
+              "timing": 0.15188099999795668
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/EmailVerificationModals.51b9791741291e4659cc.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.168",
+              "timing": 0.1520580000069458
+            },
+            "https://www.redditstatic.com/desktop2x/EmailCollectionTooltip.a8a886a30b780cbbfbbb.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.167",
+              "timing": 0.15503399999579415
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/Trending.1fcc442be176b751117c.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.170",
+              "timing": 0.15388399999937974
+            },
+            "https://www.redditstatic.com/desktop2x/EmailVerificationModals.fabda230cbec8a151ac6.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.169",
+              "timing": 0.15655300000798889
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/AwardTooltip.b2b9530d7d02f7931f17.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.172",
+              "timing": 0.1553669999993872
+            },
+            "https://www.redditstatic.com/desktop2x/Trending.92b07c898a1fc0dc930a.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.171",
+              "timing": 0.15746499999659136
+            },
+            "https://www.redditstatic.com/desktop2x/chunkCSS/CommunityCrossPollinationFocusedVertical.320f7674c8f9ec894f5a.css": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/css; charset=utf-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.174",
+              "timing": 0.15598399999726098
+            },
+            "https://www.redditstatic.com/desktop2x/AwardTooltip.a9b4187cbfe9839c434b.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.173",
+              "timing": 0.1580639999883715
+            },
+            "https://www.redditstatic.com/desktop2x/CommunityCrossPollinationFocusedVertical.0cd46bfa0c3fdb7fe8ef.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.175",
+              "timing": 0.15839700000651646
+            },
+            "https://gql.reddit.com/?request_timestamp=1569015444406": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/json",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.165",
+              "timing": 0.29116600000998005
+            },
+            "https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.193",
+              "timing": 0.05997400000342168
+            },
+            "https://www.reddit.com/timings/perf": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.176",
+              "timing": 0.2469720000080997
+            },
+            "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019091201.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "text/javascript",
+              "ad": "yes",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.192",
+              "timing": 0.08420399999886286
+            },
+            "https://l3.aaxads.com/log?___stu13p=aveoaamactga5dnnuee25ti2rm86bcrodqacb&slg=8PR6YK195&lwbsh=AAX&gq=reddit.com&flg=AAX763KC6&vyu=2019091915_684&vhuyqdph=c8-web-3&jgsu=0&fvha=0&fvvwu=&xjg=4&dgw=desktop&ylg=00001569015444747028506877803547&yvlg=2094214069169904&vg=1&jwg=100&lqlg=0&jig=&ff=US&vf=CA&fw=IRVINE&dewh=CONTROL&dgeg=0&dps=0&yhuvlrq=1.2&vE=true&fruv=true&glvE=false&lfh=&yz=800&yk=600&skw=3508&fo=&__rk=1&dss=0&uwbsh=&deg=2&ghqg=63&glhqg=&glvwduw=&gvwduw=8&uhtxuo=https%3A%2F%2Fwww.reddit.com%2F&nzui=&hsxuo=https%3A%2F%2Fwww.reddit.com%2F": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.201",
+              "timing": 0.04228300000249874
+            },
+            "https://www.googletagmanager.com/gtm.js?id=GTM-5XVNS82&l=googleTagManager": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript; charset=UTF-8",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.205",
+              "timing": 0.008091999989119358
+            },
+            "https://secure.quantserve.com/aquant.js?a=p-xLEyC0FLYFXAH": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.207",
+              "timing": 0.0049670000007608905
+            },
+            "https://rules.quantcount.com/rules-p-xLEyC0FLYFXAH.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/x-javascript",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.209",
+              "timing": 0.0025919999898178503
+            },
+            "https://www.redditstatic.com/desktop2x/PushNotifications.5f3120bdeff9ebf9dd25.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.211",
+              "timing": 0.009949999992386438
+            },
+            "https://www.redditstatic.com/desktop2x/CommentsPage.e3ac0d9e838f5c85f56d.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.213",
+              "timing": 0.028551999988849275
+            },
+            "https://www.redditstatic.com/desktop2x/Subreddit.16fde74845acbb6bcb43.js": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.214",
+              "timing": 0.030337000003783032
+            },
+            "https://gateway.reddit.com/desktopapi/v1/sidebar_ads?allow_over18=&include=": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/json; charset=UTF-8",
+              "ad": "yes",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.210",
+              "timing": 0.14540799999667797
+            },
+            "https://pixel.quantserve.com/pixel;r=808318104;rf=0;uh=136f3f37daa0;a=p-xLEyC0FLYFXAH;url=https%3A%2F%2Fwww.redditmedia.com%2Fgtm%3Fid%3DGTM-5XVNS82%26cb%3Dnull;fpan=0;fpa=P0-591277524-1566419959085;ns=1;ce=1;qjs=1;qv=4c19192-20180628134937;cm=;ref=;je=0;sr=1280x800x24;enc=n;dst=1;et=1569015444838;tzo=420;ogl=": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.212",
+              "timing": 0.14221799999359064
+            },
+            "https://www.reddit.com/api/jail/asknicely.json?feature=&app_name=web2x&raw_json=1&gilding_detail=1": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/json; charset=UTF-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.215",
+              "timing": 0.09500499999558087
+            },
+            "https://www.reddit.com/api/trending_searches_v1.json?withAds=1&raw_json=1&gilding_detail=1": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/json; charset=UTF-8",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.189",
+              "timing": 0.48282399999152403
+            },
+            "https://external-preview.redd.it/p8guLObesUl_rAyJ4DFdBwBvrs-RXkzITaaK74EhFy8.gif?width=640&format=mp4&s=478227db349d31ec1ec6e152f42ca2368223e52a": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "video/mp4",
+              "ad": "no",
+              "f_id": "74CE3DD89764E0A7482E61E7648E177D",
+              "reqId": "1000026301.228",
+              "timing": 0.10321200000180397
+            },
+            "https://alb.reddit.com/skatepark?IDLT=Xc1550nbvBOfGOw4E1gHRmt4nanTTiQB4F9tI7LZmo48-sx5Q": {
+              "parents": {
+                "https://www.reddit.com/": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.206",
+              "timing": 0.4270470000046771
+            }
+          },
+          {
+            "https://sb.scorecardresearch.com/p?c1=2&c2=20632726&cv=2.0&cj=1&c7=https://www.reddit.com/&c4=https://www.reddit.com/": {
+              "parents": {
+                "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "unknown",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.208",
+              "timing": 0.07309799999347888
+            },
+            "https://www.redditstatic.com/gtm.aX_QHhLRPyo.js": {
+              "parents": {
+                "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null": 1
+              },
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "type": "application/javascript",
+              "ad": "no",
+              "f_id": "3A857F85AA21CFAEF88E287AC44DDD00",
+              "reqId": "1000026301.203",
+              "timing": 0.005601000011665747
+            }
+          }
+        ],
+        "tree_trim": [
+          {
+            "reddit.com": {
+              "parents": {
+                "None": 1
+              },
+              "ad": "no",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/json": 1
+              }
+            }
+          },
+          {
+            "redditmedia.com": {
+              "parents": {
+                "reddit.com": 31
+              },
+              "ad": "no",
+              "squish": 31,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "text/html; charset=UTF-8": 1,
+                "image/png": 23,
+                "image/jpeg": 7
+              }
+            },
+            "redditstatic.com": {
+              "parents": {
+                "reddit.com": 51
+              },
+              "ad": "yes",
+              "squish": 51,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "image/png": 7,
+                "application/javascript": 32,
+                "application/font-woff2": 5,
+                "application/font-woff": 1,
+                "text/css; charset=utf-8": 6
+              }
+            },
+            "redd.it": {
+              "parents": {
+                "reddit.com": 16
+              },
+              "ad": "no",
+              "squish": 16,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "image/webp": 13,
+                "image/png": 2,
+                "video/mp4": 1
+              }
+            },
+            "amazon-adsystem.com": {
+              "parents": {
+                "reddit.com": 2
+              },
+              "ad": "yes",
+              "squish": 2,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/javascript": 2
+              }
+            },
+            "aaxads.com": {
+              "parents": {
+                "reddit.com": 3
+              },
+              "ad": "no",
+              "squish": 3,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "image/gif": 1,
+                "text/javascript; charset=utf-8": 1,
+                "unknown": 1
+              }
+            },
+            "google.com": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "no",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/javascript; charset=UTF-8": 1
+              }
+            },
+            "googletagservices.com": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "no",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "text/javascript": 1
+              }
+            },
+            "aaxdetect.com": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "no",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "unknown": 1
+              }
+            },
+            "reddit.com": {
+              "parents": {
+                "reddit.com": 7
+              },
+              "ad": "yes",
+              "squish": 7,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/json": 2,
+                "unknown": 2,
+                "application/json; charset=UTF-8": 3
+              }
+            },
+            "doubleclick.net": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "yes",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "text/javascript": 1
+              }
+            },
+            "googletagmanager.com": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "no",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/javascript; charset=UTF-8": 1
+              }
+            },
+            "quantserve.com": {
+              "parents": {
+                "reddit.com": 2
+              },
+              "ad": "no",
+              "squish": 2,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "unknown": 2
+              }
+            },
+            "quantcount.com": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "no",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/x-javascript": 1
+              }
+            }
+          },
+          {
+            "redditmedia.com": {
+              "parents": {
+                "redditmedia.com": 1
+              },
+              "ad": "no",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "text/html; charset=UTF-8": 1
+              }
+            },
+            "redditstatic.com": {
+              "parents": {
+                "redditmedia.com": 1,
+                "reddit.com": 15
+              },
+              "ad": "inherited",
+              "squish": 16,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/javascript": 10,
+                "text/css; charset=utf-8": 6
+              }
+            },
+            "reddit.com": {
+              "parents": {
+                "reddit.com": 6
+              },
+              "ad": "yes",
+              "squish": 6,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/json": 1,
+                "unknown": 2,
+                "application/json; charset=UTF-8": 3
+              }
+            },
+            "amazon-adsystem.com": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "inherited",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/javascript": 1
+              }
+            },
+            "doubleclick.net": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "yes",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "text/javascript": 1
+              }
+            },
+            "aaxads.com": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "inherited",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "unknown": 1
+              }
+            },
+            "googletagmanager.com": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "inherited",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/javascript; charset=UTF-8": 1
+              }
+            },
+            "quantserve.com": {
+              "parents": {
+                "reddit.com": 2
+              },
+              "ad": "inherited",
+              "squish": 2,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "unknown": 2
+              }
+            },
+            "quantcount.com": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "inherited",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/x-javascript": 1
+              }
+            },
+            "redd.it": {
+              "parents": {
+                "reddit.com": 1
+              },
+              "ad": "inherited",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "video/mp4": 1
+              }
+            }
+          },
+          {
+            "scorecardresearch.com": {
+              "parents": {
+                "redditmedia.com": 1
+              },
+              "ad": "no",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "unknown": 1
+              }
+            },
+            "redditstatic.com": {
+              "parents": {
+                "redditmedia.com": 1
+              },
+              "ad": "no",
+              "squish": 1,
+              "vt": {
+                "positives": null,
+                "total": null
+              },
+              "types": {
+                "application/javascript": 1
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "timer": 45
+  },
+  "news.google.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "forbes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "cnn.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nytimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theguardian.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "shutterstock.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "indiatimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "news.yahoo.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "washingtonpost.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "foxnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "weather.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "timesofindia.indiatimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "accuweather.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "cnbc.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bloomberg.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "usatoday.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "economictimes.indiatimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "wsj.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "reuters.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nypost.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "drudgereport.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "chron.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "chinadaily.com.cn": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nbcnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "wunderground.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "cbsnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "usnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dw.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thehindu.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sfgate.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thehill.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "weather.gov": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "news.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "indianexpress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "abcnews.go.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thedailybeast.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "time.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "latimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "yr.no": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "hindustantimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theatlantic.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newsnow.co.uk": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "euronews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "variety.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "hollywoodreporter.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newsweek.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "livemint.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nationalgeographic.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "irna.ir": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "patch.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "mathrubhumi.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "alarabiya.net": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "voanews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "smh.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "chicagotribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bankrate.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "foxbusiness.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "my.yahoo.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "business-standard.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "france24.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "economist.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "ctvnews.ca": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "washingtonexaminer.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bdnews24.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theconversation.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "aljazeera.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nj.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailycaller.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "zougla.gr": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "rd.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "azcentral.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theglobeandmail.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "financialexpress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "prnewswire.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thehindubusinessline.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thetimes.co.uk": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "money.cnn.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theage.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "metoffice.gov.uk": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newsmax.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "fortune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thestar.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thenews.com.pk": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "ap.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dnaindia.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "miamiherald.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theroot.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "seattletimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bostonglobe.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theepochtimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "ajc.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "mercurynews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "voat.co": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "deccanchronicle.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "oregonlive.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "washingtontimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "startribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theonion.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "blastingnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "stltoday.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "lexisnexis.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "radar.weather.gov": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "topix.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dallasnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "al.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "freep.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theweek.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "huffingtonpost.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nationalpost.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newindianexpress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "fark.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "adweek.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newspapers.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "rappler.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nola.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theaustralian.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "metafilter.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sfchronicle.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "deseretnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "denverpost.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "tribuneindia.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "baltimoresun.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "inquisitr.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thebetterindia.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "foreca.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "afr.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "detroitnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "uk.reuters.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "heraldsun.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "upi.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "tampabay.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "ocregister.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "telegraphindia.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sun-sentinel.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newsday.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "afp.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "deccanherald.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dowjones.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "fcc.gov": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailytelegraph.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "suntimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "mid-day.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sltrib.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "commondreams.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "weatherbug.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sacbee.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "losangeles.cbslocal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bostonherald.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "wtop.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "reviewjournal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "orlandosentinel.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "jsonline.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "smartbrief.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "parade.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "observer.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "c-span.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "beforeitsnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "siasat.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "syracuse.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "seattlepi.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sandiegouniontribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newrepublic.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "wn.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "buffalonews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "mysanantonio.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "cision.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "indystar.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "alternet.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newsobserver.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "kansascity.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "vancouversun.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thestranger.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "couriermail.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "tennessean.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "militarytimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "law.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thewest.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "mumbaimirror.indiatimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "federalreserve.gov": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "criticalmention.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "westword.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "courant.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theadvocate.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "palmbeachpost.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "weather.info": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "worldweatheronline.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thestatesman.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "freepressjournal.in": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "twincities.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailyherald.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "omaha.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "triblive.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "copyright.gov": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "adelaidenow.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "statesman.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "snow-forecast.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "niemanlab.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "star-telegram.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "mediamatters.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "adn.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "good.is": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "timesunion.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "desmoinesregister.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nyse.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "montrealgazette.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "rollcall.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thedrum.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "macleans.ca": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newstracklive.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "rferl.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "stripes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "rasmussenreports.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "northjersey.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newswire.ca": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "tveyes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "richmond.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "mediabistro.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "prweb.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailynews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailypioneer.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "poynter.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "asianage.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "assamtribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "csmonitor.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "weather2umbrella.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "calgaryherald.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "pressdemocrat.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "mediapost.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "globaltimes.cn": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newswire.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "factcheck.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "staradvertiser.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "goodnewsnetwork.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "tallahassee.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "spokesman.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "project-syndicate.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "lohud.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "edmontonjournal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "pilotonline.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "democratandchronicle.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "ctpost.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "lasvegassun.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "commercialappeal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "heraldtribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "pe.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "wfp.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "tucson.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "rgj.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "greaterkashmir.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "lucianne.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "einpresswire.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "telegram.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "roanoke.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "orlandoweekly.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "phoenixnewtimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "heraldextra.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "timesfreepress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "weather-forecast.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "pressofatlanticcity.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "spiked-online.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "duluthnewstribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "einnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "truthdig.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "journalstar.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "canberratimes.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "straight.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "providencejournal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "arkansasonline.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "stamfordadvocate.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "lmtonline.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "mcall.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "cjr.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "weatheronline.co.uk": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "wickedlocal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sandiegoreader.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "riverfronttimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bangaloremirror.indiatimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "citypages.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "postandcourier.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dallasobserver.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "multichannel.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "frontpagemag.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nwitimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "grandforksherald.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "floridatoday.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailypress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "uexpress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "syndication.theguardian.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "desertsun.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thestate.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thehour.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "gannett.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "demotix.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "eastbaytimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "winnipegfreepress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "austinchronicle.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "chicagoreader.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "pickyournewspaper.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "allyoucanread.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "knoxnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theprovince.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "houstonpress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "creators.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thechronicleherald.ca": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "aspentimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "unionleader.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sunnyskyz.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "globalvoices.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "idahostatesman.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "gazette.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newstimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "ibj.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "abqjournal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "greensboro.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "governing.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "lancasteronline.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "delawareonline.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "pantagraph.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "magnumphotos.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailyexcelsior.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "broadcastingcable.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "crweworld.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thenewstribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "crainsnewyork.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "villagevoice.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "metrotimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "clarionledger.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "opendemocracy.net": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thedailymash.co.uk": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "passageweather.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "vcstar.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "lehighvalleylive.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sfexaminer.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailycamera.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "chroniclingamerica.loc.gov": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nhregister.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "fresnobee.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "punemirror.indiatimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sanluisobispo.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "epa.eu": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sunshinecoastdaily.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "independent.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "greenvilleonline.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "qctimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "timescolonist.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "tcpalm.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bakersfield.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "collegemagazine.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "24-7pressrelease.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "kitv.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "journalnow.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "mcclatchydc.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "goldcoastbulletin.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thecrimson.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "columbian.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "canadafreepress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "southbendtribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bradenton.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "themercury.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "gainesville.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "myrtlebeachonline.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "calgarysun.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "washingtonmonthly.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "harpers.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "onthesnow.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theguardian.pe.ca": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "intellicast.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "greenwichtime.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "napavalleyregister.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "billoreilly.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theledger.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "trib.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "jewishworldreview.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "beaumontenterprise.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "postbulletin.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "news-press.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "delmarvanow.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "uticaod.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "weatherforyou.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "azdailysun.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "fredericknewspost.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "rsf.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "arktimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "jacksonville.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bismarcktribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nwfdailynews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sacurrent.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "citizensvoice.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "navhindtimes.in": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sentinelassam.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "lacrossetribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "filmsforaction.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailybreeze.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "postindependent.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "indexjournal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "briefing.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "news-gazette.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "timesleader.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sfweekly.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "news-leader.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "eagletribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "worldpressphoto.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "naplesnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "illawarramercury.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "mycentraljersey.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "ljworld.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "conservativedailynews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "santafenewmexican.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "news-journal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "kitsapsun.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "gatehousemedia.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "consortiumnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bendbulletin.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "standard.net": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "personneltoday.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "people-press.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theolympian.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newswise.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newsthump.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "fosters.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bellinghamherald.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "journalism.co.uk": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "rcinet.ca": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "webwire.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "worldweather.wmo.int": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "ydr.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dentonrc.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "therealnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "santacruzsentinel.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "readingeagle.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "fredericksburg.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "concordmonitor.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "15minutenews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "capitalgazette.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "journalists.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "islandpacket.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "news-journalonline.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "heraldnet.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thetelegraph.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "theadvertiser.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "starofmysore.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "hcpress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "ubm.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailycal.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nytco.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "abyznewslinks.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "guardianlv.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "statesmanjournal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newsroom.ucla.edu": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "ntnews.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "registerguard.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "djournal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "examiner.com.au": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "thenewsstar.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "news.berkeley.edu": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailyprogress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "vaildaily.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "journalism.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "memri.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "inma.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "pjstar.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sgvtribune.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "weatherstreet.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "uschamber.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailyfreeman.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "jdnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "summitdaily.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailybulletin.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "universalhub.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "heraldmailmedia.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "bostonreview.net": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "fair.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "nashvillescene.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "therisingwasabi.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "johnsoncitypress.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "wan-ifra.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "siouxcityjournal.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "washingtoncitypaper.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "journalgazette.net": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "juneauempire.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "wcfcourier.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "masternewmedia.org": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "totaltele.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailybruin.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "sj-r.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "salemnews.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "andhrabhoomi.net": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "djc.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "match.net.tw": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "lee.net": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "newstodaynet.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "businesswireindia.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "dailyitem.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "pressconnects.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "register-herald.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "parkrecord.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "journaltimes.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "biv.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  },
+  "stanforddaily.com": {
+    "snapshots": [
+    ],
+    "timer": 45
+  }
+}

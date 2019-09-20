@@ -37,36 +37,35 @@ def file_save(obj: Any, fname: str, serializer: Union[Callable[[Any, IO], NoRetu
 
     os.rename(tname, fname)
 
-def to_json(o, level=0):
-    INDENT = 3
-    SPACE = " "
-    NEWLINE = "\n"
-    ret = ""
-    if isinstance(o, dict):
-        ret += "{" + NEWLINE
-        comma = ""
-        for k,v in o.items():
-            ret += comma
-            comma = ",\n"
-            ret += SPACE*INDENT*(level+1)
-            ret += '"' + str(k) + '":' + SPACE
-            ret += to_json(v, level + 1)
-
-        ret += NEWLINE + SPACE*INDENT*level + "}"
-        ret += "}"
-    elif isinstance(o, str):
-        ret += '"' + o + '"'
-    elif isinstance(o, list):
-        ret += "[" + ",".join([to_json(e, level+1) for e in o]) + "]"
-    elif isinstance(o, bool):
-        ret += "true" if o else "false"
-    elif isinstance(o, int):
-        ret += str(o)
-    elif isinstance(o, float):
-        ret += '%.7g' % o
+def to_json(o, level=1):
+  ret = ''
+  INDENT = '  ' 
+  if isinstance(o, dict):
+    ret += '{'
+    for k, v in o.items():
+      ret += '\n' + INDENT*level + to_json(k, level+1) + ': ' + to_json(v, level+1) + ','
+    ret = ret[:1 if len(ret) == 1 else len(ret)-1]
+    ret += '\n' + INDENT*(level-1) + '}'
+  elif isinstance(o, list):
+    ret += '['
+    for v in o:
+      ret += '\n' + INDENT*level + to_json(v, level+1) + ','
+    ret = ret[:1 if len(ret) == 1 else len(ret)-1]
+    ret += '\n' + INDENT*(level-1) + ']'
+  elif isinstance(o, str):
+    ret = '"' + o + '"'
+  elif isinstance(o, int):
+    ret += str(o)
+  elif isinstance(o, float):
+    ret += str(o)
+  elif isinstance(o, bool):
+    if o:
+      ret += 'true'
     else:
-        ret += 'null'
-    return ret
+      ret += 'false'
+  else:
+    ret += 'null'
+  return ret
 
 
 def json_save(js, fname):
@@ -74,7 +73,9 @@ def json_save(js, fname):
     path = "./" + os.path.dirname (fname)
     tname = path + '/' + ''.join(random.SystemRandom().choice(string.ascii_letters + string.digits) for _ in range(64))
 
+    todump = to_json(js)
+
     with open(tname, 'w') as fi:
-        json.dump(js, fi, indent = None, separators = (',\n', ': '))
+        fi.write(todump)
     os.rename(tname, fname)
   
