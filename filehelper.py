@@ -18,7 +18,7 @@ import string
 def file_save(obj: Any, fname: str, serializer, needsBin: bool):
     base = os.path.basename(fname)
     path = "./" + os.path.dirname (fname)
-    tname = path + '/' + ''.join(random.SystemRandom().choice(string.ascii_letters + string.digits + string.punctuation) for _ in range(64))
+    tname = path + '/' + ''.join(random.SystemRandom().choice(string.ascii_letters + string.digits) for _ in range(64))
 
     if needsBin:
         ostring = 'wb'
