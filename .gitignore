@@ -18,3 +18,4 @@ util/zbrowse/tmp/*
 util/zbrowse/node_modules/*
 .DS_Store/*
 *.DS_Store/*
+trace/*

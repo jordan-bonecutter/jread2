@@ -17,7 +17,7 @@ import shutil
 from collections import OrderedDict
 from EvaluatePerformance import EvaluatePerformance
 
-__chrome_path__ = "/home/behnam/Desktop/webKitProject/chromium/src/out/first_build/chrome"
+__chrome_path__ = "/Applications/Chromium.app/Contents/MacOS/Chromium"
 time_max = 120
 
 class ParseError(RuntimeError):
@@ -133,4 +133,4 @@ class Crawler:
         raise KeyboardInterrupt()
 
     def save(self, fname):
-        filehelper.json_save(self.data, fname)
+        filehelper.file_save(self.data, fname, json.dump, False)

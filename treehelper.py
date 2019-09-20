@@ -109,8 +109,8 @@ def get_tree(rtree, performance):
                 _rules = pickle.load(fi)
         else:
             with open(_rules_file, "r") as fi:
-                _rules = json.loads(fi.read())
-            filehelper.pickle_save(_rules, _rules_pkl)
+                _rules = AdblockRules(json.loads(fi.read()))
+            filehelper.file_save(_rules, _rules_pkl, pickle.dump, True)
 
     # set variables
     tree = []
