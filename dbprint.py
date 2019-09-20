@@ -6,11 +6,11 @@
 
 import sys
 import datetime
-from typing import Any, NoReturn
+from typing import Any
 
 should_print = True
 
-def dbprint(stuff: Any) -> NoReturn:
+def dbprint(stuff: Any):
     if not should_print:
         return
     time = str(datetime.datetime.now())

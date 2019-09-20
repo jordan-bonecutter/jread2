@@ -10,12 +10,12 @@ try:
 except:
   import pickle
 import os
-from typing import Any, Callable, Union, NoReturn, IO
+from typing import Any, Callable, Union, IO
 import random
 import string
 
 
-def file_save(obj: Any, fname: str, serializer: Union[Callable[[Any, IO], NoReturn]], needsBin: bool) -> NoReturn:
+def file_save(obj: Any, fname: str, serializer, needsBin: bool):
     base = os.path.basename(fname)
     path = "./" + os.path.dirname (fname)
     tname = path + '/' + ''.join(random.SystemRandom().choice(string.ascii_letters + string.digits + string.punctuation) for _ in range(64))
