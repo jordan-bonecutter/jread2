@@ -16,7 +16,6 @@ from dbprint import *
 import jparse
 import time
 import outputparser
-from typing import NoReturn
 
 zbpath = "./util/zbrowse/"
 _zout_name = "tmp/__zb_sout.snap"
@@ -41,7 +40,7 @@ class IncompleteTree(RuntimeError):
         pass
 
 
-def __cleanup() -> NoReturn:
+def __cleanup():
     global _proc, _files
     for process in _proc:
       process.kill()

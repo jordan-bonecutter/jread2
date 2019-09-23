@@ -17,7 +17,7 @@ import shutil
 from collections import OrderedDict
 from EvaluatePerformance import EvaluatePerformance
 
-__chrome_path__ = "/Applications/Chromium.app/Contents/MacOS/Chromium"
+__chrome_path__ = "/home/behnam/Desktop/webKitProject/chromium/src/out/first_build/chrome"
 time_max = 120
 
 class ParseError(RuntimeError):
@@ -116,6 +116,12 @@ class Crawler:
                         dbprint("new depth = " + str(len(trees["tree_full"])))
                         self.data[site]["snapshots"].append(trees)
                         l = len(self.data[site]["snapshots"])
+                        if perfFile:
+                          try:
+                            trace_path = os.path.join("./trace", site+"_"+str(l))
+                            shutil.move('trace.json',trace_path)
+                          except:
+                            pass
                         if draw:
                             dbprint("drawing full")
                             drawtree.draw_tree(trees["tree_full"], "res/img/"+site+str(l)+"full.pdf")

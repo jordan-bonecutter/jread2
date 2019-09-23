@@ -8,9 +8,8 @@ from dbprint import dbprint
 
 class EvaluatePerformance():
 
-  def __init__(self, reportFile):
-    self._reportFile = reportFile
-    self.perfEvents = []
+  def __init__(self):
+    self.perfEvents = {}
     self._event_filter_list = ["ParseAuthorStyleSheet", "EvaluateScript", "ParseHTML", "FunctionCall", "UpdateLayoutTree", "InvalidateLayout", "ScheduleStyleRecalculation", "Layout", "UpdateLayerTree", "Paint", "CompositeLayers"]
 
   def filter_and_sort_traces(self, trace_data):  ### filter traces. change "X" to "B/E". sort traces by start time 
@@ -184,22 +183,38 @@ class EvaluatePerformance():
         except:
           pass
         continue
-    
-    self.perfEvents.append(perfEvent)
 
-    #json.dump(perfEvent, self._reportFile, indent=4)  # print
-
+    if self.validate(perfEvent):
+      if website in self.perfEvents.keys():
+        self.perfEvents[website].append(perfEvent['activity_time'])
+      else:
+        self.perfEvents[website] = [perfEvent['activity_time']]
     return
 
-  def print_perfEvents(self):
-    if self._reportFile:
-      json.dump(self.perfEvents, self._reportFile, indent=4)
-    else:
-      json.dump(self.perfEvents, indent=4)
+  def print_perfEvents(self, fname):
+    filehelper.json_save(self.perfEvents, fname)
 
-  def checkpoint(self, fname):
-    filehelper.file_save(self.perfEvents, fname, json.dump, False)
+  def read_perfEvents_from_file(self, filename):
+    f = open(filename,'rU')
+    self.perfEvents = json.load(f)
+    return
 
+  def get_perfEvents(self):
+    return self.perfEvents
+
+  def calculate(self):
+    ratio = []
+    for website, runs in self.perfEvents.items():
+      totalTime = 0
+      adTime = 0
+      for activity_time in runs:
+        for cat, time in activity_time.items():
+          totalTime = totalTime + time[0]
+          adTime = adTime + time[1]
+      dbprint(website + " " + str(adTime / totalTime))
+      ratio.append(float(adTime)/float(totalTime))
+    dbprint("total ratio:" + str(sum(ratio)/len(ratio)))
+    
 
   def parse_trace(self, trace, time, B_trace_stack, url, ad_urls):
     name = trace["name"]
@@ -234,3 +249,14 @@ class EvaluatePerformance():
         except:
           pass
     return
+
+  def validate(self, perfEvent):
+    validate = True
+    adTime = 0
+    for _, cat in perfEvent['activity_time'].items():
+      if int(cat[0]) == 0:
+        validate = False
+      adTime = adTime + int(cat[1])
+    if adTime == 0:
+      validate = False
+    return validate

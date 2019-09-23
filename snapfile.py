@@ -5,7 +5,7 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 import os
-from typing import NoReturn, IO
+from typing import IO
 
 class FileNotReadyError(RuntimeError):
     def __init__(self):
@@ -16,7 +16,7 @@ class SnapFile:
     _fname    = None
     _contents = None
 
-    def __init__(self, fd) -> NoReturn:
+    def __init__(self, fd):
         self._fd = fd
         self._fname = fd.name
 
@@ -24,7 +24,7 @@ class SnapFile:
     def open(cls, fname) -> object:
         return cls(open(fname, "w"))
 
-    def close(self) -> NoReturn:
+    def close(self):
         if self._fd is not None:
             self._fd.close()
             with open(self._fname, "r") as fi:

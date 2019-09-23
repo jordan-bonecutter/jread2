@@ -8,7 +8,7 @@ import cairo
 import math
 from treehelper import num_nodes, num_ad_nodes, get_url, Tree
 import os
-from typing import Tuple, NoReturn
+from typing import Tuple
 
 
 def interpolate_color(time_in_s: float) -> Tuple[float, float, float]:
@@ -21,7 +21,7 @@ def interpolate_color(time_in_s: float) -> Tuple[float, float, float]:
 
 
 maxurl = 30
-def draw_tree(tree: Tree, fname: str) -> NoReturn:
+def draw_tree(tree: Tree, fname: str):
     # get the layout of the tree
     name, fext = os.path.splitext(fname)
     structure = [{} for _ in range(len(tree))]

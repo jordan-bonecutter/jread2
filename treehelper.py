@@ -15,7 +15,7 @@ except:
   import pickle
 import filehelper
 import re
-from typing import List, Dict, Union, NoReturn, Any
+from typing import List, Dict, Union, Any
 
 _rules = None
 _rules_pkl = "pickles/rules.pkl"
@@ -141,7 +141,7 @@ def get_tree(rtree: ZBTree, performance: Any) -> Tree:
     return {"tree_full": tree, "tree_trim": _trim_tree(tree)}
 
 
-def traverse_tree(rtree: ZBTree, tree: Tree, performance: Any, layer: int) -> NoReturn:
+def traverse_tree(rtree: ZBTree, tree: Tree, performance: Any, layer: int):
     global _rules
 
     # ensure tree is big enough
