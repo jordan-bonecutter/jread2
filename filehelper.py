@@ -37,6 +37,15 @@ def file_save(obj: Any, fname: str, serializer, needsBin: bool):
 
     os.rename(tname, fname)
 
+def json_esc(s):
+  ret = ''
+  for c in s:
+    if c == '"':
+      ret += '\\'
+    ret += c
+
+  return ret
+
 def to_json(o, level=1):
   ret = ''
   INDENT = '  ' 
@@ -53,7 +62,7 @@ def to_json(o, level=1):
     ret = ret[:1 if len(ret) == 1 else len(ret)-1]
     ret += '\n' + INDENT*(level-1) + ']'
   elif isinstance(o, str):
-    ret = '"' + o + '"'
+    ret = '"' + json_esc(o) + '"'
   elif isinstance(o, int):
     ret += str(o)
   elif isinstance(o, float):
