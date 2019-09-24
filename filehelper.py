@@ -42,6 +42,8 @@ def json_esc(s):
   for c in s:
     if c == '"':
       ret += '\\'
+    elif c == '\\':
+      ret += '\\'
     ret += c
 
   return ret
