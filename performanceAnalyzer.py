@@ -11,6 +11,7 @@ from EvaluatePerformance import EvaluatePerformance
 def parsePerformanceTraces(perf, trace_dir, zbrowse_filename): 
   zbrowse_file = open(zbrowse_filename)
   zbrowse_data = json.load(zbrowse_file)
+  counter = 0
   for domain, val in zbrowse_data.items():
     snapshots = val['snapshots']
     for l in range(len(snapshots)):
@@ -39,13 +40,17 @@ def parsePerformanceTraces(perf, trace_dir, zbrowse_filename):
       if isinstance(trace_data, dict):
         trace_data = trace_data['traceEvents']
       perf.add_performance(domain, trace_data, ad_urls)
+      counter += 1
+      if not counter % 50:
+        dbprint (str(counter)+ " trace files have been added")
 
 def test():
   perf = EvaluatePerformance()
   #parsePerformanceTraces(perf, './trace', './res/crawl.json')
   #perf.print_perfEvents('perf.log')
-  perf.read_perfEvents_from_file('perf.log')  
-  perf.calculate()
+  perf.read_perfEvents_from_file('perf.log')
+  perf.calculateAdPerformance()  
+  perf.calculateAdPerformanceByDomain()
 
 if __name__ == "__main__" :
   test()
