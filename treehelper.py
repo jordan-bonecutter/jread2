@@ -180,7 +180,10 @@ def traverse_tree(rtree: ZBTree, tree: Tree, performance: Any, layer: int):
         try:
             tree[layer][nname]["type"]=rtree["networkData"]["response"]["response"]["headers"]["content-type"]
         except KeyError:
-            tree[layer][nname]["type"] = "unknown"
+            try:
+                tree[layer][nname]["type"] = rtree["networkData"]["request"]["type"]
+            except KeyError:
+                tree[layer][nname]["type"] = "unknown"
 
         # set frameId
         try: 
