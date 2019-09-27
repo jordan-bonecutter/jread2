@@ -227,8 +227,10 @@ class EvaluatePerformance():
     dbprint("total ratio:" + str(sum(ratio)/len(ratio)))
 
   def calculateAdPerformanceByDomain(self):
-    domainsStat = {}
+    websitesStat = {} # {website:[[adTime_1st_run,totalTime_1st_run], [adTime_1st_run,totalTime_1st_run], ....]}
+    domainsStat = {}  # {domain:{website:[[domainTime_1st_run, adTime_1st_run, totalTime_1st_run], [domainTime_2nd_run, adTime_2nd_run, totalTime_2nd_run],...]}}
     for website, runs in self.perfEvents.items():
+      websitesStat[website] = []
       for run in runs:
         activity_time = run['activity_time']
         adDomain_time = run['adDomain_time']
@@ -236,7 +238,8 @@ class EvaluatePerformance():
         adTime = 0    # total ad activity time for a website
         for cat, time in activity_time.items():
           totalTime += time[0]
-          adTime += time[1]       
+          adTime += time[1]
+        websitesStat[website].append([adTime,totalTime])       
         for domain, cats in adDomain_time.items():
           domainTime = 0 # total activitiy time for an ad domain in a website
           for cat, time in cats.items():
@@ -247,24 +250,29 @@ class EvaluatePerformance():
             domainsStat[domain][website] = [[domainTime, adTime, totalTime]]
           else:
             domainsStat[domain][website].append([domainTime, adTime, totalTime])
-    domainReport = {}  # {domain:{unmber_of_websites:int, average_per_site_ratio:float, average_per_site_ad_ratio:float, ratio_to_all:float, ratio_to_ads:float}}
-    totalTime = 0
-    totalAdTime = 0
-    for domain in domainsStat.keys():
+    
+
+    totalTime = 0  # total activity time aggreagted among all websites.
+    totalAdTime = 0  # total ad activity time aggreagted among all websites.
+    for website in websitesStat.keys():  ## first get average of multiple runs for a website 
+      l = len(websitesStat[website])
+      websitesStat[website] = [sum(i)/l for i in zip (*websitesStat[website])]  ## websitesStat={website:[avgAdTime,avgTotalTime]}
+      totalAdTime += websitesStat[website][0]
+      totalTime += websitesStat[website][1]
+
+    domainsReport = {}  # {domain:{unmber_of_websites:int, average_per_site_ratio:float, average_per_site_ad_ratio:float, ratio_to_all:float, ratio_to_ads:float}}							        
+    for domain in domainsStat.keys():    ## first get average of multiple runs for a website
       for website in domainsStat[domain].keys():
         l = len(domainsStat[domain][website])
-        domainsStat[domain][website] = [sum(i)/l for i in zip (*domainsStat[domain][website])]
-        totalTime += domainsStat[domain][website][2]
-        totalAdTime += domainsStat[domain][website][1]
-    for domain in domainsStat.keys():
+        domainsStat[domain][website] = [sum(i)/l for i in zip (*domainsStat[domain][website])]  # domainsStat={domain{website:[avgAdDomainTime, avgAdTime, avgTotalTime]}}                                                                                       
       number_of_websites = len(domainsStat[domain].keys())
       average_per_site_ratio = sum([val[0]/val[2] for key, val in domainsStat[domain].items()]) / number_of_websites
       average_per_site_ad_ratio = sum([val[0]/val[1] for key, val in domainsStat[domain].items()]) / number_of_websites
       ratio_to_all = sum([val[0] for key, val in domainsStat[domain].items()]) / totalTime
-      ratio_to_ad = sum([val[0] for key, val in domainsStat[domain].items()]) / totalAdTime
-      domainReport[domain] = {'number_of_websites':number_of_websites, 'average_per_site_ratio':average_per_site_ratio, 'average_per_site_ad_ratio':average_per_site_ad_ratio, 'ratio_to_all':ratio_to_all, 'ratio_to_ad':ratio_to_ad}
-    print(json.dumps(sorted(domainReport.items(), key=lambda x: x[1]['number_of_websites'], reverse=True), indent=4))
-   
+      ratio_to_ads = sum([val[0] for key, val in domainsStat[domain].items()]) / totalAdTime
+      domainsReport[domain] = {'number_of_websites':number_of_websites, 'average_per_site_ratio':average_per_site_ratio, 'average_per_site_ad_ratio':average_per_site_ad_ratio, 'ratio_to_all':ratio_to_all, 'ratio_to_ads':ratio_to_ads}
+    print(json.dumps(sorted(domainsReport.items(), key=lambda x: x[1]['ratio_to_ads'], reverse=True), indent=4))
+    print( "Ad ratio:" , sum([val['ratio_to_all'] for key, val in domainsReport.items()]))
     
 
   def parse_trace(self, trace, time, B_trace_stack, url, ad_urls, perfEvent):
@@ -314,8 +322,8 @@ class EvaluatePerformance():
     adTime = 0
     for _, cat in perfEvent['activity_time'].items():
       if int(cat[0]) <= 0:
-        validate = False
+        validate = False  # if any of the cat activity time is zero or negatvie (e.g. error in parsing)
       adTime = adTime + int(cat[1])
     if adTime <= 0:
-      validate = False
+      validate = False  # if there is no ad time (aggregated among cat) or negative total ad time (e.g. error in parsing)
     return validate
