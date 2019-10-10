@@ -12,7 +12,7 @@ class EvaluatePerformance():
   def __init__(self):
     self.perfEvents = {}
     self.adDomainEvents = {}
-    self._event_filter_list = ["ParseAuthorStyleSheet", "EvaluateScript", "ParseHTML", "FunctionCall", "UpdateLayoutTree", "InvalidateLayout", "ScheduleStyleRecalculation", "Layout", "UpdateLayerTree", "Paint", "CompositeLayers"]
+    self._event_filter_list = ["ParseAuthorStyleSheet", "EvaluateScript", "ParseHTML", "FunctionCall", "UpdateLayoutTree", "InvalidateLayout", "ScheduleStyleRecalculation", "Layout", "UpdateLayerTree", "Paint", "CompositeLayers", "XHRReadyStateChange", "PaintImage"]
 
   def filter_and_sort_traces(self, trace_data):  ### filter traces. change "X" to "B/E". sort traces by start time 
     filtered_traces = []
@@ -48,7 +48,9 @@ class EvaluatePerformance():
                                    "layout":[0,0],	    \
                                    "update_layer":[0,0],    \
                                    "paint":[0,0],	    \
-                                   "composite":[0,0]	    \
+                                   "paint_image":[0,0],	    \
+                                   "composite":[0,0],	    \
+                                   "xhr":[0,0]              \
                                   },   \
                    "adDomain_time":{} \
                   }  #adDomain_time={cat:total_time} e.g. {www.googlesyndication.com:{css_parse:243, js_evaluate:1234, ...}, www.ads.com:{...}, ...} 
@@ -78,6 +80,13 @@ class EvaluatePerformance():
         except:
           continue
         self.parse_trace(trace, perfEvent["activity_time"]["paint"], B_trace_stack, url, ad_urls, perfEvent)
+
+      if trace["name"] == "PaintImage":
+        try:
+          url = trace["args"]["data"]["url"]
+        except:
+          url = None
+        self.parse_trace(trace, perfEvent["activity_time"]["paint_image"], B_trace_stack, url, ad_urls, perfEvent)
 
       if trace["name"] == "CompositeLayers":
         url = lastReflowOrLayout[1]
@@ -193,6 +202,13 @@ class EvaluatePerformance():
         except:
           pass
         continue
+
+      if trace["name"] == "XHRReadyStateChange":
+        try:
+          url = trace["args"]["data"]["url"]
+        except:
+          url = None
+        self.parse_trace(trace, perfEvent["activity_time"]["xhr"], B_trace_stack, url, ad_urls, perfEvent)
 
     if self.validate(perfEvent):
       if website in self.perfEvents.keys():

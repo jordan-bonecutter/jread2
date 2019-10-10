@@ -46,9 +46,9 @@ def parsePerformanceTraces(perf, trace_dir, zbrowse_filename):
 
 def test():
   perf = EvaluatePerformance()
-  #parsePerformanceTraces(perf, './trace', './res/crawl.json')
-  #perf.print_perfEvents('perf.log')
-  perf.read_perfEvents_from_file('perf.log')
+  parsePerformanceTraces(perf, './trace', './res/crawl.json')
+  perf.print_perfEvents('perf.log')
+  #perf.read_perfEvents_from_file('perf.log')
   perf.calculateAdPerformance()  
   perf.calculateAdPerformanceByDomain()
 
