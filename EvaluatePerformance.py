@@ -335,11 +335,14 @@ class EvaluatePerformance():
 
   def validate(self, perfEvent):
     validate = True
+    zero_cat = 0
     adTime = 0
     for _, cat in perfEvent['activity_time'].items():
       if int(cat[0]) <= 0:
-        validate = False  # if any of the cat activity time is zero or negatvie (e.g. error in parsing)
+        zero_cat += 1  # if any of the cat activity time is zero or negatvie (e.g. error in parsing)
       adTime = adTime + int(cat[1])
     if adTime <= 0:
       validate = False  # if there is no ad time (aggregated among cat) or negative total ad time (e.g. error in parsing)
+    if zero_cat > 2:
+      validate = False
     return validate
