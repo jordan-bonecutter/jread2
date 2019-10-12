@@ -210,7 +210,8 @@ class EvaluatePerformance():
           url = None
         self.parse_trace(trace, perfEvent["activity_time"]["xhr"], B_trace_stack, url, ad_urls, perfEvent)
 
-    if self.validate(perfEvent):
+    if self.validate(perfEvent, website):
+      dbprint("a trace file for " + website + " added to perfEvents")
       if website in self.perfEvents.keys():
         self.perfEvents[website].append(perfEvent)
       else:
@@ -228,9 +229,27 @@ class EvaluatePerformance():
   def get_perfEvents(self):
     return self.perfEvents
 
-  def calculateAdPerformance(self):
-    ratio = []
+  def prune_sites_with_no_ad(self):
+    no_ad_perfEvents = {}
     for website, runs in self.perfEvents.items():
+      for run in runs:
+        adTime = 0
+        for cat,time in run['activity_time'].items():
+          adTime += time[1]
+        if adTime:
+          if website in no_ad_perfEvents.keys():
+          	no_ad_perfEvents[website].append(run)
+          else:
+            no_ad_perfEvents[website] = [run]
+    return no_ad_perfEvents
+
+  def calculateAdPerformance(self, ad_only = False):
+    if ad_only:
+      perfEvents = self.prune_sites_with_no_ad()
+    else:
+      perfEvents = self.perfEvents
+    ratio = []
+    for website, runs in perfEvents.items():
       totalTime = 0
       adTime = 0
       for run in runs:
@@ -238,14 +257,47 @@ class EvaluatePerformance():
         for cat, time in activity_time.items():
           totalTime += time[0]
           adTime += time[1]
+      print(website)
       dbprint(website + " " + str(adTime / totalTime))
       ratio.append(float(adTime)/float(totalTime))
     dbprint("total ratio:" + str(sum(ratio)/len(ratio)))
 
-  def calculateAdPerformanceByDomain(self):
+  def calculateAdPerformanceByCategory(self, ad_only = False):
+    if ad_only:
+      perfEvents = self.prune_sites_with_no_ad()
+    else:
+      perfEvents = self.perfEvents
+    websitesStat = {} # {website: {cat:avg_time_among_runs}}
+    totalStat = {} # {cat:time}
+    number_of_websites = len(perfEvents)
+    for website, runs in perfEvents.items():
+      websitesStat[website] = {}
+      for cat in runs[0]['activity_time'].keys():
+        websitesStat[website][cat] = [0,0]
+        for run in runs:
+          websitesStat[website][cat][0] += run['activity_time'][cat][0]
+          websitesStat[website][cat][1] += run['activity_time'][cat][1]
+        websitesStat[website][cat][0] /= float(len(runs))
+        websitesStat[website][cat][1] /= float(len(runs))
+        if not cat in totalStat.keys():
+          totalStat[cat] = websitesStat[website][cat]
+        else:
+          totalStat[cat][0] += websitesStat[website][cat][0]
+          totalStat[cat][1] += websitesStat[website][cat][1]
+    for cat, time in totalStat.items():
+      totalStat[cat][0] /= number_of_websites
+      totalStat[cat][1] /= number_of_websites
+
+    print(json.dumps(sorted(totalStat.items(), key=lambda x: x[1], reverse=True), indent=4))
+
+  def calculateAdPerformanceByDomain(self, ad_only = False):
+    if ad_only:
+      perfEvents = self.prune_sites_with_no_ad()
+    else:
+      perfEvents = self.perfEvents
     websitesStat = {} # {website:[[adTime_1st_run,totalTime_1st_run], [adTime_1st_run,totalTime_1st_run], ....]}
     domainsStat = {}  # {domain:{website:[[domainTime_1st_run, adTime_1st_run, totalTime_1st_run], [domainTime_2nd_run, adTime_2nd_run, totalTime_2nd_run],...]}}
-    for website, runs in self.perfEvents.items():
+    for website, runs in perfEvents.items():
       websitesStat[website] = []
       for run in runs:
         activity_time = run['activity_time']
@@ -333,16 +385,20 @@ class EvaluatePerformance():
           pass
     return
 
-  def validate(self, perfEvent):
+  def validate(self, perfEvent, website):
     validate = True
     zero_cat = 0
     adTime = 0
     for _, cat in perfEvent['activity_time'].items():
-      if int(cat[0]) <= 0:
-        zero_cat += 1  # if any of the cat activity time is zero or negatvie (e.g. error in parsing)
-      adTime = adTime + int(cat[1])
-    if adTime <= 0:
-      validate = False  # if there is no ad time (aggregated among cat) or negative total ad time (e.g. error in parsing)
-    if zero_cat > 2:
+      if int(cat[0]) < 0: # if any of the cat activity time is negatvie (e.g. error in parsing) 
+        validate = False
+        dbprint("Invalid trace file due to negative value of time in activities for " + website)	
+      if int(cat[0]) == 0:
+        zero_cat += 1   
+      if int(cat[1]) < 0:
+        validate = False  # if any of the ad activity time is negative (e.g. error in parsing)
+        dbprint("Invalid trace file due to to negative value of time in activities " + website)
+    if zero_cat > 3: # if four or more major activities are missing 
       validate = False
+      dbprint("Invalid trace file due to absence of multiple major activities for " + website)
     return validate

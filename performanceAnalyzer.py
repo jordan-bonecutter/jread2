@@ -7,6 +7,7 @@ import filehelper
 import os
 from dbprint import dbprint
 from EvaluatePerformance import EvaluatePerformance
+from treehelper import get_url
 
 def parsePerformanceTraces(perf, trace_dir, zbrowse_filename): 
   zbrowse_file = open(zbrowse_filename)
@@ -22,6 +23,7 @@ def parsePerformanceTraces(perf, trace_dir, zbrowse_filename):
           if node["ad"] != "no":
             ad_urls.append(url)
       try:
+        domain = get_url(domain)
         trace_path = os.path.join(trace_dir, domain + "_" +str(l+1))
         trace_file = open(trace_path, 'r+')
         trace_data = json.load(trace_file, object_pairs_hook=OrderedDict)
@@ -31,7 +33,7 @@ def parsePerformanceTraces(perf, trace_dir, zbrowse_filename):
           trace_file.seek(0)
           trace_data = json.load(trace_file, object_pairs_hook=OrderedDict)
         except:
-          dbprintf("ERROR encoding json file. Added extra ""]"" to the end of file")
+          dbprint("ERROR encoding json file. Added extra ""]"" to the end of file")
           continue
       except:
         dbprint("WARNING: cannot open file " + domain + "_" + str(l+1) + ". skip this file!")
@@ -46,11 +48,12 @@ def parsePerformanceTraces(perf, trace_dir, zbrowse_filename):
 
 def test():
   perf = EvaluatePerformance()
-  parsePerformanceTraces(perf, './trace', './res/crawl.json')
-  perf.print_perfEvents('perf.log')
-  #perf.read_perfEvents_from_file('perf.log')
-  perf.calculateAdPerformance()  
-  perf.calculateAdPerformanceByDomain()
+  #parsePerformanceTraces(perf, './trace_top200', './res/crawl_top200.json')
+  #perf.print_perfEvents('perf_top200.log')
+  perf.read_perfEvents_from_file('perf_top200.log')
+  perf.calculateAdPerformance(True)  
+  perf.calculateAdPerformanceByDomain(True)
+  perf.calculateAdPerformanceByCategory(True)
 
 if __name__ == "__main__" :
   test()
