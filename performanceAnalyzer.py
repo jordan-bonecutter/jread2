@@ -48,12 +48,12 @@ def parsePerformanceTraces(perf, trace_dir, zbrowse_filename):
 
 def test():
   perf = EvaluatePerformance()
-  parsePerformanceTraces(perf, './trace_news_1level', './res/crawl_news_1level.json')
-  perf.print_perfEvents('perf_news_1level.log')
-  #perf.read_perfEvents_from_file('perf_news.log')
-  perf.calculateAdPerformance(False)  
-  perf.calculateAdPerformanceByDomain(False)
-  perf.calculateAdPerformanceByCategory(False)
+  #parsePerformanceTraces(perf, './trace_top200', './res/crawl_top200.json')
+  #perf.print_perfEvents('perf_top200.log')
+  perf.read_perfEvents_from_file('perf.log')
+  perf.calculateAdPerformance(True)  
+  perf.calculateAdPerformanceByDomain(True)
+  perf.calculateAdPerformanceByCategory(True)
 
 if __name__ == "__main__" :
   test()

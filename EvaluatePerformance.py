@@ -248,7 +248,8 @@ class EvaluatePerformance():
       perfEvents = self.prune_sites_with_no_ad()
     else:
       perfEvents = self.perfEvents
-    ratio = []
+    ratioList = []
+    siteStat = {}
     for website, runs in perfEvents.items():
       totalTime = 0
       adTime = 0
@@ -258,9 +259,12 @@ class EvaluatePerformance():
           totalTime += time[0]
           adTime += time[1]
       print(website)
-      dbprint(website + " " + str(adTime / totalTime))
-      ratio.append(float(adTime)/float(totalTime))
-    dbprint("total ratio:" + str(sum(ratio)/len(ratio)))
+      ratio = float(adTime)/float(totalTime)
+      dbprint(website + " " + str(ratio))
+      siteStat[website] = {'total':totalTime, 'ad':adTime, 'ratio':ratio}
+      ratioList.append(ratio)
+    dbprint("total ratio:" + str(sum(ratioList)/len(ratioList)))
+    filehelper.json_save(siteStat, 'site_stat.json')
 
   def calculateAdPerformanceByCategory(self, ad_only = False):
     if ad_only:
