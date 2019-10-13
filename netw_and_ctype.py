@@ -4,7 +4,7 @@
 #
 
 from nodetype import nodetype
-
+import filehelper
 def get_netw_time(crawl) -> dict:
   # return dictionary
   ret = {}
@@ -67,8 +67,9 @@ def main(argv) -> int:
   with open(argv[1], 'r') as fi:
     crawl = json.load(fi) 
   
-  pprint(get_netw_time(crawl))
-  pprint(get_num_ctypes(crawl))
+  filehelper.json_save(get_netw_time(crawl), 'site_network.json')  
+  filehelper.json_save(get_num_ctypes(crawl), 'contentType_number.json')
+
   return 0
 
 if __name__ == '__main__':
