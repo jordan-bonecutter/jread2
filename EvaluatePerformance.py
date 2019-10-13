@@ -293,6 +293,7 @@ class EvaluatePerformance():
       totalStat[cat][1] /= number_of_websites
 
     print(json.dumps(sorted(totalStat.items(), key=lambda x: x[1], reverse=True), indent=4))
+    filehelper.json_save(totalStat, 'cat_stat.json')
 
   def calculateAdPerformanceByDomain(self, ad_only = False):
     if ad_only:
@@ -345,6 +346,8 @@ class EvaluatePerformance():
       domainsReport[domain] = {'number_of_websites':number_of_websites, 'average_per_site_ratio':average_per_site_ratio, 'average_per_site_ad_ratio':average_per_site_ad_ratio, 'ratio_to_all':ratio_to_all, 'ratio_to_ads':ratio_to_ads}
     print(json.dumps(sorted(domainsReport.items(), key=lambda x: x[1]['ratio_to_ads'], reverse=True), indent=4))
     print( "Ad ratio:" , sum([val['ratio_to_all'] for key, val in domainsReport.items()]))
+    filehelper.json_save(domainsReport, 'domain_stat.json')
+
     
 
   def parse_trace(self, trace, time, B_trace_stack, url, ad_urls, perfEvent):
