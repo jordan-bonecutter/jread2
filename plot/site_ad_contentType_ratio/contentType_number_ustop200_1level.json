@@ -1,0 +1,67 @@
+{
+  "HTML": {
+    "total": 957.6666666666663,
+    "ad": 107.0,
+    "ad_plus_inherited": 164.5
+  },
+  "Image": {
+    "total": 8059.999999999973,
+    "ad": 845.8333333333328,
+    "ad_plus_inherited": 966.6666666666662
+  },
+  "Script": {
+    "total": 10314.16666666661,
+    "ad": 790.3333333333333,
+    "ad_plus_inherited": 879.1666666666664
+  },
+  "Font": {
+    "total": 536.0,
+    "ad": 0.0,
+    "ad_plus_inherited": 10.5
+  },
+  "Stylesheet": {
+    "total": 1379.5000000000011,
+    "ad": 13.5,
+    "ad_plus_inherited": 15.5
+  },
+  "Document": {
+    "total": 248.16666666666669,
+    "ad": 8.0,
+    "ad_plus_inherited": 17.0
+  },
+  "unknown": {
+    "total": 407.0000000000001,
+    "ad": 21.833333333333336,
+    "ad_plus_inherited": 70.33333333333333
+  },
+  "XHR": {
+    "total": 967.1666666666672,
+    "ad": 29.5,
+    "ad_plus_inherited": 29.5
+  },
+  "XML": {
+    "total": 12.0,
+    "ad": 0.0,
+    "ad_plus_inherited": 0.0
+  },
+  "Other": {
+    "total": 269.5000000000001,
+    "ad": 17.5,
+    "ad_plus_inherited": 17.5
+  },
+  "Fetch": {
+    "total": 112.0,
+    "ad": 27.0,
+    "ad_plus_inherited": 27.0
+  },
+  "Media": {
+    "total": 45.0,
+    "ad": 0.0,
+    "ad_plus_inherited": 0.0
+  },
+  "TextTrack": {
+    "total": 5.5,
+    "ad": 0.0,
+    "ad_plus_inherited": 0.0
+  }
+}

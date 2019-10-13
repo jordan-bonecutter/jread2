@@ -1,0 +1,2774 @@
+{
+  "https://www.reddit.com/r/aww/": {
+    "total_time": 34.928000000014435,
+    "ad_time": 1.2243439999971695,
+    "ad_plus_inherited": 1.2243439999971695,
+    "ad_ratio": 0.035053366926152754,
+    "ad_plus_inherited_ratio": 0.035053366926152754
+  },
+  "https://itunes.apple.com/US/app/apple-store/id459182288?pt=9008&ct=Web%20Side%20Promotion&mt=8&l=en-US": {
+    "total_time": 22.09165599999446,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.cnn.com/health": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.nytimes.com/es/": {
+    "total_time": 49.61578350001946,
+    "ad_time": 5.67383750002773,
+    "ad_plus_inherited": 6.269211000035284,
+    "ad_ratio": 0.11435549536420209,
+    "ad_plus_inherited_ratio": 0.12635517486149997
+  },
+  "https://www.theguardian.com/inpictures": {
+    "total_time": 35.16978999997809,
+    "ad_time": 4.721857499942416,
+    "ad_plus_inherited": 4.721857499942416,
+    "ad_ratio": 0.13425890515540062,
+    "ad_plus_inherited_ratio": 0.13425890515540062
+  },
+  "https://www.shutterstock.com/video": {
+    "total_time": 46.89879200007999,
+    "ad_time": 0.40199899999424815,
+    "ad_plus_inherited": 0.40199899999424815,
+    "ad_ratio": 0.00857162802814969,
+    "ad_plus_inherited_ratio": 0.00857162802814969
+  },
+  "https://www.indiatimes.com/technology/apps/": {
+    "total_time": 67.00015599990002,
+    "ad_time": 18.756954499964195,
+    "ad_plus_inherited": 19.528696999965177,
+    "ad_ratio": 0.279953892943058,
+    "ad_plus_inherited_ratio": 0.29147241089997344
+  },
+  "https://www.yahoo.com/news/u-drug-trial-opens-honduran-224515724.html": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.washingtonpost.com/terms-of-service/2011/11/18/gIQAldiYiN_story.html": {
+    "total_time": 8.924815500089608,
+    "ad_time": 0.8383219999959692,
+    "ad_plus_inherited": 0.8383219999959692,
+    "ad_ratio": 0.09393157763177874,
+    "ad_plus_inherited_ratio": 0.09393157763177874
+  },
+  "https://www.foxnews.com/category/world/terrorism": {
+    "total_time": 59.872370499928365,
+    "ad_time": 1.6919784999845433,
+    "ad_plus_inherited": 1.6919784999845433,
+    "ad_ratio": 0.028259754639021143,
+    "ad_plus_inherited_ratio": 0.028259754639021143
+  },
+  "https://www.forbes.com/billionaires/": {
+    "total_time": 121.78203050006414,
+    "ad_time": 10.632362499964074,
+    "ad_plus_inherited": 12.343550499987032,
+    "ad_ratio": 0.08730649715976344,
+    "ad_plus_inherited_ratio": 0.10135773274022172
+  },
+  "https://timesofindia.indiatimes.com/city/agartala": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.cnbc.com/pro/": {
+    "total_time": 76.546112999873,
+    "ad_time": 1.1805064999934984,
+    "ad_plus_inherited": 1.1805064999934984,
+    "ad_ratio": 0.01542216127937753,
+    "ad_plus_inherited_ratio": 0.01542216127937753
+  },
+  "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lcj-R8TAAAAABs3FrRPuQhLMbp5QrHsHufzLf7b&co=aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbTo0NDM.&hl=en&v=Zy-zVXWdnDW6AUZkKlojAKGe&theme=light&size=normal&cb=a0lierlvqt8w": {
+    "total_time": 0.7196225000079721,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.usatoday.com/humankind/": {
+    "total_time": 48.55043500025931,
+    "ad_time": 5.474845000004279,
+    "ad_plus_inherited": 6.194988000017474,
+    "ad_ratio": 0.11276613690433542,
+    "ad_plus_inherited_ratio": 0.12759902151205002
+  },
+  "https://www.wsj.com/livecoverage/campaign-wire-election-2020/card/1570076669?mod=article_inline": {
+    "total_time": 153.4546194999275,
+    "ad_time": 31.243104000022868,
+    "ad_plus_inherited": 34.260351000019,
+    "ad_ratio": 0.20359832829951155,
+    "ad_plus_inherited_ratio": 0.22326047343289776
+  },
+  "https://www.reuters.com/finance/markets": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://nypost.com/metro/": {
+    "total_time": 197.82276100000308,
+    "ad_time": 17.648800499962817,
+    "ad_plus_inherited": 26.949744999925315,
+    "ad_ratio": 0.08921521674627998,
+    "ad_plus_inherited_ratio": 0.13623177061978675
+  },
+  "https://www.cnet.com/news/mysterious-fireball-that-crashed-and-burned-wasnt-a-meteor/": {
+    "total_time": 87.88762900003348,
+    "ad_time": 17.80336500002886,
+    "ad_plus_inherited": 24.078920000014477,
+    "ad_ratio": 0.20256963582465148,
+    "ad_plus_inherited_ratio": 0.2739739400639116
+  },
+  "https://www.chron.com/newsletters/": {
+    "total_time": 14.111051499974565,
+    "ad_time": 0.18829299999924842,
+    "ad_plus_inherited": 0.18829299999924842,
+    "ad_ratio": 0.013343654794229035,
+    "ad_plus_inherited_ratio": 0.013343654794229035
+  },
+  "http://subscription.chinadaily.com.cn/": {
+    "total_time": 23.72245250007836,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.nbcnews.com/world": {
+    "total_time": 34.615873999842734,
+    "ad_time": 1.4241090000141412,
+    "ad_plus_inherited": 1.4241090000141412,
+    "ad_ratio": 0.041140345034206306,
+    "ad_plus_inherited_ratio": 0.041140345034206306
+  },
+  "https://www.wunderground.com/member/membersettings.html?page=favorites": {
+    "total_time": 5.022806000037235,
+    "ad_time": 0.059048999995866325,
+    "ad_plus_inherited": 0.059048999995866325,
+    "ad_ratio": 0.01175617772126349,
+    "ad_plus_inherited_ratio": 0.01175617772126349
+  },
+  "https://www.dw.com/ha/batutuwa/s-11603": {
+    "total_time": 109.72562449997349,
+    "ad_time": 1.1747899999754736,
+    "ad_plus_inherited": 1.1747899999754736,
+    "ad_ratio": 0.010706614843424814,
+    "ad_plus_inherited_ratio": 0.010706614843424814
+  },
+  "https://www.thehindu.com/opinion/cartoon/": {
+    "total_time": 83.70465350007726,
+    "ad_time": 9.370611499958613,
+    "ad_plus_inherited": 9.372394499958318,
+    "ad_ratio": 0.11194851311283387,
+    "ad_plus_inherited_ratio": 0.11196981419855788
+  },
+  "https://www.sfgate.com/staff/": {
+    "total_time": 97.41206399977091,
+    "ad_time": 15.199497999885352,
+    "ad_plus_inherited": 16.70942899986403,
+    "ad_ratio": 0.15603301455475882,
+    "ad_plus_inherited_ratio": 0.1715334663261352
+  },
+  "https://thehill.com/blogs/floor-action": {
+    "total_time": 69.9639224999919,
+    "ad_time": 9.906767000051332,
+    "ad_plus_inherited": 10.447921000042697,
+    "ad_ratio": 0.1415982215698738,
+    "ad_plus_inherited_ratio": 0.14933297943727938
+  },
+  "https://www.weather.gov/climate": {
+    "total_time": 0.379425999999512,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.news.com.au/travel/travel-updates/incidents/sydney-mum-calls-for-luna-park-to-remove-vile-racist-artwork/news-story/e03a3058c4a584511d3258c3ee653037": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://malayalam.indianexpress.com/": {
+    "total_time": 130.3174440000439,
+    "ad_time": 4.167434000002686,
+    "ad_plus_inherited": 9.524120000030962,
+    "ad_ratio": 0.03197909559982839,
+    "ad_plus_inherited_ratio": 0.07308399940707672
+  },
+  "https://www.thedailybeast.com/category/scouted": {
+    "total_time": 48.28980199995567,
+    "ad_time": 12.842481999919983,
+    "ad_plus_inherited": 16.582555999950273,
+    "ad_ratio": 0.26594604798611043,
+    "ad_plus_inherited_ratio": 0.34339664511288526
+  },
+  "https://time.com/section/history/": {
+    "total_time": 49.42202550009824,
+    "ad_time": 9.644948999964981,
+    "ad_plus_inherited": 10.389189999958035,
+    "ad_ratio": 0.19515487077610383,
+    "ad_plus_inherited_ratio": 0.21021376390041688
+  },
+  "https://www.latimes.com/lifestyle": {
+    "total_time": 40.95322050005052,
+    "ad_time": 5.608339499958674,
+    "ad_plus_inherited": 5.803517499967711,
+    "ad_ratio": 0.13694501754634306,
+    "ad_plus_inherited_ratio": 0.14171089426191896
+  },
+  "https://www.nrk.no/sognogfjordane/no-blir-det-eit-heftig-verskifte-i-noreg-1.14721643": {
+    "total_time": 30.825411000019812,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.hindustantimes.com/top-news/": {
+    "total_time": 84.27858500007278,
+    "ad_time": 7.691806000024371,
+    "ad_plus_inherited": 11.292160499979218,
+    "ad_ratio": 0.091266435002649,
+    "ad_plus_inherited_ratio": 0.13398611877465036
+  },
+  "https://www.theatlantic.com/photo/": {
+    "total_time": 29.99908749999304,
+    "ad_time": 4.156986499940103,
+    "ad_plus_inherited": 4.79095699993195,
+    "ad_ratio": 0.13857043151532752,
+    "ad_plus_inherited_ratio": 0.15970342431025816
+  },
+  "https://www.newsnow.co.uk/h/Technology": {
+    "total_time": 34.03735900015454,
+    "ad_time": 13.331067999984953,
+    "ad_plus_inherited": 16.87122899996757,
+    "ad_ratio": 0.3916598817177451,
+    "ad_plus_inherited_ratio": 0.49566798058248207
+  },
+  "https://hu.euronews.com/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.youtube.com/user/Variety": {
+    "total_time": 13.869580499980657,
+    "ad_time": 0.3882584999955725,
+    "ad_plus_inherited": 0.3882584999955725,
+    "ad_ratio": 0.02799352871531435,
+    "ad_plus_inherited_ratio": 0.02799352871531435
+  },
+  "https://www.hollywoodreporter.com/awards": {
+    "total_time": 73.03308200015454,
+    "ad_time": 14.820834000100149,
+    "ad_plus_inherited": 21.376970000113943,
+    "ad_ratio": 0.20293315842906354,
+    "ad_plus_inherited_ratio": 0.2927025590960095
+  },
+  "https://www.newsweek.com/vantage": {
+    "total_time": 17.301544999958423,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.livemint.com/Object/oY1eoxhTWFNTebOv7Pmg3M/mintcode.html": {
+    "total_time": 16.493400500017742,
+    "ad_time": 0.2696819999982836,
+    "ad_plus_inherited": 0.2696819999982836,
+    "ad_ratio": 0.01635090350216097,
+    "ad_plus_inherited_ratio": 0.01635090350216097
+  },
+  "https://www.nationalgeographic.com/history/magazine/2019/09-10/minotaur-in-greek-roman-mythology/": {
+    "total_time": 193.40483699983452,
+    "ad_time": 7.777183999991394,
+    "ad_plus_inherited": 7.777183999991394,
+    "ad_ratio": 0.04021194154517474,
+    "ad_plus_inherited_ratio": 0.04021194154517474
+  },
+  "https://www.irna.ir/service/politics/foreignpolicy": {
+    "total_time": 24.154508499981603,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://patch.com/maryland": {
+    "total_time": 37.499219000019366,
+    "ad_time": 1.5888185000003432,
+    "ad_plus_inherited": 1.5888185000003432,
+    "ad_ratio": 0.04236937574618615,
+    "ad_plus_inherited_ratio": 0.04236937574618615
+  },
+  "https://twitter.com/": {
+    "total_time": 1.3585349999921164,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://farsi.alarabiya.net/": {
+    "total_time": 52.98792750002758,
+    "ad_time": 2.8068255000107456,
+    "ad_plus_inherited": 2.8068255000107456,
+    "ad_ratio": 0.05297103760114574,
+    "ad_plus_inherited_ratio": 0.05297103760114574
+  },
+  "https://www.voanews.com/usa": {
+    "total_time": 20.982575000132783,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.smh.com.au/business/companies": {
+    "total_time": 53.72276249990682,
+    "ad_time": 4.206198499938182,
+    "ad_plus_inherited": 6.290659499958565,
+    "ad_ratio": 0.07829453111137905,
+    "ad_plus_inherited_ratio": 0.1170948627217276
+  },
+  "http://digitaledition.post-trib.chicagotribune.com/": {
+    "total_time": 156.47783600017283,
+    "ad_time": 8.627698500036786,
+    "ad_plus_inherited": 12.35766399998829,
+    "ad_ratio": 0.05513687254741468,
+    "ad_plus_inherited_ratio": 0.0789738937850255
+  },
+  "https://www.bankrate.com/mortgages/first-time-homebuyer-grants-and-programs/": {
+    "total_time": 89.26038600015454,
+    "ad_time": 3.9814559999795165,
+    "ad_plus_inherited": 3.9814559999795165,
+    "ad_ratio": 0.0446049605921783,
+    "ad_plus_inherited_ratio": 0.0446049605921783
+  },
+  "https://www.foxbusiness.com/category/government-spending": {
+    "total_time": 145.84438550013147,
+    "ad_time": 7.331503499990504,
+    "ad_plus_inherited": 8.180714999994962,
+    "ad_ratio": 0.050269357129170356,
+    "ad_plus_inherited_ratio": 0.05609208041805344
+  },
+  "https://www.business-standard.com/sports": {
+    "total_time": 43.69801450007799,
+    "ad_time": 13.829510000032315,
+    "ad_plus_inherited": 17.055270500015467,
+    "ad_ratio": 0.31647913888645063,
+    "ad_plus_inherited_ratio": 0.39029852260186854
+  },
+  "https://www.francetvpub-international.com/media/france-24/": {
+    "total_time": 13.485347499947238,
+    "ad_time": 1.2287244999970426,
+    "ad_plus_inherited": 1.2287244999970426,
+    "ad_ratio": 0.09111552371949258,
+    "ad_plus_inherited_ratio": 0.09111552371949258
+  },
+  "https://www.economist.com/graphic-detail/": {
+    "total_time": 75.53431650002312,
+    "ad_time": 6.322062000021106,
+    "ad_plus_inherited": 6.322062000021106,
+    "ad_ratio": 0.0836978779045306,
+    "ad_plus_inherited_ratio": 0.0836978779045306
+  },
+  "https://www.ctvnews.ca/canada": {
+    "total_time": 94.67056500009494,
+    "ad_time": 10.761799999963841,
+    "ad_plus_inherited": 10.761799999963841,
+    "ad_ratio": 0.11367630477279869,
+    "ad_plus_inherited_ratio": 0.11367630477279869
+  },
+  "https://www.washingtonexaminer.com/author/david-freddoso": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://theconversation.com/profiles/bradley-hansen-840689": {
+    "total_time": 8.740290500012634,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.aljazeera.com/programmes/faultlines/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.nj.com/news/": {
+    "total_time": 61.29056449991185,
+    "ad_time": 11.54987800001254,
+    "ad_plus_inherited": 17.39577349997853,
+    "ad_ratio": 0.18844463408440545,
+    "ad_plus_inherited_ratio": 0.2838246578721518
+  },
+  "https://dailycallermerchandise.com/": {
+    "total_time": 42.98233350001101,
+    "ad_time": 0.3649920000025304,
+    "ad_plus_inherited": 0.3649920000025304,
+    "ad_ratio": 0.00849167484130281,
+    "ad_plus_inherited_ratio": 0.00849167484130281
+  },
+  "https://www.zougla.gr/livecamera/article/zontana-i-kinisi-sto-17o-xiliometro-a8inon-lamias": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.rd.com/advice/saving-money/": {
+    "total_time": 186.28667699996004,
+    "ad_time": 8.49171349999233,
+    "ad_plus_inherited": 10.20137099999556,
+    "ad_ratio": 0.0455841160342033,
+    "ad_plus_inherited_ratio": 0.054761677884230815
+  },
+  "https://www.azcentral.com/weather/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.theglobeandmail.com/politics/": {
+    "total_time": 60.17911900009494,
+    "ad_time": 7.39441500006069,
+    "ad_plus_inherited": 9.870829000064987,
+    "ad_ratio": 0.12287343389073249,
+    "ad_plus_inherited_ratio": 0.1640241526309053
+  },
+  "https://www.financialexpress.com/market/commodities/petrol-diesel-prices-fall-today-for-first-time-in-a-month-as-brent-crude-oil-eases-worries/1725227/": {
+    "total_time": 96.4917019999557,
+    "ad_time": 22.793481999877258,
+    "ad_plus_inherited": 30.166839999874355,
+    "ad_ratio": 0.23622219867038644,
+    "ad_plus_inherited_ratio": 0.3126366244414282
+  },
+  "https://www.prnewswire.com/news-releases/automotive-transportation-latest-news/railroads-and-intermodal-transportation-list/": {
+    "total_time": 51.54601000000548,
+    "ad_time": 2.1035500000070897,
+    "ad_plus_inherited": 2.1035500000070897,
+    "ad_ratio": 0.040809172232862755,
+    "ad_plus_inherited_ratio": 0.040809172232862755
+  },
+  "https://www.thehindubusinessline.com/markets/todays-pick/": {
+    "total_time": 43.13848549996328,
+    "ad_time": 3.5661045000815648,
+    "ad_plus_inherited": 5.091847000083362,
+    "ad_ratio": 0.08266642787180371,
+    "ad_plus_inherited_ratio": 0.1180349041249419
+  },
+  "https://www.mobfox.com/privacy-policy/": {
+    "total_time": 49.35933099999238,
+    "ad_time": 0.2565580000082264,
+    "ad_plus_inherited": 0.2565580000082264,
+    "ad_ratio": 0.0051977608855408915,
+    "ad_plus_inherited_ratio": 0.0051977608855408915
+  },
+  "https://money.cnn.com/data/markets/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.theage.com.au/world/south-america": {
+    "total_time": 67.54052799994679,
+    "ad_time": 7.52201649993367,
+    "ad_plus_inherited": 10.033856999958516,
+    "ad_ratio": 0.11137041303466855,
+    "ad_plus_inherited_ratio": 0.148560535386493
+  },
+  "https://www.metoffice.gov.uk/services/research-consulting/access-a-meteorologist": {
+    "total_time": 17.5084125000285,
+    "ad_time": 1.9110950000103912,
+    "ad_plus_inherited": 1.9110950000103912,
+    "ad_ratio": 0.10915295718599734,
+    "ad_plus_inherited_ratio": 0.10915295718599734
+  },
+  "https://www.newsmax.com/politics/adam-schiff-whistleblower-complaint-house/2019/10/02/id/935348/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://fortune.com/author/tommy-g-thompson/": {
+    "total_time": 29.132120499991288,
+    "ad_time": 6.262048000069626,
+    "ad_plus_inherited": 6.7147905000674655,
+    "ad_ratio": 0.21495338796472088,
+    "ad_plus_inherited_ratio": 0.23049439535544533
+  },
+  "https://www.thestar.com/news/federal-election.html": {
+    "total_time": 125.54632600003242,
+    "ad_time": 10.02437049994478,
+    "ad_plus_inherited": 11.240272499955609,
+    "ad_ratio": 0.07984598848350362,
+    "ad_plus_inherited_ratio": 0.08953087563830985
+  },
+  "https://www.thenews.com.pk/print/535632-british-royal-couple-excited-to-visit-beautiful-pakistan": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://itunes.apple.com/us/app/ap-news/id364677107?mt=8": {
+    "total_time": 12.45927199999278,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.theroot.com/search": {
+    "total_time": 49.406927999945765,
+    "ad_time": 3.3667200000490993,
+    "ad_plus_inherited": 3.3667200000490993,
+    "ad_ratio": 0.06814267019501384,
+    "ad_plus_inherited_ratio": 0.06814267019501384
+  },
+  "https://www.seattletimes.com/seattle-news/politics/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.ajc.com/weather/": {
+    "total_time": 273.56061100016814,
+    "ad_time": 12.271070999995572,
+    "ad_plus_inherited": 13.773833999992348,
+    "ad_ratio": 0.04485686354892675,
+    "ad_plus_inherited_ratio": 0.0503502092265172
+  },
+  "https://voat.co/v/AskVoat": {
+    "total_time": 2.2506924999906914,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.deccanchronicle.com/south/karnataka": {
+    "total_time": 83.99135400020168,
+    "ad_time": 15.069828000137932,
+    "ad_plus_inherited": 36.94029600001522,
+    "ad_ratio": 0.1794211818528577,
+    "ad_plus_inherited_ratio": 0.4398106976573627
+  },
+  "https://www.oregonlive.com/silicon-forest/": {
+    "total_time": 70.78783100005239,
+    "ad_time": 10.672967999998946,
+    "ad_plus_inherited": 19.763256999998703,
+    "ad_ratio": 0.15077405041540326,
+    "ad_plus_inherited_ratio": 0.2791900347954449
+  },
+  "https://www.washingtontimes.com/news/inside-the-beltway/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://ogn.theonion.com/": {
+    "total_time": 69.05183799987572,
+    "ad_time": 6.251157500002591,
+    "ad_plus_inherited": 6.607581500000379,
+    "ad_ratio": 0.09052847369557118,
+    "ad_plus_inherited_ratio": 0.09569016106439153
+  },
+  "https://us.blastingnews.com/": {
+    "total_time": 16.407117000046128,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.youtube.com/user/STLPostDispatch": {
+    "total_time": 11.226301499998954,
+    "ad_time": 0.2770319999981439,
+    "ad_plus_inherited": 0.2770319999981439,
+    "ad_ratio": 0.02467704969425324,
+    "ad_plus_inherited_ratio": 0.02467704969425324
+  },
+  "http://www.relxgroup.com/Pages/Home.aspx": {
+    "total_time": 15.961798499993165,
+    "ad_time": 0.3032329999987269,
+    "ad_plus_inherited": 0.3032329999987269,
+    "ad_ratio": 0.018997420622673362,
+    "ad_plus_inherited_ratio": 0.018997420622673362
+  },
+  "https://www.dallasnews.com/news": {
+    "total_time": 93.05041699994763,
+    "ad_time": 10.786076499971387,
+    "ad_plus_inherited": 10.786076499971387,
+    "ad_ratio": 0.11591647676310206,
+    "ad_plus_inherited_ratio": 0.11591647676310206
+  },
+  "https://www.al.com/beaches": {
+    "total_time": 97.44100849987444,
+    "ad_time": 9.571293000073638,
+    "ad_plus_inherited": 11.116654500052391,
+    "ad_ratio": 0.09822653877895743,
+    "ad_plus_inherited_ratio": 0.11408599593944797
+  },
+  "https://www.usatoday.com/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.theweek.com/articles/868934/why-little-most-brutal-insult-trump-imagine": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.huffingtonpost.jp/?country=JP": {
+    "total_time": 82.4698835000454,
+    "ad_time": 8.57544799997413,
+    "ad_plus_inherited": 8.57544799997413,
+    "ad_ratio": 0.10398278299943772,
+    "ad_plus_inherited_ratio": 0.10398278299943772
+  },
+  "https://nationalpost.com/category/news/politics": {
+    "total_time": 195.0550320000184,
+    "ad_time": 33.34505199993146,
+    "ad_plus_inherited": 39.794579999972484,
+    "ad_ratio": 0.17095202137583568,
+    "ad_plus_inherited_ratio": 0.20401719244017621
+  },
+  "https://www.fark.com/farq/": {
+    "total_time": 21.26019550008641,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.adweek.com/event-calendar/": {
+    "total_time": 24.02109250000649,
+    "ad_time": 2.0193304999775137,
+    "ad_plus_inherited": 2.0193304999775137,
+    "ad_ratio": 0.0840648900534798,
+    "ad_plus_inherited_ratio": 0.0840648900534798
+  },
+  "https://www.rappler.com/video": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.nola.com/news/politics/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.theaustralian.com.au/federal-election-2019": {
+    "total_time": 55.223056999908295,
+    "ad_time": 4.393439999956172,
+    "ad_plus_inherited": 4.921321999965585,
+    "ad_ratio": 0.0795580729977239,
+    "ad_plus_inherited_ratio": 0.08911715988438955
+  },
+  "https://www.cbc.ca/radio/asithappens/thieves-on-the-lam-with-bull-penis-dog-treats-says-st-john-s-pet-store-owner-1.5304595": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.sfchronicle.com/local/crime/": {
+    "total_time": 55.74457449987676,
+    "ad_time": 5.180219999943802,
+    "ad_plus_inherited": 5.180219999943802,
+    "ad_ratio": 0.0929277879761241,
+    "ad_plus_inherited_ratio": 0.0929277879761241
+  },
+  "http://thecannabist.co/": {
+    "total_time": 33.078122500017344,
+    "ad_time": 1.3987530000013066,
+    "ad_plus_inherited": 1.3987530000013066,
+    "ad_ratio": 0.042286348023548595,
+    "ad_plus_inherited_ratio": 0.042286348023548595
+  },
+  "http://epaper.tribuneindia.com/": {
+    "total_time": 13.76593600011256,
+    "ad_time": 2.9319180000165943,
+    "ad_plus_inherited": 3.6540550000354415,
+    "ad_ratio": 0.21298355593056809,
+    "ad_plus_inherited_ratio": 0.26544181231160474
+  },
+  "https://myaccount2.baltimoresun.com/SecurePage/VacationSummary.aspx": {
+    "total_time": 40.15480399997614,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://feeds.inquisitr.com/google/yDYq": {
+    "total_time": 26.313370999967447,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.thebetterindia.com/198485/ifs-hero-kps-menon-india-foreign-policy-history-inspirational-india/": {
+    "total_time": 88.54807799986156,
+    "ad_time": 0.3603249999941909,
+    "ad_plus_inherited": 0.3603249999941909,
+    "ad_ratio": 0.004069258284688621,
+    "ad_plus_inherited_ratio": 0.004069258284688621
+  },
+  "https://www.foreca.com/United_States/New_York/New_York_City?lang=ar&units=us&tf=12h": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.afr.com/companies/tourism": {
+    "total_time": 62.0272559998848,
+    "ad_time": 6.867325499995786,
+    "ad_plus_inherited": 11.100136499990185,
+    "ad_ratio": 0.11071464293065843,
+    "ad_plus_inherited_ratio": 0.17895578840390425
+  },
+  "https://help.detroitnews.com/": {
+    "total_time": 11.893245499944896,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.heraldsun.com.au/news/world": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.upi.com/Top_News/World-News/?nav=tn_wn": {
+    "total_time": 224.16246800022782,
+    "ad_time": 31.131731000219588,
+    "ad_plus_inherited": 31.131731000219588,
+    "ad_ratio": 0.1388802116516131,
+    "ad_plus_inherited_ratio": 0.1388802116516131
+  },
+  "https://www.telegraphindia.com/world": {
+    "total_time": 88.48575199989136,
+    "ad_time": 9.094155000013416,
+    "ad_plus_inherited": 15.87633100002131,
+    "ad_ratio": 0.10277535981187774,
+    "ad_plus_inherited_ratio": 0.1794224566237602
+  },
+  "https://www.sun-sentinel.com/news/nationworld/": {
+    "total_time": 137.63236399978632,
+    "ad_time": 25.625640999831376,
+    "ad_plus_inherited": 27.546398999824305,
+    "ad_ratio": 0.18618906378641553,
+    "ad_plus_inherited_ratio": 0.20014477844663825
+  },
+  "https://www.newsday.com/long-island/towns": {
+    "total_time": 49.293989499994495,
+    "ad_time": 9.241420499914966,
+    "ad_plus_inherited": 9.432514499916579,
+    "ad_ratio": 0.1874756049095194,
+    "ad_plus_inherited_ratio": 0.1913522235792587
+  },
+  "https://www.afp.com/fr/infos/335/mondial-de-rugby-les-fidji-retrouvent-des-ailes-contre-la-georgie-doc-1l079h1": {
+    "total_time": 46.80226049994235,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.deccanherald.com/international": {
+    "total_time": 117.97711500001606,
+    "ad_time": 24.48032499999681,
+    "ad_plus_inherited": 27.493747000029543,
+    "ad_ratio": 0.2075006241676064,
+    "ad_plus_inherited_ratio": 0.23304305246001145
+  },
+  "https://www.dowjones.com/products/risk-compliance/riskcenter-kybp/": {
+    "total_time": 61.20232649989339,
+    "ad_time": 0.6849864999749116,
+    "ad_plus_inherited": 0.6849864999749116,
+    "ad_ratio": 0.01119216440205267,
+    "ad_plus_inherited_ratio": 0.01119216440205267
+  },
+  "https://www.fcc.gov/news-events/events": {
+    "total_time": 5.394428999941738,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.dailytelegraph.com.au/sport": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.mid-day.com/big-break": {
+    "total_time": 7.887908500008052,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.sltrib.com/news/2019/09/30/this-utah-woman-was/": {
+    "total_time": 43.24201500015624,
+    "ad_time": 5.591152000022703,
+    "ad_plus_inherited": 7.4547160000074655,
+    "ad_ratio": 0.12929906249749232,
+    "ad_plus_inherited_ratio": 0.17239520406208014
+  },
+  "https://www.commondreams.org/climate": {
+    "total_time": 51.32843949995731,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.mapbox.com/about/maps/": {
+    "total_time": 30.87855549993401,
+    "ad_time": 0.49445299999206327,
+    "ad_plus_inherited": 0.49445299999206327,
+    "ad_ratio": 0.016012828060986205,
+    "ad_plus_inherited_ratio": 0.016012828060986205
+  },
+  "https://wtop.com/living/travel/": {
+    "total_time": 48.79558749998978,
+    "ad_time": 3.63691999996081,
+    "ad_plus_inherited": 3.63691999996081,
+    "ad_ratio": 0.07453378853080869,
+    "ad_plus_inherited_ratio": 0.07453378853080869
+  },
+  "https://www.reviewjournal.com/media-index/": {
+    "total_time": 46.77498300010484,
+    "ad_time": 1.4101620000001276,
+    "ad_plus_inherited": 1.4101620000001276,
+    "ad_ratio": 0.03014778220222906,
+    "ad_plus_inherited_ratio": 0.03014778220222906
+  },
+  "https://www.orlandosentinel.com/health/breast-cancer-awareness/": {
+    "total_time": 88.76366749990848,
+    "ad_time": 19.937485000045854,
+    "ad_plus_inherited": 20.37966400005098,
+    "ad_ratio": 0.22461312788891255,
+    "ad_plus_inherited_ratio": 0.22959465932468362
+  },
+  "https://www.jsonline.com/news/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.smartbrief.com/industry/marketing-advertising/advertising": {
+    "total_time": 150.80948499999795,
+    "ad_time": 4.555998999923759,
+    "ad_plus_inherited": 5.928622499923222,
+    "ad_ratio": 0.030210294796271076,
+    "ad_plus_inherited_ratio": 0.039312000169772494
+  },
+  "https://parade.com/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://observer.com/international-politics/": {
+    "total_time": 93.34811899992928,
+    "ad_time": 6.915084000007482,
+    "ad_plus_inherited": 8.797485000031884,
+    "ad_ratio": 0.07407845036505471,
+    "ad_plus_inherited_ratio": 0.09424383795069881
+  },
+  "https://www.c-span.org/search/?searchtype=Videos&sort=Newest&personid[]=109304": {
+    "total_time": 11.173863999974856,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.siasat.com/featured-news/": {
+    "total_time": 18.89769049998722,
+    "ad_time": 4.218992500020249,
+    "ad_plus_inherited": 4.932925000030082,
+    "ad_ratio": 0.2232543971456778,
+    "ad_plus_inherited_ratio": 0.2610332199076611
+  },
+  "https://www.syracuse.com/east/": {
+    "total_time": 79.0229615001299,
+    "ad_time": 4.0800109999472625,
+    "ad_plus_inherited": 5.058031499953358,
+    "ad_ratio": 0.05163070229835104,
+    "ad_plus_inherited_ratio": 0.06400711140071666
+  },
+  "https://twitter.com/seattlepi": {
+    "total_time": 11.562868999928469,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.sandiegouniontribune.com/sponsored": {
+    "total_time": 24.663617000041995,
+    "ad_time": 5.620560500006832,
+    "ad_plus_inherited": 5.685923500008357,
+    "ad_ratio": 0.22788873586535427,
+    "ad_plus_inherited_ratio": 0.2305389148720026
+  },
+  "https://newrepublic.com/authors/osita-nwanevu": {
+    "total_time": 54.062185500028136,
+    "ad_time": 5.335382500023115,
+    "ad_plus_inherited": 8.31392200004484,
+    "ad_ratio": 0.09868973018155802,
+    "ad_plus_inherited_ratio": 0.15378442294088376
+  },
+  "https://wn.com/Aleppo": {
+    "total_time": 41.14807000005385,
+    "ad_time": 1.4504605000038282,
+    "ad_plus_inherited": 1.4504605000038282,
+    "ad_ratio": 0.0352497820675898,
+    "ad_plus_inherited_ratio": 0.0352497820675898
+  },
+  "https://buffalonews.com/section/gusto/movies/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://san-antonio-express-news.myshopify.com/": {
+    "total_time": 32.41106200001377,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.cision.com/us/client-login/": {
+    "total_time": 70.42062349987827,
+    "ad_time": 0.9755789999762783,
+    "ad_plus_inherited": 0.9755789999762783,
+    "ad_ratio": 0.013853597873611054,
+    "ad_plus_inherited_ratio": 0.013853597873611054
+  },
+  "http://local.indystar.com/": {
+    "total_time": 15.140027000044938,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://twitter.com/AlterNet": {
+    "total_time": 5.763234000005468,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.thestranger.com/events/weed": {
+    "total_time": 47.17355950012279,
+    "ad_time": 5.01569350004138,
+    "ad_plus_inherited": 5.01569350004138,
+    "ad_ratio": 0.10632425352656129,
+    "ad_plus_inherited_ratio": 0.10632425352656129
+  },
+  "https://www.couriermail.com.au/sport/afl": {
+    "total_time": 133.71941599994898,
+    "ad_time": 17.55960300003062,
+    "ad_plus_inherited": 29.283537999974214,
+    "ad_ratio": 0.13131677900864688,
+    "ad_plus_inherited_ratio": 0.218992416179752
+  },
+  "https://www.tennessean.com/thingstodo/": {
+    "total_time": 86.22538300001179,
+    "ad_time": 14.627712999950745,
+    "ad_plus_inherited": 18.061283499941055,
+    "ad_ratio": 0.16964509163094985,
+    "ad_plus_inherited_ratio": 0.20946597013014817
+  },
+  "https://www.militarytimes.com/home-hq": {
+    "total_time": 26.641496499876666,
+    "ad_time": 0.155386999991606,
+    "ad_plus_inherited": 0.155386999991606,
+    "ad_ratio": 0.005832517703813122,
+    "ad_plus_inherited_ratio": 0.005832517703813122
+  },
+  "https://www.law.com/mid-market-report/": {
+    "total_time": 47.31592199992156,
+    "ad_time": 8.150140999889118,
+    "ad_plus_inherited": 8.229147999896668,
+    "ad_ratio": 0.1722494385695925,
+    "ad_plus_inherited_ratio": 0.1739192147605263
+  },
+  "https://thewest.com.au/news/severe-weather/severe-weather-warning-issued-as-low-pressure-system-hits-wa-ng-b881342372z": {
+    "total_time": 38.62356499996531,
+    "ad_time": 2.5981005000139703,
+    "ad_plus_inherited": 3.3452745000104187,
+    "ad_ratio": 0.06726723698385438,
+    "ad_plus_inherited_ratio": 0.08661226637192665
+  },
+  "https://mumbaimirror.indiatimes.com/sport/olympics/articlelist/53551120.cms": {
+    "total_time": 113.7531539999909,
+    "ad_time": 6.613126999975066,
+    "ad_plus_inherited": 9.941344999955618,
+    "ad_ratio": 0.05813576826164833,
+    "ad_plus_inherited_ratio": 0.08739401634486911
+  },
+  "https://www.federalreserve.gov/faqs.htm": {
+    "total_time": 8.800859999981185,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.criticalmention.com/client-updates/": {
+    "total_time": 54.711347500022384,
+    "ad_time": 0.8735319999977946,
+    "ad_plus_inherited": 0.8735319999977946,
+    "ad_ratio": 0.01596619421587884,
+    "ad_plus_inherited_ratio": 0.01596619421587884
+  },
+  "https://www.westword.com/topic/restaurant-reviews-6206490": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://myaccount2.courant.com/login.aspx?ReturnUrl=%2fSecurePage%2fMissedPaper.aspx": {
+    "total_time": 24.19967000001634,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.weather.info/imprint": {
+    "total_time": 0.48648799999500625,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.worldweatheronline.com/hwd/default.aspx": {
+    "total_time": 2.9872030000115046,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.thestatesman.com/videogallery": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.freepressjournal.in/finance": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.dailyherald.com/digital-subscription/": {
+    "total_time": 7.676671500026714,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://photos.triblive.com/": {
+    "total_time": 19.743508999992628,
+    "ad_time": 1.7960760000059963,
+    "ad_plus_inherited": 2.1530580000107875,
+    "ad_ratio": 0.09097045515093932,
+    "ad_plus_inherited_ratio": 0.1090514355888607
+  },
+  "https://twitter.com/CopyrightOffice": {
+    "total_time": 10.08116199997312,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://www.adelaidenow.com.au/weather": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://plus.google.com/102078229880272799314": {
+    "total_time": 4.049910000016098,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.niemanreports.org/": {
+    "total_time": 18.75730199994723,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.mediamatters.org/fox-news/trumps-false-and-dangerous-coup-claim-comes-fox-news-and-conservative-talk-radio": {
+    "total_time": 12.942552999993495,
+    "ad_time": 0.6096969999925932,
+    "ad_plus_inherited": 0.6096969999925932,
+    "ad_ratio": 0.04710793921360798,
+    "ad_plus_inherited_ratio": 0.04710793921360798
+  },
+  "http://www.adn.com/section/alaska-news": {
+    "total_time": 59.891043000039645,
+    "ad_time": 8.518081000103848,
+    "ad_plus_inherited": 9.680400000084774,
+    "ad_ratio": 0.14222629250417645,
+    "ad_plus_inherited_ratio": 0.16163351838902465
+  },
+  "https://www.good.is/business": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.timesunion.com/closings/": {
+    "total_time": 45.86478799978795,
+    "ad_time": 10.437036999996053,
+    "ad_plus_inherited": 11.08096800003841,
+    "ad_ratio": 0.22756099951981262,
+    "ad_plus_inherited_ratio": 0.24160076789387191
+  },
+  "https://www.theice.com/insights/conversations/slice?utm_source=NYSE&utm_medium=Navigation&utm_campaign=Insights": {
+    "total_time": 105.56128400003945,
+    "ad_time": 0.17036750000261236,
+    "ad_plus_inherited": 0.17036750000261236,
+    "ad_ratio": 0.0016139203081552958,
+    "ad_plus_inherited_ratio": 0.0016139203081552958
+  },
+  "https://www.rollcall.com/campaigns": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.thedrum.com/jobs": {
+    "total_time": 78.58882299992547,
+    "ad_time": 5.173770999987028,
+    "ad_plus_inherited": 5.173770999987028,
+    "ad_ratio": 0.06583342010341514,
+    "ad_plus_inherited_ratio": 0.06583342010341514
+  },
+  "https://secure.macleans.ca/servlet/OrdersGateway?cds_mag_code=MME&cds_page_id=240201&cds_response_key=V91AARNG0": {
+    "total_time": 20.730302999967535,
+    "ad_time": 0.6512440000005881,
+    "ad_plus_inherited": 0.6512440000005881,
+    "ad_ratio": 0.031415073865616344,
+    "ad_plus_inherited_ratio": 0.031415073865616344
+  },
+  "https://www.newstracklive.com/sports-news/cricket-news/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.rferl.org/Multimedia": {
+    "total_time": 22.989767000042775,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://bookclub.stripes.com/": {
+    "total_time": 5.871951999972225,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://www.rasmussenreports.com/public_content/lifestyle/general_lifestyle/september_2019/most_in_america_like_its_diversity_and_live_it": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.northjersey.com/food/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.newswire.ca/news-releases/environment-latest-news/": {
+    "total_time": 42.848197500090464,
+    "ad_time": 0.2863095000066096,
+    "ad_plus_inherited": 0.2863095000066096,
+    "ad_ratio": 0.006681949690089183,
+    "ad_plus_inherited_ratio": 0.006681949690089183
+  },
+  "https://www.tveyes.com/create-daily-pr-reports/": {
+    "total_time": 39.79367000018101,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.mediabistro.com/freelance-connect/": {
+    "total_time": 59.33109850004985,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://gdpr.cision.com/": {
+    "total_time": 33.528006999986246,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.dailypioneer.com/columnists/opinion/page/1": {
+    "total_time": 141.9370710000003,
+    "ad_time": 5.74070650000067,
+    "ad_plus_inherited": 6.9519005000038305,
+    "ad_ratio": 0.040445434441863735,
+    "ad_plus_inherited_ratio": 0.04897875129467633
+  },
+  "https://www.poynter.org/register": {
+    "total_time": 76.61000649991911,
+    "ad_time": 3.0629730000000563,
+    "ad_plus_inherited": 3.0629730000000563,
+    "ad_ratio": 0.03998136979668956,
+    "ad_plus_inherited_ratio": 0.03998136979668956
+  },
+  "https://www.asianage.com/business": {
+    "total_time": 78.8085599999904,
+    "ad_time": 7.038952000031713,
+    "ad_plus_inherited": 10.858761000054074,
+    "ad_ratio": 0.08931709956421703,
+    "ad_plus_inherited_ratio": 0.13778656785576843
+  },
+  "https://www.csmonitor.com/World/Topics/Global-Voices": {
+    "total_time": 34.31769349996466,
+    "ad_time": 4.619173499995668,
+    "ad_plus_inherited": 5.0775939999875845,
+    "ad_ratio": 0.13460034835967122,
+    "ad_plus_inherited_ratio": 0.1479584867786296
+  },
+  "https://www.weather2umbrella.com/services/weather-pro/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://calgaryherald.com/category/opinion/editorials": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.pressdemocrat.com/sports/raiders?ref=nav": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.factcheck.org/issue/climate-change/": {
+    "total_time": 12.259724499992444,
+    "ad_time": 0.5569829999949434,
+    "ad_plus_inherited": 0.5569829999949434,
+    "ad_ratio": 0.0454319344611118,
+    "ad_plus_inherited_ratio": 0.0454319344611118
+  },
+  "https://www.staradvertiser.com//user-access/": {
+    "total_time": 31.341898500089883,
+    "ad_time": 5.879676000055042,
+    "ad_plus_inherited": 7.178006500056654,
+    "ad_ratio": 0.1875979529459002,
+    "ad_plus_inherited_ratio": 0.22902270901158298
+  },
+  "https://www.youtube.com/user/goodnewsnetwork": {
+    "total_time": 4.717603499942925,
+    "ad_time": 0.22480700000596698,
+    "ad_plus_inherited": 0.22480700000596698,
+    "ad_ratio": 0.047652796596553054,
+    "ad_plus_inherited_ratio": 0.047652796596553054
+  },
+  "https://cm.tallahassee.com/account-activation/": {
+    "total_time": 4.383977000041341,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.spokesman.com/ae/": {
+    "total_time": 27.36447199989925,
+    "ad_time": 3.7630280000012135,
+    "ad_plus_inherited": 4.707777000017813,
+    "ad_ratio": 0.13751509621728011,
+    "ad_plus_inherited_ratio": 0.17203975286039308
+  },
+  "https://www.project-syndicate.org/section/global-health-development": {
+    "total_time": 29.83535400006076,
+    "ad_time": 1.636826000016299,
+    "ad_plus_inherited": 1.636826000016299,
+    "ad_ratio": 0.0548619600763901,
+    "ad_plus_inherited_ratio": 0.0548619600763901
+  },
+  "https://www.lohud.com/news/westchester/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://edmontonjournal.com/category/news/crime": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.pilotonline.com/history/": {
+    "total_time": 155.19120900028793,
+    "ad_time": 39.66669499997806,
+    "ad_plus_inherited": 46.76534299997729,
+    "ad_ratio": 0.2555988528957492,
+    "ad_plus_inherited_ratio": 0.3013401551623361
+  },
+  "https://www.democratandchronicle.com/life/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.ctpost.com/careers/": {
+    "total_time": 40.34695100007957,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://lasvegassun.com/news/2019/oct/03/is-impeachment-imminent/": {
+    "total_time": 54.19438899992383,
+    "ad_time": 7.232035999899381,
+    "ad_plus_inherited": 7.232035999899381,
+    "ad_ratio": 0.1334462134061433,
+    "ad_plus_inherited_ratio": 0.1334462134061433
+  },
+  "https://www.commercialappeal.com/entertainment/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.wfp.org/countries/el-salvador": {
+    "total_time": 21.869867500026885,
+    "ad_time": 0.636538999970071,
+    "ad_plus_inherited": 0.636538999970071,
+    "ad_ratio": 0.029105754754540168,
+    "ad_plus_inherited_ratio": 0.029105754754540168
+  },
+  "https://www.rgj.com/story/news/2019/05/01/corrections-clarifications/3646535002/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.greaterkashmir.com/news/life-style/": {
+    "total_time": 37.363891499895544,
+    "ad_time": 6.798689500006731,
+    "ad_plus_inherited": 9.670260000006238,
+    "ad_ratio": 0.18195881711158854,
+    "ad_plus_inherited_ratio": 0.2588129772305241
+  },
+  "https://www.lucianne.com/members/43795/pageturner.html": {
+    "total_time": 19.084076000057394,
+    "ad_time": 4.723518000013428,
+    "ad_plus_inherited": 4.723518000013428,
+    "ad_ratio": 0.24751096149476778,
+    "ad_plus_inherited_ratio": 0.24751096149476778
+  },
+  "https://www.einpresswire.com/channel/movies": {
+    "total_time": 286.94220200009295,
+    "ad_time": 0.15664700001070742,
+    "ad_plus_inherited": 0.15664700001070742,
+    "ad_ratio": 0.0005459183031245319,
+    "ad_plus_inherited_ratio": 0.0005459183031245319
+  },
+  "https://www.orlandoweekly.com/orlando/LocationSearch?locationCategory=2282370&sortType=name": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.phoenixnewtimes.com/restaurants/guide?bars=true": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.heraldextra.com/news/community/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.timesfreepress.com/news/life/faith-and-religion/": {
+    "total_time": 40.78359500000806,
+    "ad_time": 5.6202570000095875,
+    "ad_plus_inherited": 7.147492500014778,
+    "ad_ratio": 0.13780680687929733,
+    "ad_plus_inherited_ratio": 0.17525410646151632
+  },
+  "https://www.weather-forecast.com/maps/Pennsylvania": {
+    "total_time": 19.21504749992164,
+    "ad_time": 1.364398000019719,
+    "ad_plus_inherited": 1.7010305000148946,
+    "ad_ratio": 0.07100674614649186,
+    "ad_plus_inherited_ratio": 0.08852595862809247
+  },
+  "https://www.spiked-online.com/topic/usa/": {
+    "total_time": 32.54318799999601,
+    "ad_time": 8.931656000000658,
+    "ad_plus_inherited": 10.21960499996203,
+    "ad_ratio": 0.2744554712956135,
+    "ad_plus_inherited_ratio": 0.3140320794620147
+  },
+  "https://www.duluthnewstribune.com/entertainment/": {
+    "total_time": 116.89846200001193,
+    "ad_time": 27.53954099987459,
+    "ad_plus_inherited": 27.53954099987459,
+    "ad_ratio": 0.23558514396769203,
+    "ad_plus_inherited_ratio": 0.23558514396769203
+  },
+  "https://travel.einnews.com/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.truthdig.com/?bucket=education": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.canberratimes.com.au/sport/top-sport-stories/": {
+    "total_time": 48.92937399975199,
+    "ad_time": 5.167394999953103,
+    "ad_plus_inherited": 8.67800200000056,
+    "ad_ratio": 0.105609260400088,
+    "ad_plus_inherited_ratio": 0.17735771563405955
+  },
+  "https://www.straight.com/confessions": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.providencejournal.com/allaccess": {
+    "total_time": 53.98694949995843,
+    "ad_time": 5.413133999987622,
+    "ad_plus_inherited": 5.413133999987622,
+    "ad_ratio": 0.1002674544519651,
+    "ad_plus_inherited_ratio": 0.1002674544519651
+  },
+  "https://www.arkansasonline.com/news/sports/highschool/": {
+    "total_time": 42.90583349997178,
+    "ad_time": 6.1446834999806015,
+    "ad_plus_inherited": 6.1446834999806015,
+    "ad_ratio": 0.1432132416209708,
+    "ad_plus_inherited_ratio": 0.1432132416209708
+  },
+  "https://hrstiservices.dticloud.com/hrst-est-cmdb1_cmo/subscriber/web/signin.html?siteId=CAD": {
+    "total_time": 14.122476500044286,
+    "ad_time": 0.1957330000004731,
+    "ad_plus_inherited": 0.1957330000004731,
+    "ad_ratio": 0.013859679639039182,
+    "ad_plus_inherited_ratio": 0.013859679639039182
+  },
+  "https://www.lmtonline.com/askus_sponsored/": {
+    "total_time": 46.18960650006193,
+    "ad_time": 7.8696244999955525,
+    "ad_plus_inherited": 10.454563999992388,
+    "ad_ratio": 0.1703765218260736,
+    "ad_plus_inherited_ratio": 0.22634018326132246
+  },
+  "https://myaccount2.mcall.com/SecurePage/VacationSummary.aspx": {
+    "total_time": 24.089411000037217,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.cjr.org/united_states_project": {
+    "total_time": 14.277853499967023,
+    "ad_time": 2.1718095000105677,
+    "ad_plus_inherited": 2.1718095000105677,
+    "ad_ratio": 0.15211036448970316,
+    "ad_plus_inherited_ratio": 0.15211036448970316
+  },
+  "https://www.weatheronline.co.uk/UK.htm": {
+    "total_time": 20.59583899989957,
+    "ad_time": 3.092975499916065,
+    "ad_plus_inherited": 3.8534274999183253,
+    "ad_ratio": 0.15017477559089226,
+    "ad_plus_inherited_ratio": 0.18709737922971312
+  },
+  "https://www.wickedlocal.com/section/cars": {
+    "total_time": 46.844179999832704,
+    "ad_time": 8.737826499942457,
+    "ad_plus_inherited": 11.059490499974345,
+    "ad_ratio": 0.18652960730604448,
+    "ad_plus_inherited_ratio": 0.2360910256090264
+  },
+  "https://www.sandiegoreader.com/place-pages/": {
+    "total_time": 34.56326549999358,
+    "ad_time": 8.250657000055071,
+    "ad_plus_inherited": 8.250657000055071,
+    "ad_ratio": 0.2387117328383397,
+    "ad_plus_inherited_ratio": 0.2387117328383397
+  },
+  "https://www.riverfronttimes.com/stlouis/FreeStuff": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://bangaloremirror.indiatimes.com/bangalore/section/20970772.cms": {
+    "total_time": 80.2007190001168,
+    "ad_time": 14.715503000028548,
+    "ad_plus_inherited": 19.707167000015033,
+    "ad_ratio": 0.18348342986809277,
+    "ad_plus_inherited_ratio": 0.24572307138526192
+  },
+  "https://www.postandcourier.com/hurricanewire/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.dallasobserver.com/topic/education-7019573": {
+    "total_time": 91.75921099998232,
+    "ad_time": 8.147309999971185,
+    "ad_plus_inherited": 8.147309999971185,
+    "ad_ratio": 0.08879010522412573,
+    "ad_plus_inherited_ratio": 0.08879010522412573
+  },
+  "https://www.saymedia.com/privacy": {
+    "total_time": 12.911399500000698,
+    "ad_time": 2.0514770000008866,
+    "ad_plus_inherited": 2.0514770000008866,
+    "ad_ratio": 0.15888881759105786,
+    "ad_plus_inherited_ratio": 0.15888881759105786
+  },
+  "https://www.frontpagemag.com/fpm/2019/10/glick-impeachment-investigation-against-trump-caroline-glick/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.grandforksherald.com/news/government-and-politics/": {
+    "total_time": 118.80313399975421,
+    "ad_time": 23.385706000000937,
+    "ad_plus_inherited": 24.870443000021623,
+    "ad_ratio": 0.1968441842624229,
+    "ad_plus_inherited_ratio": 0.20934164076911538
+  },
+  "https://www.floridatoday.com/news/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://enewspaper.dailypress.com/": {
+    "total_time": 91.36292799997318,
+    "ad_time": 8.647216500008653,
+    "ad_plus_inherited": 9.973290500041912,
+    "ad_ratio": 0.09464688456581856,
+    "ad_plus_inherited_ratio": 0.1091612398854472
+  },
+  "https://www.uexpress.com/dearabby/2019/10/3": {
+    "total_time": 56.610646999950404,
+    "ad_time": 5.347539000023971,
+    "ad_plus_inherited": 5.347539000023971,
+    "ad_ratio": 0.09446171848254369,
+    "ad_plus_inherited_ratio": 0.09446171848254369
+  },
+  "https://local.desertsun.com/": {
+    "total_time": 15.197952500151587,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.thehour.com/rss/": {
+    "total_time": 79.58172999996168,
+    "ad_time": 12.032746000069892,
+    "ad_plus_inherited": 12.032746000069892,
+    "ad_ratio": 0.1511998545404289,
+    "ad_plus_inherited_ratio": 0.1511998545404289
+  },
+  "https://investors.gannett.com/corporate-governance": {
+    "total_time": 22.282415000016044,
+    "ad_time": 0.05055949999950826,
+    "ad_plus_inherited": 0.05055949999950826,
+    "ad_ratio": 0.002269031431264154,
+    "ad_plus_inherited_ratio": 0.002269031431264154
+  },
+  "https://demotix.com/10-tips-to-make-perfect-waffles/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.winnipegfreepress.com/contact-us/": {
+    "total_time": 62.94765099986398,
+    "ad_time": 8.221690999969724,
+    "ad_plus_inherited": 8.638427999962005,
+    "ad_ratio": 0.1306115616607757,
+    "ad_plus_inherited_ratio": 0.13723193578709825
+  },
+  "https://www.austinchronicle.com/arts/reviews/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.chicagoreader.com/chicago/Syndication/Page": {
+    "total_time": 540.9154080002627,
+    "ad_time": 296.9408639999747,
+    "ad_plus_inherited": 296.9408639999747,
+    "ad_ratio": 0.5489598920795218,
+    "ad_plus_inherited_ratio": 0.5489598920795218
+  },
+  "https://www.pickyournewspaper.com/WORLD/Islamic/Islamic.html": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.allyoucanread.com/us-states-magazines/": {
+    "total_time": 372.6502174999623,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://theprovince.com/watch": {
+    "total_time": 104.09060249986214,
+    "ad_time": 7.1073065000382485,
+    "ad_plus_inherited": 7.1073065000382485,
+    "ad_ratio": 0.06828000155006944,
+    "ad_plus_inherited_ratio": 0.06828000155006944
+  },
+  "https://www.houstonpress.com/topic/sports-6362239": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://platform.twitter.com/widgets/widget_iframe.e3a0e1b01ae601b6c9cf798a93ab7e69.html?origin=https%3A%2F%2Fwww.creators.com": {
+    "total_time": 0.3513760000059847,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.thechronicleherald.ca/federal-election": {
+    "total_time": 427.3212130002794,
+    "ad_time": 26.423322499940696,
+    "ad_plus_inherited": 27.974145499894803,
+    "ad_ratio": 0.0618348017745691,
+    "ad_plus_inherited_ratio": 0.06546397569052233
+  },
+  "https://hosted.ap.org/aspentimes/tags/general-news": {
+    "total_time": 39.45452549993206,
+    "ad_time": 5.657770500001789,
+    "ad_plus_inherited": 12.034005999958026,
+    "ad_ratio": 0.14339978565986128,
+    "ad_plus_inherited_ratio": 0.3050095229247846
+  },
+  "https://www.unionleader.com/newsletters/": {
+    "total_time": 15.329014999995707,
+    "ad_time": 4.78924599995662,
+    "ad_plus_inherited": 4.78924599995662,
+    "ad_ratio": 0.3124301202626497,
+    "ad_plus_inherited_ratio": 0.3124301202626497
+  },
+  "https://www.sunnyskyz.com/good-news": {
+    "total_time": 40.51206600002479,
+    "ad_time": 3.6480389999924228,
+    "ad_plus_inherited": 5.29904399998486,
+    "ad_ratio": 0.09004820934064904,
+    "ad_plus_inherited_ratio": 0.13080162339737544
+  },
+  "https://sw.globalvoices.org/": {
+    "total_time": 45.449420999932045,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://gazette.com/subscribe/": {
+    "total_time": 11.904718500227318,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.newstimes.com/archives/": {
+    "total_time": 163.51126100021065,
+    "ad_time": 25.901974000094924,
+    "ad_plus_inherited": 50.34061800004565,
+    "ad_ratio": 0.1584109488340473,
+    "ad_plus_inherited_ratio": 0.3078724834736661
+  },
+  "https://www.ibj.com/topics/hendricks-county": {
+    "total_time": 42.77009100003488,
+    "ad_time": 3.7431740000320133,
+    "ad_plus_inherited": 3.7431740000320133,
+    "ad_ratio": 0.08751849510979438,
+    "ad_plus_inherited_ratio": 0.08751849510979438
+  },
+  "https://www.abqjournal.com/category/news/science": {
+    "total_time": 57.74150250007369,
+    "ad_time": 14.33832849997998,
+    "ad_plus_inherited": 15.908683000001474,
+    "ad_ratio": 0.24831928299686487,
+    "ad_plus_inherited_ratio": 0.2755155704509277
+  },
+  "https://www.governing.com/topics/politics/gov-2019-legislative-issues-to-watch.html": {
+    "total_time": 44.87367500005348,
+    "ad_time": 2.3459535000220058,
+    "ad_plus_inherited": 2.594456500017259,
+    "ad_ratio": 0.052279058936430096,
+    "ad_plus_inherited_ratio": 0.05781689375818153
+  },
+  "https://lancasteronline.com/sports/icehockey/": {
+    "total_time": 81.57274399984453,
+    "ad_time": 10.437593999973615,
+    "ad_plus_inherited": 10.715604499957408,
+    "ad_ratio": 0.12795443046507676,
+    "ad_plus_inherited_ratio": 0.13136256026863372
+  },
+  "https://www.delawareonline.com/memberguide/": {
+    "total_time": 33.07897850013251,
+    "ad_time": 0.9773980000172742,
+    "ad_plus_inherited": 0.9773980000172742,
+    "ad_ratio": 0.029547405764460317,
+    "ad_plus_inherited_ratio": 0.029547405764460317
+  },
+  "https://www.magnumphotos.com/magnum-education/": {
+    "total_time": 8.340769000024011,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://excelsiornews.com/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.broadcastingcable.com/news/booming-broadcaster-sees-growth-as-a-gray-area": {
+    "total_time": 48.65084799978649,
+    "ad_time": 7.4547489999677055,
+    "ad_plus_inherited": 7.8553949999623,
+    "ad_ratio": 0.15322957988317945,
+    "ad_plus_inherited_ratio": 0.16146470869319224
+  },
+  "http://www.crweworld.com/category/7/Career": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.crainsnewyork.com/features-0": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.villagevoice.com/2019/04/18/attorney-general-william-barr-is-the-best-reason-to-vote-for-clinton/": {
+    "total_time": 18.738301500045054,
+    "ad_time": 1.903089000028558,
+    "ad_plus_inherited": 1.903089000028558,
+    "ad_ratio": 0.10156144621880389,
+    "ad_plus_inherited_ratio": 0.10156144621880389
+  },
+  "https://www.metrotimes.com/detroit/our-readers-help-us-investigate-2019s-best-of-detroit/BestOf?oid=21494750": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.clarionledger.com/media/latest/news/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.opendemocracy.net/en/tagged/israel-palestine": {
+    "total_time": 43.667643999739084,
+    "ad_time": 0.11148599999432918,
+    "ad_plus_inherited": 0.11148599999432918,
+    "ad_ratio": 0.002553057361990844,
+    "ad_plus_inherited_ratio": 0.002553057361990844
+  },
+  "https://www.thedailymash.co.uk/news/environment": {
+    "total_time": 60.54204049973487,
+    "ad_time": 4.270880499941995,
+    "ad_plus_inherited": 4.270880499941995,
+    "ad_ratio": 0.07054404616508918,
+    "ad_plus_inherited_ratio": 0.07054404616508918
+  },
+  "https://www.passageweather.com/maps/hawaii/mappage.htm": {
+    "total_time": 32.52450049996696,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.vcstar.com/news/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.lehighvalleylive.com/entertainment/": {
+    "total_time": 54.52761350000219,
+    "ad_time": 10.430390499903297,
+    "ad_plus_inherited": 12.094476499922166,
+    "ad_ratio": 0.19128639290078003,
+    "ad_plus_inherited_ratio": 0.22180461831364912
+  },
+  "https://www.nhregister.com/pinterest": {
+    "total_time": 123.13480299996445,
+    "ad_time": 0.18803350000234786,
+    "ad_plus_inherited": 0.18803350000234786,
+    "ad_ratio": 0.0015270540531290909,
+    "ad_plus_inherited_ratio": 0.0015270540531290909
+  },
+  "https://www.epa.eu/photo-essays/2019/diamond-land": {
+    "total_time": 30.313626000010117,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.sunshinecoastdaily.com.au/news/offbeat/": {
+    "total_time": 51.844780000363244,
+    "ad_time": 4.312188999989303,
+    "ad_plus_inherited": 4.599576999986311,
+    "ad_ratio": 0.08317498887948005,
+    "ad_plus_inherited_ratio": 0.0887182277551199
+  },
+  "https://twitter.com/sbindynews": {
+    "total_time": 5.919004499963194,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://local.greenvilleonline.com/": {
+    "total_time": 16.77726099996653,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.tcpalm.com/podcasts/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.bakersfield.com/bakersfield-life/": {
+    "total_time": 22.755386000062572,
+    "ad_time": 7.554348999939975,
+    "ad_plus_inherited": 12.905790999953751,
+    "ad_ratio": 0.3319807011807755,
+    "ad_plus_inherited_ratio": 0.5671532445073999
+  },
+  "https://www.collegemagazine.com/category/college-spring-break/": {
+    "total_time": 71.89669949988456,
+    "ad_time": 21.952275000032387,
+    "ad_plus_inherited": 22.608536500010814,
+    "ad_ratio": 0.30533077530308095,
+    "ad_plus_inherited_ratio": 0.3144586143352396
+  },
+  "https://www.24-7pressrelease.com/press-release/466543/military-spouse-advocacy-network-and-hiring-our-heroes-announce-partnership-supporting-military-spouses-from-day-one": {
+    "total_time": 21.38472799990268,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.kitv.com/category/306321/sports-video": {
+    "total_time": 52.166132999933325,
+    "ad_time": 12.00785599995288,
+    "ad_plus_inherited": 30.320424000092316,
+    "ad_ratio": 0.23018489792924135,
+    "ad_plus_inherited_ratio": 0.5812281312883796
+  },
+  "https://www.goldcoastbulletin.com.au/news": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.thecrimson.com/writer/1213865/Jonah_S._Berger/": {
+    "total_time": 121.8106904998931,
+    "ad_time": 44.160429999908956,
+    "ad_plus_inherited": 48.93834099993546,
+    "ad_ratio": 0.3625332868460155,
+    "ad_plus_inherited_ratio": 0.40175735642823907
+  },
+  "https://classifieds.columbian.com/placeanad": {
+    "total_time": 4.736269500011986,
+    "ad_time": 0.09227700001792982,
+    "ad_plus_inherited": 0.09227700001792982,
+    "ad_ratio": 0.01948305518038961,
+    "ad_plus_inherited_ratio": 0.01948305518038961
+  },
+  "https://canadafreepress.com/categories/world": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.southbendtribune.com/multimedia/videos": {
+    "total_time": 19.911214999978256,
+    "ad_time": 2.546873500024958,
+    "ad_plus_inherited": 2.546873500024958,
+    "ad_ratio": 0.12791150615508592,
+    "ad_plus_inherited_ratio": 0.12791150615508592
+  },
+  "http://www.themercury.com.au/business/markets": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.gainesville.com/scene": {
+    "total_time": 116.90972800022428,
+    "ad_time": 13.156759500030603,
+    "ad_plus_inherited": 17.72887850002735,
+    "ad_ratio": 0.11253776503530454,
+    "ad_plus_inherited_ratio": 0.15164587928896164
+  },
+  "https://harpers.org/archive/2019/10/": {
+    "total_time": 219.34591100050602,
+    "ad_time": 25.055997000366915,
+    "ad_plus_inherited": 60.81722900032764,
+    "ad_ratio": 0.11423051784315738,
+    "ad_plus_inherited_ratio": 0.2772662992572829
+  },
+  "https://www.onthesnow.com/ski-resort.html": {
+    "total_time": 39.595560999972804,
+    "ad_time": 11.03593150000961,
+    "ad_plus_inherited": 13.553626499975508,
+    "ad_ratio": 0.2787163818696038,
+    "ad_plus_inherited_ratio": 0.3423016660878935
+  },
+  "https://www.theguardian.pe.ca/obituaries": {
+    "total_time": 279.0031354998937,
+    "ad_time": 23.287191499955952,
+    "ad_plus_inherited": 27.66608199998882,
+    "ad_ratio": 0.08346569818375689,
+    "ad_plus_inherited_ratio": 0.09916046982919789
+  },
+  "https://www.greenwichtime.com/news/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.billoreilly.com/site/rd?satype=13&said=12&url=%2Fb%2FThis-Impeachment-Thing-is-Dangerous---Heres-Whats-Going-On%2F149416774543652369.html": {
+    "total_time": 100.92908700017142,
+    "ad_time": 3.246707999933278,
+    "ad_plus_inherited": 3.246707999933278,
+    "ad_ratio": 0.03216820934809173,
+    "ad_plus_inherited_ratio": 0.03216820934809173
+  },
+  "https://www.theledger.com/subscribenow?g2i_source=theledger.com&g2i_medium=subscribe&g2i_campaign=header": {
+    "total_time": 61.11541700013913,
+    "ad_time": 8.321351999948092,
+    "ad_plus_inherited": 8.321351999948092,
+    "ad_ratio": 0.13615798448907168,
+    "ad_plus_inherited_ratio": 0.13615798448907168
+  },
+  "https://trib.com/obituaries/search/?c=lifestyles/announcements/obituaries*&t=article,collection": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.hearst.com/newspapers/beaumont-enterprise": {
+    "total_time": 26.972582500042336,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.postbulletin.com/contact/": {
+    "total_time": 26.49957299978996,
+    "ad_time": 6.560829999951238,
+    "ad_plus_inherited": 6.565217999952438,
+    "ad_ratio": 0.2475824799140439,
+    "ad_plus_inherited_ratio": 0.2477480674878978
+  },
+  "http://news-press.newspapers.com/?xid=1233": {
+    "total_time": 57.84156750011607,
+    "ad_time": 0.3811075000121491,
+    "ad_plus_inherited": 0.3811075000121491,
+    "ad_ratio": 0.0065888169439976595,
+    "ad_plus_inherited_ratio": 0.0065888169439976595
+  },
+  "http://www.mddcnews.com/index.php/public_notices/": {
+    "total_time": 5.5248234999671695,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.uticaod.com/news": {
+    "total_time": 55.95897300012439,
+    "ad_time": 7.46471649997693,
+    "ad_plus_inherited": 9.146842500005732,
+    "ad_ratio": 0.13339623834698214,
+    "ad_plus_inherited_ratio": 0.1634562253311082
+  },
+  "https://www.weatherforyou.com/suggestion_box/": {
+    "total_time": 45.980098999716574,
+    "ad_time": 5.840319999872008,
+    "ad_plus_inherited": 6.958222999848658,
+    "ad_ratio": 0.1270184302975948,
+    "ad_plus_inherited_ratio": 0.1513311878665496
+  },
+  "https://www.fredericknewspost.com/news/continuing_coverage/great_frederick_fair/": {
+    "total_time": 24.317651000106707,
+    "ad_time": 5.10952500005078,
+    "ad_plus_inherited": 5.10952500005078,
+    "ad_ratio": 0.2101158948299883,
+    "ad_plus_inherited_ratio": 0.2101158948299883
+  },
+  "https://rsf.org/fr": {
+    "total_time": 16.855051499966066,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://arktimes.com/eat-arkansas/2019/09/10/con-todo-el-surs-honduran-eats-are-gathering-a-devoted-following": {
+    "total_time": 49.185687499833875,
+    "ad_time": 3.2177790000423556,
+    "ad_plus_inherited": 3.2177790000423556,
+    "ad_ratio": 0.06542104347028235,
+    "ad_plus_inherited_ratio": 0.06542104347028235
+  },
+  "https://www.jacksonville.com/login": {
+    "total_time": 44.531140499719186,
+    "ad_time": 1.932583500041801,
+    "ad_plus_inherited": 1.932583500041801,
+    "ad_ratio": 0.04339847303156289,
+    "ad_plus_inherited_ratio": 0.04339847303156289
+  },
+  "https://www.nwfdailynews.com/subscribenow?g2i_source=nwfdailynews.com&g2i_medium=subscribe&g2i_campaign=topRail": {
+    "total_time": 51.317128000067896,
+    "ad_time": 20.338242000041646,
+    "ad_plus_inherited": 20.338242000041646,
+    "ad_ratio": 0.3963246345355636,
+    "ad_plus_inherited_ratio": 0.3963246345355636
+  },
+  "https://navhindtimes.in/about-us/": {
+    "total_time": 41.57311500018113,
+    "ad_time": 5.768258000025526,
+    "ad_plus_inherited": 8.960625000006985,
+    "ad_ratio": 0.1387497184177898,
+    "ad_plus_inherited_ratio": 0.21553893664133525
+  },
+  "https://www.sentinelassam.com/jobs-in-rest-of-india/": {
+    "total_time": 23.44370249984786,
+    "ad_time": 5.0126364999086945,
+    "ad_plus_inherited": 6.448194999931729,
+    "ad_ratio": 0.21381590642268322,
+    "ad_plus_inherited_ratio": 0.27505019738130426
+  },
+  "https://www.youtube.com/lacrossetribune": {
+    "total_time": 5.36394950011163,
+    "ad_time": 0.2693170000129612,
+    "ad_plus_inherited": 0.2693170000129612,
+    "ad_ratio": 0.05020871281643431,
+    "ad_plus_inherited_ratio": 0.05020871281643431
+  },
+  "https://www.filmsforaction.org/articles/knowledge-democracy/": {
+    "total_time": 5.370563500087883,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.postindependent.com/longevity/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.indexjournal.com/opinion/letters/": {
+    "total_time": 52.247172999952454,
+    "ad_time": 8.835266000183765,
+    "ad_plus_inherited": 18.465650000114692,
+    "ad_ratio": 0.169105149482285,
+    "ad_plus_inherited_ratio": 0.3534286917328809
+  },
+  "https://www.briefing.com/brflogin": {
+    "total_time": 8.53377300009015,
+    "ad_time": 0.09054499998455867,
+    "ad_plus_inherited": 0.09054499998455867,
+    "ad_ratio": 0.010610195511833061,
+    "ad_plus_inherited_ratio": 0.010610195511833061
+  },
+  "https://www.news-gazette.com/news/state/": {
+    "total_time": 15.251742000109516,
+    "ad_time": 2.684653000025719,
+    "ad_plus_inherited": 2.684653000025719,
+    "ad_ratio": 0.17602271268465214,
+    "ad_plus_inherited_ratio": 0.17602271268465214
+  },
+  "https://civitas.circulationpro.com/scripts/WebObjects.exe/CivitasWilkesBarreSubWebTools": {
+    "total_time": 1.6921484999838867,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://www.sfweekly.com/dining/": {
+    "total_time": 106.76550199984922,
+    "ad_time": 29.864798999900813,
+    "ad_plus_inherited": 29.864798999900813,
+    "ad_ratio": 0.2797233042555543,
+    "ad_plus_inherited_ratio": 0.2797233042555543
+  },
+  "https://www.news-leader.com/news/": {
+    "total_time": 107.25909300001513,
+    "ad_time": 17.73998399991251,
+    "ad_plus_inherited": 21.83697299992491,
+    "ad_ratio": 0.16539375360847036,
+    "ad_plus_inherited_ratio": 0.20359087876980117
+  },
+  "https://www.eagletribune.com/site/forms/online_services/sound_off/": {
+    "total_time": 99.54024099968956,
+    "ad_time": 20.034641999955056,
+    "ad_plus_inherited": 20.034641999955056,
+    "ad_ratio": 0.20127178514684868,
+    "ad_plus_inherited_ratio": 0.20127178514684868
+  },
+  "https://www.naplesnews.com/story/news/2019/05/06/corrections-clarifications-naples-daily-news/1119024001/": {
+    "total_time": 154.2085840003274,
+    "ad_time": 11.795345999969868,
+    "ad_plus_inherited": 11.795345999969868,
+    "ad_ratio": 0.0764895552114325,
+    "ad_plus_inherited_ratio": 0.0764895552114325
+  },
+  "https://www.illawarramercury.com.au/sport/hawks-nest/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.mycentraljersey.com/story/news/local/2019/05/09/corrections-clarifications/1151431001/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www2.ljworld.com/weblogs/town_talk/": {
+    "total_time": 88.14205649994256,
+    "ad_time": 15.102158000030613,
+    "ad_plus_inherited": 21.589749999977357,
+    "ad_ratio": 0.1713388432233874,
+    "ad_plus_inherited_ratio": 0.24494266253013314
+  },
+  "https://www.conservativedailynews.com/about-2/contact-us/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.santafenewmexican.com/weather/?weather_zip=87501": {
+    "total_time": 36.93177100001776,
+    "ad_time": 6.065912000020035,
+    "ad_plus_inherited": 6.065912000020035,
+    "ad_ratio": 0.1642464424469955,
+    "ad_plus_inherited_ratio": 0.1642464424469955
+  },
+  "https://www.news-journal.com/calendar/": {
+    "total_time": 38.17563200002769,
+    "ad_time": 2.3018950000114273,
+    "ad_plus_inherited": 7.302602000054321,
+    "ad_ratio": 0.060297495533531906,
+    "ad_plus_inherited_ratio": 0.19128961637227182
+  },
+  "https://www.kitsapsun.com/media/latest/news/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://www.gatehousemedia.com/2019/08/08/gatehouse-announces-two-promotions-to-general-manager-in-texas/": {
+    "total_time": 17.925852500033216,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://consortiumnews.com/category/climate-change/": {
+    "total_time": 15.06702050009335,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.bendbulletin.com/localState/yesteryear": {
+    "total_time": 56.29981399986718,
+    "ad_time": 17.83383299990237,
+    "ad_plus_inherited": 21.389351999903738,
+    "ad_ratio": 0.31676539819375676,
+    "ad_plus_inherited_ratio": 0.37991869742152606
+  },
+  "https://www.standard.net/news/state/": {
+    "total_time": 370.5808070000785,
+    "ad_time": 5.766721000050893,
+    "ad_plus_inherited": 6.714915500044299,
+    "ad_ratio": 0.015561305094922716,
+    "ad_plus_inherited_ratio": 0.018119976461821664
+  },
+  "http://www.xperthr.co.uk/legal-timetable/pending/?cmpid=ILC|PROF|HRPIO-2014-PTOD_NAVBAR&sfid=701w0000000uNMa": {
+    "total_time": 64.72204800035252,
+    "ad_time": 1.3653350000095088,
+    "ad_plus_inherited": 1.3653350000095088,
+    "ad_ratio": 0.021095361506515867,
+    "ad_plus_inherited_ratio": 0.021095361506515867
+  },
+  "https://www.pewresearch.org/feed/": {
+    "total_time": 0.20350700001290534,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://newsthump.com/category/politics/": {
+    "total_time": 88.5795309998357,
+    "ad_time": 8.126970999932382,
+    "ad_plus_inherited": 14.977906999905827,
+    "ad_ratio": 0.09174773119929318,
+    "ad_plus_inherited_ratio": 0.169089933428679
+  },
+  "https://www.fosters.com/section/cars": {
+    "total_time": 67.5624550000066,
+    "ad_time": 12.489488499952131,
+    "ad_plus_inherited": 12.489488499952131,
+    "ad_ratio": 0.18485841729627664,
+    "ad_plus_inherited_ratio": 0.18485841729627664
+  },
+  "https://www.journalism.co.uk/how-write-post-press-release/s215/": {
+    "total_time": 59.330573000057484,
+    "ad_time": 3.206157000051462,
+    "ad_plus_inherited": 3.206157000051462,
+    "ad_ratio": 0.05403886795511575,
+    "ad_plus_inherited_ratio": 0.05403886795511575
+  },
+  "https://ici.radio-canada.ca/meteo/bulletins/index.asp?CityCode=YQR": {
+    "total_time": 41.439791999946465,
+    "ad_time": 1.9254250000230968,
+    "ad_plus_inherited": 1.9254250000230968,
+    "ad_ratio": 0.04646319170775723,
+    "ad_plus_inherited_ratio": 0.04646319170775723
+  },
+  "https://www.webwire.com/ViewPressRel.asp?aId=247936": {
+    "total_time": 9.803529499949946,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.ydr.com/things-to-do/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://dentonrc.com/news/christmas_in_denton_county/": {
+    "total_time": 58.28811800009862,
+    "ad_time": 21.093664000043646,
+    "ad_plus_inherited": 27.408678000079817,
+    "ad_ratio": 0.3618861737825873,
+    "ad_plus_inherited_ratio": 0.4702275341954503
+  },
+  "https://therealnews.com/regions/north-america": {
+    "total_time": 45.22452749990043,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.readingeagle.com/section/crime": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.concordmonitor.com/New-Hampshire-couple-s-eclectic-home-a-sight-to-behold-28973651": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.15minutenews.com/entertainment/": {
+    "total_time": 25.981487000070047,
+    "ad_time": 2.990566500047862,
+    "ad_plus_inherited": 3.799127500053146,
+    "ad_ratio": 0.11510374675782796,
+    "ad_plus_inherited_ratio": 0.1462244058641795
+  },
+  "https://checkout2.capitalgazette.com/MTRDigital?PID=10995&int=cg_digitaladshouse_4-weeks-99_acquisition-subscriber_arc_text-link_footer_______bxca": {
+    "total_time": 16.359045999881346,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://journalists.org/event/ona-philadelphia-hear-from-lenfest-grantees-on-new-journalism-biz-models/": {
+    "total_time": 12.600057499941613,
+    "ad_time": 0.5745879999667522,
+    "ad_plus_inherited": 0.5745879999667522,
+    "ad_ratio": 0.04560201411536533,
+    "ad_plus_inherited_ratio": 0.04560201411536533
+  },
+  "https://www.news-journalonline.com/sports": {
+    "total_time": 153.93471400004637,
+    "ad_time": 37.641998000006424,
+    "ad_plus_inherited": 47.52984200001811,
+    "ad_ratio": 0.24453222422588244,
+    "ad_plus_inherited_ratio": 0.3087662344960331
+  },
+  "https://pro32.ap.org/thetelegraph": {
+    "total_time": 161.46747399980086,
+    "ad_time": 5.868862000032095,
+    "ad_plus_inherited": 7.074375000025611,
+    "ad_ratio": 0.03634702305455855,
+    "ad_plus_inherited_ratio": 0.043813003478547864
+  },
+  "https://www.theadvertiser.com/media/latest/news/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://starofmysore.com/music-concert-at-flower-show/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.hcpress.com/news/todays-email-announcements-643.html": {
+    "total_time": 17.18940850006038,
+    "ad_time": 0.9515690000189352,
+    "ad_plus_inherited": 0.9515690000189352,
+    "ad_ratio": 0.05535786760874248,
+    "ad_plus_inherited_ratio": 0.05535786760874248
+  },
+  "https://www.informamarkets.com/en/regions.html": {
+    "total_time": 107.23951850003505,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.dailycal.org/section/sports/spring/softball/": {
+    "total_time": 59.89098999995622,
+    "ad_time": 13.851751999696717,
+    "ad_plus_inherited": 17.43321899959119,
+    "ad_ratio": 0.23128273551174963,
+    "ad_plus_inherited_ratio": 0.2910824983792042
+  },
+  "https://www.nytco.com/press/our-journalism/": {
+    "total_time": 8.512152000083006,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://guardianlv.com/category/httpguardianlv-comentertainment/tvmovie-reviews/": {
+    "total_time": 49.092655000364175,
+    "ad_time": 1.0610040000174195,
+    "ad_plus_inherited": 1.0610040000174195,
+    "ad_ratio": 0.02161227580805212,
+    "ad_plus_inherited_ratio": 0.02161227580805212
+  },
+  "https://connect.statesmanjournal.com/": {
+    "total_time": 15.814411999861477,
+    "ad_time": 0.4099199999764096,
+    "ad_plus_inherited": 0.4099199999764096,
+    "ad_ratio": 0.025920660216769375,
+    "ad_plus_inherited_ratio": 0.025920660216769375
+  },
+  "http://newsroom.ucla.edu/topics/campus": {
+    "total_time": 75.64705099989806,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.ntnews.com.au/news/palmerston-and-beyond": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.registerguard.com/login": {
+    "total_time": 34.834950000011304,
+    "ad_time": 0.8726759999772185,
+    "ad_plus_inherited": 0.8726759999772185,
+    "ad_ratio": 0.025051736832604476,
+    "ad_plus_inherited_ratio": 0.025051736832604476
+  },
+  "https://www.djournal.com/sports/": {
+    "total_time": 78.34898249993421,
+    "ad_time": 25.45471800001542,
+    "ad_plus_inherited": 42.20872399989457,
+    "ad_ratio": 0.324888941602232,
+    "ad_plus_inherited_ratio": 0.5387271493912511
+  },
+  "https://www.examiner.com.au/sport/junior-sport/": {
+    "total_time": 45.989416000113124,
+    "ad_time": 5.578841000038665,
+    "ad_plus_inherited": 9.862377000128618,
+    "ad_ratio": 0.12130706334746547,
+    "ad_plus_inherited_ratio": 0.21444884188362728
+  },
+  "https://local.thenewsstar.com/": {
+    "total_time": 19.954265500055044,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.vaildaily.com/entertainment/calendar/": {
+    "total_time": 144.67941699989024,
+    "ad_time": 10.461929000055534,
+    "ad_plus_inherited": 10.461929000055534,
+    "ad_ratio": 0.07231110835941142,
+    "ad_plus_inherited_ratio": 0.07231110835941142
+  },
+  "https://www.journalism.org/interactives/media-polarization": {
+    "total_time": 16.322111000219593,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://memrireports.tumblr.com/": {
+    "total_time": 20.465253500107792,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.inma.org/videos.cfm": {
+    "total_time": 90.625708499967,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://pjstar.clickitrewards.com/": {
+    "total_time": 16.829274000054284,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.weatherstreet.com/weather-forecast/radar-southern-rockies.htm": {
+    "total_time": 11.774874999988242,
+    "ad_time": 4.511980999974185,
+    "ad_plus_inherited": 6.075566499988781,
+    "ad_ratio": 0.3831871675902029,
+    "ad_plus_inherited_ratio": 0.5159771547464281
+  },
+  "https://www.uschamber.com/council-small-business": {
+    "total_time": 22.37465800022619,
+    "ad_time": 0.19457799999509007,
+    "ad_plus_inherited": 0.19457799999509007,
+    "ad_ratio": 0.008696356386458423,
+    "ad_plus_inherited_ratio": 0.008696356386458423
+  },
+  "https://www.dailyfreeman.com/news/elections/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://www.encclassifieds.com/": {
+    "total_time": 32.39932299998327,
+    "ad_time": 8.229228999960469,
+    "ad_plus_inherited": 8.229228999960469,
+    "ad_ratio": 0.25399385659893936,
+    "ad_plus_inherited_ratio": 0.25399385659893936
+  },
+  "https://www.summitdaily.com/everything-summit/restaurants/": {
+    "total_time": 61.091371499926026,
+    "ad_time": 5.81364499998017,
+    "ad_plus_inherited": 6.61070299999119,
+    "ad_ratio": 0.09516311153674475,
+    "ad_plus_inherited_ratio": 0.10821009313891725
+  },
+  "https://www.universalhub.com/2019/man-convicted-sexual-attacks-teens-dys-facility": {
+    "total_time": 33.040831000071194,
+    "ad_time": 8.476370500015037,
+    "ad_plus_inherited": 8.476370500015037,
+    "ad_ratio": 0.2565422915663584,
+    "ad_plus_inherited_ratio": 0.2565422915663584
+  },
+  "https://www.heraldmailmedia.com/news/business": {
+    "total_time": 76.4606790000471,
+    "ad_time": 1.2379265000199666,
+    "ad_plus_inherited": 1.2379265000199666,
+    "ad_ratio": 0.01619036760083185,
+    "ad_plus_inherited_ratio": 0.01619036760083185
+  },
+  "https://www.bostonreview.net/arts-society/virginia-konchan-two-poems": {
+    "total_time": 16.547312000133388,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://fair.org/take-action-now/media-contact-list/": {
+    "total_time": 39.44148049981595,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.nashvillescene.com/music/nashville-cream": {
+    "total_time": 15.773330000069109,
+    "ad_time": 2.1352919999917503,
+    "ad_plus_inherited": 2.1352919999917503,
+    "ad_ratio": 0.1353735704497652,
+    "ad_plus_inherited_ratio": 0.1353735704497652
+  },
+  "https://www.therisingwasabi.com/i-cant-write-that-kanji-but-i-can-read-it/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://www.gotricities.com/": {
+    "total_time": 9.545716999913566,
+    "ad_time": 0.42716549996839603,
+    "ad_plus_inherited": 0.42716549996839603,
+    "ad_ratio": 0.04474944102913002,
+    "ad_plus_inherited_ratio": 0.04474944102913002
+  },
+  "https://events.wan-ifra.org/awards": {
+    "total_time": 14.188172999980452,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.washingtoncitypaper.com/news/city-desk/article/21090349/98-percent-of-dc-school-staff-have-cleared-background-checks": {
+    "total_time": 18.081284999891068,
+    "ad_time": 2.5359564999162103,
+    "ad_plus_inherited": 2.5359564999162103,
+    "ad_ratio": 0.14025311253771447,
+    "ad_plus_inherited_ratio": 0.14025311253771447
+  },
+  "https://www.journalgazette.net/News/Local/Ohio": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "http://curation.masternewmedia.org/p/4043657355/2015/05/15/the-key-value-of-content-curation-enhancing-who-we-are/original": {
+    "total_time": 13.676820999964548,
+    "ad_time": 0.30696499996702187,
+    "ad_plus_inherited": 0.30696499996702187,
+    "ad_ratio": 0.022444177632201048,
+    "ad_plus_inherited_ratio": 0.022444177632201048
+  },
+  "https://www.totaltele.com/archive/white-papers": {
+    "total_time": 20.85750100002042,
+    "ad_time": 2.762490999957663,
+    "ad_plus_inherited": 2.762490999957663,
+    "ad_ratio": 0.13244592436816657,
+    "ad_plus_inherited_ratio": 0.13244592436816657
+  },
+  "http://dailybruin.com/category/opinion/": {
+    "total_time": 33.444092499987164,
+    "ad_time": 0.1881509999948321,
+    "ad_plus_inherited": 0.1881509999948321,
+    "ad_ratio": 0.005625836610603331,
+    "ad_plus_inherited_ratio": 0.005625836610603331
+  },
+  "https://www.salemnews.com/news/local_news/": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.djc.com/news/ae/12125855.html": {
+    "total_time": 11.013763000075414,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://lee.net/financial/": {
+    "total_time": 6.92783749987575,
+    "ad_time": 0.03428449999046279,
+    "ad_plus_inherited": 0.03428449999046279,
+    "ad_ratio": 0.004948802565169532,
+    "ad_plus_inherited_ratio": 0.004948802565169532
+  },
+  "https://newstodaynet.com/index.php/category/sports/tnpl-2019/": {
+    "total_time": 42.93121800004883,
+    "ad_time": 1.6657594999924186,
+    "ad_plus_inherited": 3.904533499968238,
+    "ad_ratio": 0.038800657833433096,
+    "ad_plus_inherited_ratio": 0.09094858431372241
+  },
+  "https://www.hiranandanihospital.org/": {
+    "total_time": 305.766343999916,
+    "ad_time": 0.556021000011242,
+    "ad_plus_inherited": 0.556021000011242,
+    "ad_ratio": 0.0018184506271605705,
+    "ad_plus_inherited_ratio": 0.0018184506271605705
+  },
+  "https://www.dailyitem.com/app-downloads": {
+    "total_time": 104.3033150000847,
+    "ad_time": 19.377063000036287,
+    "ad_plus_inherited": 22.320146000027307,
+    "ad_ratio": 0.18577609925456878,
+    "ad_plus_inherited_ratio": 0.21399268086550444
+  },
+  "https://cm.pressconnects.com/account-activation/": {
+    "total_time": 5.820334999953047,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.register-herald.com/e-edition": {
+    "total_time": 135.66812400001072,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "https://www.parkrecord.com/news/battery-bunker-burns-in-browns-canyon/": {
+    "total_time": 77.41000000011991,
+    "ad_time": 14.809658000027412,
+    "ad_plus_inherited": 25.860871000040788,
+    "ad_ratio": 0.19131453300612933,
+    "ad_plus_inherited_ratio": 0.33407661800801874
+  },
+  "https://biv.com/article/2019/10/growth-slows-top-100-global-and-national-companies": {
+    "total_time": 31.134228000082658,
+    "ad_time": 3.502626500077895,
+    "ad_plus_inherited": 3.502626500077895,
+    "ad_ratio": 0.11250083027812978,
+    "ad_plus_inherited_ratio": 0.11250083027812978
+  },
+  "https://www.stanforddaily.com/category/sports-columns/": {
+    "total_time": 33.72341599991341,
+    "ad_time": 1.0589505000316422,
+    "ad_plus_inherited": 1.0589505000316422,
+    "ad_ratio": 0.031401044901096645,
+    "ad_plus_inherited_ratio": 0.031401044901096645
+  }
+}

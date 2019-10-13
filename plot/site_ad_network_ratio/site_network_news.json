@@ -1,0 +1,3502 @@
+{
+  "reddit.com": {
+    "total_time": 31.590961999958363,
+    "ad_time": 1.2290728000341915,
+    "ad_plus_inherited": 1.2290728000341915,
+    "ad_ratio": 0.03890583642358886,
+    "ad_plus_inherited_ratio": 0.03890583642358886
+  },
+  "news.google.com": {
+    "total_time": 22.70081400012714,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "forbes.com": {
+    "total_time": 98.50921574987296,
+    "ad_time": 13.69682075009041,
+    "ad_plus_inherited": 18.03970825012948,
+    "ad_ratio": 0.13904100896375346,
+    "ad_plus_inherited_ratio": 0.18312711265445988
+  },
+  "cnn.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "nytimes.com": {
+    "total_time": 109.26136575016426,
+    "ad_time": 10.66787675001251,
+    "ad_plus_inherited": 16.01865325008839,
+    "ad_ratio": 0.0976363115797541,
+    "ad_plus_inherited_ratio": 0.14660857605163433
+  },
+  "theguardian.com": {
+    "total_time": 64.73009259961538,
+    "ad_time": 5.708009399968438,
+    "ad_plus_inherited": 5.92226479996462,
+    "ad_ratio": 0.08818169680792878,
+    "ad_plus_inherited_ratio": 0.0914916781688616
+  },
+  "shutterstock.com": {
+    "total_time": 35.64010519975565,
+    "ad_time": 1.5487963999737988,
+    "ad_plus_inherited": 1.5487963999737988,
+    "ad_ratio": 0.04345656084046624,
+    "ad_plus_inherited_ratio": 0.04345656084046624
+  },
+  "indiatimes.com": {
+    "total_time": 144.14833750045364,
+    "ad_time": 30.77655899997626,
+    "ad_plus_inherited": 31.652887749987713,
+    "ad_ratio": 0.21350616686702617,
+    "ad_plus_inherited_ratio": 0.219585520713259
+  },
+  "news.yahoo.com": {
+    "total_time": 81.15593000073568,
+    "ad_time": 10.537858000141568,
+    "ad_plus_inherited": 13.99539100023685,
+    "ad_ratio": 0.1298470487621304,
+    "ad_plus_inherited_ratio": 0.17245062683786608
+  },
+  "washingtonpost.com": {
+    "total_time": 84.45882566680663,
+    "ad_time": 9.893602333380839,
+    "ad_plus_inherited": 10.760222666722258,
+    "ad_ratio": 0.11714113066657458,
+    "ad_plus_inherited_ratio": 0.12740199241192102
+  },
+  "foxnews.com": {
+    "total_time": 93.88841900022089,
+    "ad_time": 11.460745499876793,
+    "ad_plus_inherited": 12.746046999920509,
+    "ad_ratio": 0.1220677227491692,
+    "ad_plus_inherited_ratio": 0.13575739303790516
+  },
+  "weather.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "timesofindia.indiatimes.com": {
+    "total_time": 92.21911800006637,
+    "ad_time": 33.36087300002691,
+    "ad_plus_inherited": 42.94883499998832,
+    "ad_ratio": 0.36175658283787643,
+    "ad_plus_inherited_ratio": 0.4657259354828942
+  },
+  "accuweather.com": {
+    "total_time": 73.25961899998947,
+    "ad_time": 9.330964999971911,
+    "ad_plus_inherited": 9.330964999971911,
+    "ad_ratio": 0.1273684620168889,
+    "ad_plus_inherited_ratio": 0.1273684620168889
+  },
+  "cnbc.com": {
+    "total_time": 62.48534799966728,
+    "ad_time": 5.019369250097952,
+    "ad_plus_inherited": 5.019369250097952,
+    "ad_ratio": 0.08032873962908359,
+    "ad_plus_inherited_ratio": 0.08032873962908359
+  },
+  "bloomberg.com": {
+    "total_time": 103.07387374986865,
+    "ad_time": 10.568562750093406,
+    "ad_plus_inherited": 12.630394750085543,
+    "ad_ratio": 0.10253386591194137,
+    "ad_plus_inherited_ratio": 0.12253730543528386
+  },
+  "usatoday.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "economictimes.indiatimes.com": {
+    "total_time": 72.98280000005616,
+    "ad_time": 13.092325500110746,
+    "ad_plus_inherited": 25.09812950005289,
+    "ad_ratio": 0.17938919170134157,
+    "ad_plus_inherited_ratio": 0.3438910195283489
+  },
+  "wsj.com": {
+    "total_time": 147.60516433338245,
+    "ad_time": 20.03620366661927,
+    "ad_plus_inherited": 20.909877333295302,
+    "ad_ratio": 0.13574188787436534,
+    "ad_plus_inherited_ratio": 0.14166087906022076
+  },
+  "reuters.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "nypost.com": {
+    "total_time": 202.5241229996027,
+    "ad_time": 20.897861999779707,
+    "ad_plus_inherited": 25.306161499698646,
+    "ad_ratio": 0.10318702626758544,
+    "ad_plus_inherited_ratio": 0.1249538135254549
+  },
+  "drudgereport.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "chron.com": {
+    "total_time": 163.62645300038275,
+    "ad_time": 16.929692000121577,
+    "ad_plus_inherited": 20.776264000072842,
+    "ad_ratio": 0.10346549527711131,
+    "ad_plus_inherited_ratio": 0.1269737479429701
+  },
+  "chinadaily.com.cn": {
+    "total_time": 123.8488212498487,
+    "ad_time": 16.96451924998837,
+    "ad_plus_inherited": 16.96451924998837,
+    "ad_ratio": 0.13697763998709916,
+    "ad_plus_inherited_ratio": 0.13697763998709916
+  },
+  "nbcnews.com": {
+    "total_time": 54.928288500253984,
+    "ad_time": 2.9695582500717137,
+    "ad_plus_inherited": 2.9695582500717137,
+    "ad_ratio": 0.05406245727204813,
+    "ad_plus_inherited_ratio": 0.05406245727204813
+  },
+  "wunderground.com": {
+    "total_time": 72.14952699991409,
+    "ad_time": 16.79775299981702,
+    "ad_plus_inherited": 28.753614999819547,
+    "ad_ratio": 0.2328186157039813,
+    "ad_plus_inherited_ratio": 0.39852811508873487
+  },
+  "cbsnews.com": {
+    "total_time": 47.78665275016101,
+    "ad_time": 12.369412000014563,
+    "ad_plus_inherited": 12.871786500021699,
+    "ad_ratio": 0.25884658765878693,
+    "ad_plus_inherited_ratio": 0.26935944995599903
+  },
+  "usnews.com": {
+    "total_time": 68.17875950018788,
+    "ad_time": 6.687107750105497,
+    "ad_plus_inherited": 9.425685250105744,
+    "ad_ratio": 0.09808198035763718,
+    "ad_plus_inherited_ratio": 0.13824958563641465
+  },
+  "dw.com": {
+    "total_time": 146.37114400010614,
+    "ad_time": 5.3046297500332,
+    "ad_plus_inherited": 6.438654750010755,
+    "ad_ratio": 0.03624095299842265,
+    "ad_plus_inherited_ratio": 0.04398855248412956
+  },
+  "thehindu.com": {
+    "total_time": 83.14490725003998,
+    "ad_time": 10.869602749997284,
+    "ad_plus_inherited": 11.666262750004535,
+    "ad_ratio": 0.13073083017952442,
+    "ad_plus_inherited_ratio": 0.14031241522611626
+  },
+  "sfgate.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "thehill.com": {
+    "total_time": 93.14230324974778,
+    "ad_time": 11.215092999969784,
+    "ad_plus_inherited": 12.230074249971949,
+    "ad_ratio": 0.12040815621552876,
+    "ad_plus_inherited_ratio": 0.13130525897753195
+  },
+  "weather.gov": {
+    "total_time": 10.787538500037044,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "news.com.au": {
+    "total_time": 95.42728299988099,
+    "ad_time": 9.714415333321083,
+    "ad_plus_inherited": 20.542673333208477,
+    "ad_ratio": 0.10179913990984317,
+    "ad_plus_inherited_ratio": 0.21527044140231988
+  },
+  "indianexpress.com": {
+    "total_time": 47.2941144999204,
+    "ad_time": 17.053938749850204,
+    "ad_plus_inherited": 22.472367999820563,
+    "ad_ratio": 0.3605932562682595,
+    "ad_plus_inherited_ratio": 0.47516204156562414
+  },
+  "abcnews.go.com": {
+    "total_time": 49.11608566684297,
+    "ad_time": 8.113722999968257,
+    "ad_plus_inherited": 9.099310666642854,
+    "ad_ratio": 0.16519482140747274,
+    "ad_plus_inherited_ratio": 0.18526131598442033
+  },
+  "thedailybeast.com": {
+    "total_time": 36.4790525002536,
+    "ad_time": 4.354348250097246,
+    "ad_plus_inherited": 4.354348250097246,
+    "ad_ratio": 0.11936571680602107,
+    "ad_plus_inherited_ratio": 0.11936571680602107
+  },
+  "time.com": {
+    "total_time": 71.12761966597954,
+    "ad_time": 13.494421666478349,
+    "ad_plus_inherited": 15.185885999768896,
+    "ad_ratio": 0.18972126059959735,
+    "ad_plus_inherited_ratio": 0.21350195706088462
+  },
+  "latimes.com": {
+    "total_time": 48.47296133351243,
+    "ad_time": 9.22821366663751,
+    "ad_plus_inherited": 11.150831999916893,
+    "ad_ratio": 0.19037858246670522,
+    "ad_plus_inherited_ratio": 0.23004231004569584
+  },
+  "yr.no": {
+    "total_time": 86.75539925005432,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "hindustantimes.com": {
+    "total_time": 56.392515250052384,
+    "ad_time": 9.856143750082992,
+    "ad_plus_inherited": 16.433636750094593,
+    "ad_ratio": 0.17477751624270452,
+    "ad_plus_inherited_ratio": 0.29141521134897996
+  },
+  "theatlantic.com": {
+    "total_time": 38.65106374968309,
+    "ad_time": 4.881611250224523,
+    "ad_plus_inherited": 4.965176750221872,
+    "ad_ratio": 0.12629953167238636,
+    "ad_plus_inherited_ratio": 0.12846158083456585
+  },
+  "newsnow.co.uk": {
+    "total_time": 41.14991299971007,
+    "ad_time": 15.548039749897725,
+    "ad_plus_inherited": 21.96075524984917,
+    "ad_ratio": 0.3778389458565143,
+    "ad_plus_inherited_ratio": 0.5336768330471051
+  },
+  "euronews.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "variety.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "hollywoodreporter.com": {
+    "total_time": 126.55439733320961,
+    "ad_time": 40.61836200004715,
+    "ad_plus_inherited": 43.015619666664854,
+    "ad_ratio": 0.3209557538573836,
+    "ad_plus_inherited_ratio": 0.33989826172066934
+  },
+  "newsweek.com": {
+    "total_time": 29.13196250004694,
+    "ad_time": 0.11135475000628503,
+    "ad_plus_inherited": 0.11135475000628503,
+    "ad_ratio": 0.0038224252830926036,
+    "ad_plus_inherited_ratio": 0.0038224252830926036
+  },
+  "livemint.com": {
+    "total_time": 17.141098250140203,
+    "ad_time": 0.11880750002455898,
+    "ad_plus_inherited": 0.11880750002455898,
+    "ad_ratio": 0.006931148651667474,
+    "ad_plus_inherited_ratio": 0.006931148651667474
+  },
+  "nationalgeographic.com": {
+    "total_time": 188.35384875030286,
+    "ad_time": 0.49341299998923205,
+    "ad_plus_inherited": 0.49341299998923205,
+    "ad_ratio": 0.0026196066778722445,
+    "ad_plus_inherited_ratio": 0.0026196066778722445
+  },
+  "irna.ir": {
+    "total_time": 237.545286999979,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "patch.com": {
+    "total_time": 46.31852750002872,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "mathrubhumi.com": {
+    "total_time": 70.07881099999456,
+    "ad_time": 13.547329000051834,
+    "ad_plus_inherited": 17.089021666790362,
+    "ad_ratio": 0.19331562289281543,
+    "ad_plus_inherited_ratio": 0.24385433232866477
+  },
+  "alarabiya.net": {
+    "total_time": 69.93072149968066,
+    "ad_time": 4.17711374987266,
+    "ad_plus_inherited": 5.356500499932736,
+    "ad_ratio": 0.05973217007194378,
+    "ad_plus_inherited_ratio": 0.07659724345840185
+  },
+  "voanews.com": {
+    "total_time": 26.646663250074198,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "smh.com.au": {
+    "total_time": 154.1080599998386,
+    "ad_time": 16.85819749996881,
+    "ad_plus_inherited": 29.539896000002045,
+    "ad_ratio": 0.10939205580802501,
+    "ad_plus_inherited_ratio": 0.19168300476972447
+  },
+  "chicagotribune.com": {
+    "total_time": 119.43899850040907,
+    "ad_time": 26.26661550044082,
+    "ad_plus_inherited": 26.26661550044082,
+    "ad_ratio": 0.2199165752411333,
+    "ad_plus_inherited_ratio": 0.2199165752411333
+  },
+  "bankrate.com": {
+    "total_time": 37.031133250049606,
+    "ad_time": 0.10975725000025705,
+    "ad_plus_inherited": 0.10975725000025705,
+    "ad_ratio": 0.0029639182052337005,
+    "ad_plus_inherited_ratio": 0.0029639182052337005
+  },
+  "foxbusiness.com": {
+    "total_time": 118.69886574990232,
+    "ad_time": 5.9502907499991124,
+    "ad_plus_inherited": 6.234747999995307,
+    "ad_ratio": 0.05012929746554051,
+    "ad_plus_inherited_ratio": 0.05252575886556386
+  },
+  "my.yahoo.com": {
+    "total_time": 357.31067766663415,
+    "ad_time": 5.095891333311253,
+    "ad_plus_inherited": 5.095891333311253,
+    "ad_ratio": 0.014261794152330505,
+    "ad_plus_inherited_ratio": 0.014261794152330505
+  },
+  "business-standard.com": {
+    "total_time": 209.15343850039062,
+    "ad_time": 79.69428200044786,
+    "ad_plus_inherited": 111.36926750047132,
+    "ad_ratio": 0.38103261687614576,
+    "ad_plus_inherited_ratio": 0.5324763881434507
+  },
+  "france24.com": {
+    "total_time": 19.921479000411637,
+    "ad_time": 7.846028250081872,
+    "ad_plus_inherited": 10.135693250085751,
+    "ad_ratio": 0.39384767817287814,
+    "ad_plus_inherited_ratio": 0.5087821667194649
+  },
+  "economist.com": {
+    "total_time": 104.14291125010641,
+    "ad_time": 11.802241999976104,
+    "ad_plus_inherited": 12.116779999960272,
+    "ad_ratio": 0.11332736773252097,
+    "ad_plus_inherited_ratio": 0.11634762130723411
+  },
+  "ctvnews.ca": {
+    "total_time": 128.159427499726,
+    "ad_time": 4.940525749894732,
+    "ad_plus_inherited": 4.996008249894658,
+    "ad_ratio": 0.03854984253815658,
+    "ad_plus_inherited_ratio": 0.038982760358424184
+  },
+  "washingtonexaminer.com": {
+    "total_time": 143.4500249998091,
+    "ad_time": 10.787289000101737,
+    "ad_plus_inherited": 12.540778250055155,
+    "ad_ratio": 0.07519893426380436,
+    "ad_plus_inherited_ratio": 0.08742262854308909
+  },
+  "bdnews24.com": {
+    "total_time": 151.1954130010563,
+    "ad_time": 18.638218000298366,
+    "ad_plus_inherited": 24.142450000334065,
+    "ad_ratio": 0.1232723773185378,
+    "ad_plus_inherited_ratio": 0.15967713253420857
+  },
+  "theconversation.com": {
+    "total_time": 12.51783124989015,
+    "ad_time": 0.30297499999869615,
+    "ad_plus_inherited": 0.30297499999869615,
+    "ad_ratio": 0.024203473744811417,
+    "ad_plus_inherited_ratio": 0.024203473744811417
+  },
+  "aljazeera.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "nj.com": {
+    "total_time": 34.87743174992647,
+    "ad_time": 3.4918165000271983,
+    "ad_plus_inherited": 3.4918165000271983,
+    "ad_ratio": 0.10011678970698752,
+    "ad_plus_inherited_ratio": 0.10011678970698752
+  },
+  "dailycaller.com": {
+    "total_time": 32.91064650018234,
+    "ad_time": 5.063595000188798,
+    "ad_plus_inherited": 6.156742500170367,
+    "ad_ratio": 0.15385887360677475,
+    "ad_plus_inherited_ratio": 0.18707449275225438
+  },
+  "zougla.gr": {
+    "total_time": 385.6485147496933,
+    "ad_time": 15.20861399982823,
+    "ad_plus_inherited": 22.781926749921695,
+    "ad_ratio": 0.03943646459963535,
+    "ad_plus_inherited_ratio": 0.05907432773262046
+  },
+  "rd.com": {
+    "total_time": 269.9892960004945,
+    "ad_time": 8.256911250136909,
+    "ad_plus_inherited": 8.307399500132306,
+    "ad_ratio": 0.030582365199106953,
+    "ad_plus_inherited_ratio": 0.03076936613115614
+  },
+  "azcentral.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "theglobeandmail.com": {
+    "total_time": 77.47964299984596,
+    "ad_time": 13.853852500018547,
+    "ad_plus_inherited": 21.122763999956078,
+    "ad_ratio": 0.17880635433550063,
+    "ad_plus_inherited_ratio": 0.2726234038016679
+  },
+  "financialexpress.com": {
+    "total_time": 58.913736666766034,
+    "ad_time": 9.37575700012773,
+    "ad_plus_inherited": 14.71572066672766,
+    "ad_ratio": 0.15914381824327078,
+    "ad_plus_inherited_ratio": 0.24978420143275312
+  },
+  "prnewswire.com": {
+    "total_time": 23.25611375011067,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "thehindubusinessline.com": {
+    "total_time": 104.36391150004056,
+    "ad_time": 0.29795399999420624,
+    "ad_plus_inherited": 0.29795399999420624,
+    "ad_ratio": 0.0028549524036773043,
+    "ad_plus_inherited_ratio": 0.0028549524036773043
+  },
+  "thetimes.co.uk": {
+    "total_time": 101.16110225004377,
+    "ad_time": 13.139695500016387,
+    "ad_plus_inherited": 13.36924000003637,
+    "ad_ratio": 0.12988881306906383,
+    "ad_plus_inherited_ratio": 0.13215791151613895
+  },
+  "money.cnn.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "theage.com.au": {
+    "total_time": 188.07431049966544,
+    "ad_time": 16.392302749947703,
+    "ad_plus_inherited": 30.690005749980628,
+    "ad_ratio": 0.08715864865540401,
+    "ad_plus_inherited_ratio": 0.16318021141986438
+  },
+  "metoffice.gov.uk": {
+    "total_time": 39.78187533333154,
+    "ad_time": 3.943869000106739,
+    "ad_plus_inherited": 4.99821300012021,
+    "ad_ratio": 0.099137332442504,
+    "ad_plus_inherited_ratio": 0.12564045707348592
+  },
+  "newsmax.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "fortune.com": {
+    "total_time": 325.4659207501318,
+    "ad_time": 8.990692750026938,
+    "ad_plus_inherited": 10.02345325002534,
+    "ad_ratio": 0.027624068072335334,
+    "ad_plus_inherited_ratio": 0.030797243615931738
+  },
+  "thestar.com": {
+    "total_time": 107.19501899979261,
+    "ad_time": 11.707246666541327,
+    "ad_plus_inherited": 17.89986833320776,
+    "ad_ratio": 0.10921446514752683,
+    "ad_plus_inherited_ratio": 0.16698414254903385
+  },
+  "thenews.com.pk": {
+    "total_time": 34.729353666780895,
+    "ad_time": 8.068462666812895,
+    "ad_plus_inherited": 11.304497333476316,
+    "ad_ratio": 0.2323240087975058,
+    "ad_plus_inherited_ratio": 0.3255026696419411
+  },
+  "ap.org": {
+    "total_time": 24.974188000065624,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "dnaindia.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "miamiherald.com": {
+    "total_time": 223.69744749940583,
+    "ad_time": 71.52066299945,
+    "ad_plus_inherited": 91.68536949928966,
+    "ad_ratio": 0.31972051446693406,
+    "ad_plus_inherited_ratio": 0.40986327972979303
+  },
+  "theroot.com": {
+    "total_time": 105.017029500028,
+    "ad_time": 13.101740750105819,
+    "ad_plus_inherited": 13.659237000101712,
+    "ad_ratio": 0.12475824932852747,
+    "ad_plus_inherited_ratio": 0.13006687644024506
+  },
+  "seattletimes.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "bostonglobe.com": {
+    "total_time": 172.92059099965263,
+    "ad_time": 14.874400999746285,
+    "ad_plus_inherited": 15.03823599970201,
+    "ad_ratio": 0.08601868009909916,
+    "ad_plus_inherited_ratio": 0.08696613811441473
+  },
+  "theepochtimes.com": {
+    "total_time": 54.52965775026678,
+    "ad_time": 6.373375999974087,
+    "ad_plus_inherited": 6.373375999974087,
+    "ad_ratio": 0.11687907577125599,
+    "ad_plus_inherited_ratio": 0.11687907577125599
+  },
+  "ajc.com": {
+    "total_time": 237.14854566685995,
+    "ad_time": 30.232519000128377,
+    "ad_plus_inherited": 32.67191766679751,
+    "ad_ratio": 0.1274834678623677,
+    "ad_plus_inherited_ratio": 0.13776984199892234
+  },
+  "mercurynews.com": {
+    "total_time": 107.01419400091982,
+    "ad_time": 15.733747000282165,
+    "ad_plus_inherited": 15.733747000282165,
+    "ad_ratio": 0.14702486102121115,
+    "ad_plus_inherited_ratio": 0.14702486102121115
+  },
+  "voat.co": {
+    "total_time": 2.6587274999765214,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "deccanchronicle.com": {
+    "total_time": 110.2663090005808,
+    "ad_time": 14.906867500045337,
+    "ad_plus_inherited": 21.754624500186765,
+    "ad_ratio": 0.13518968427579106,
+    "ad_plus_inherited_ratio": 0.1972916722919616
+  },
+  "oregonlive.com": {
+    "total_time": 41.453411249844066,
+    "ad_time": 3.7335397499482497,
+    "ad_plus_inherited": 3.7423262499578414,
+    "ad_ratio": 0.09006592310210161,
+    "ad_plus_inherited_ratio": 0.09027788394548394
+  },
+  "washingtontimes.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "startribune.com": {
+    "total_time": 155.15036999975564,
+    "ad_time": 24.687393999658525,
+    "ad_plus_inherited": 24.687393999658525,
+    "ad_ratio": 0.15911914357469728,
+    "ad_plus_inherited_ratio": 0.15911914357469728
+  },
+  "theonion.com": {
+    "total_time": 77.0007210002077,
+    "ad_time": 9.736947500074166,
+    "ad_plus_inherited": 14.819788000073459,
+    "ad_ratio": 0.12645267958007694,
+    "ad_plus_inherited_ratio": 0.19246297706788335
+  },
+  "blastingnews.com": {
+    "total_time": 9.416653749976831,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "stltoday.com": {
+    "total_time": 124.97923500047182,
+    "ad_time": 21.326470999978483,
+    "ad_plus_inherited": 25.92715399991721,
+    "ad_ratio": 0.17064011473504356,
+    "ad_plus_inherited_ratio": 0.20745169387394097
+  },
+  "lexisnexis.com": {
+    "total_time": 10.418121000046085,
+    "ad_time": 1.1466767500533024,
+    "ad_plus_inherited": 1.1466767500533024,
+    "ad_ratio": 0.1100656010856689,
+    "ad_plus_inherited_ratio": 0.1100656010856689
+  },
+  "radar.weather.gov": {
+    "total_time": 2.3097245001699775,
+    "ad_time": 0.22225900006014854,
+    "ad_plus_inherited": 0.22225900006014854,
+    "ad_ratio": 0.09622749381746265,
+    "ad_plus_inherited_ratio": 0.09622749381746265
+  },
+  "topix.com": {
+    "total_time": 43.61353050004254,
+    "ad_time": 1.4237010000069859,
+    "ad_plus_inherited": 1.4237010000069859,
+    "ad_ratio": 0.03264356230013521,
+    "ad_plus_inherited_ratio": 0.03264356230013521
+  },
+  "dallasnews.com": {
+    "total_time": 110.75073849994806,
+    "ad_time": 12.385338500025682,
+    "ad_plus_inherited": 12.385338500025682,
+    "ad_ratio": 0.11183075316496865,
+    "ad_plus_inherited_ratio": 0.11183075316496865
+  },
+  "al.com": {
+    "total_time": 40.34980049992737,
+    "ad_time": 3.7314237501414027,
+    "ad_plus_inherited": 3.7314237501414027,
+    "ad_ratio": 0.09247688226235765,
+    "ad_plus_inherited_ratio": 0.09247688226235765
+  },
+  "freep.com": {
+    "total_time": 68.52529899944784,
+    "ad_time": 12.579868000058923,
+    "ad_plus_inherited": 16.63839399983408,
+    "ad_ratio": 0.1835799067459784,
+    "ad_plus_inherited_ratio": 0.2428065873885227
+  },
+  "theweek.com": {
+    "total_time": 59.14633700065315,
+    "ad_time": 10.548452999966685,
+    "ad_plus_inherited": 15.163690999906976,
+    "ad_ratio": 0.1783449920127801,
+    "ad_plus_inherited_ratio": 0.2563758259406584
+  },
+  "huffingtonpost.com": {
+    "total_time": 119.15089099947363,
+    "ad_time": 6.099958999751834,
+    "ad_plus_inherited": 6.099958999751834,
+    "ad_ratio": 0.051195244522164604,
+    "ad_plus_inherited_ratio": 0.051195244522164604
+  },
+  "nationalpost.com": {
+    "total_time": 220.3460149998864,
+    "ad_time": 41.47732174983685,
+    "ad_plus_inherited": 49.90491049981938,
+    "ad_ratio": 0.18823722203398247,
+    "ad_plus_inherited_ratio": 0.22648428881205368
+  },
+  "newindianexpress.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "fark.com": {
+    "total_time": 158.6691540000029,
+    "ad_time": 24.181959749672387,
+    "ad_plus_inherited": 29.580166749714408,
+    "ad_ratio": 0.15240492017542331,
+    "ad_plus_inherited_ratio": 0.18642669985946903
+  },
+  "adweek.com": {
+    "total_time": 49.37960600032238,
+    "ad_time": 11.578948250011308,
+    "ad_plus_inherited": 13.409285249988898,
+    "ad_ratio": 0.23448846979329308,
+    "ad_plus_inherited_ratio": 0.27155512844515917
+  },
+  "newspapers.com": {
+    "total_time": 21.950311500004318,
+    "ad_time": 0.1279954999918118,
+    "ad_plus_inherited": 0.1279954999918118,
+    "ad_ratio": 0.005831147316145679,
+    "ad_plus_inherited_ratio": 0.005831147316145679
+  },
+  "rappler.com": {
+    "total_time": 116.99643924942939,
+    "ad_time": 21.83829174980201,
+    "ad_plus_inherited": 28.87167799987219,
+    "ad_ratio": 0.18665774693573436,
+    "ad_plus_inherited_ratio": 0.24677398889311072
+  },
+  "nola.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "theaustralian.com.au": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "metafilter.com": {
+    "total_time": 7.465803000028245,
+    "ad_time": 1.2413802499650046,
+    "ad_plus_inherited": 1.2413802499650046,
+    "ad_ratio": 0.16627551650643718,
+    "ad_plus_inherited_ratio": 0.16627551650643718
+  },
+  "sfchronicle.com": {
+    "total_time": 97.891636750428,
+    "ad_time": 9.858268500000122,
+    "ad_plus_inherited": 11.033184500010975,
+    "ad_ratio": 0.10070593185742212,
+    "ad_plus_inherited_ratio": 0.11270814204628911
+  },
+  "deseretnews.com": {
+    "total_time": 55.23379224944074,
+    "ad_time": 5.810990999911155,
+    "ad_plus_inherited": 6.716870499876677,
+    "ad_ratio": 0.10520717052467085,
+    "ad_plus_inherited_ratio": 0.1216079908028529
+  },
+  "denverpost.com": {
+    "total_time": 136.839603000437,
+    "ad_time": 17.22851266668294,
+    "ad_plus_inherited": 33.06020566668791,
+    "ad_ratio": 0.12590297171958267,
+    "ad_plus_inherited_ratio": 0.2415982284498613
+  },
+  "tribuneindia.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "baltimoresun.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "inquisitr.com": {
+    "total_time": 94.50200200037216,
+    "ad_time": 9.729899000085425,
+    "ad_plus_inherited": 12.211982000182616,
+    "ad_ratio": 0.102959712959807,
+    "ad_plus_inherited_ratio": 0.12922458510598034
+  },
+  "thebetterindia.com": {
+    "total_time": 275.2685420002963,
+    "ad_time": 1.6472724999839556,
+    "ad_plus_inherited": 1.6472724999839556,
+    "ad_ratio": 0.005984238111677078,
+    "ad_plus_inherited_ratio": 0.005984238111677078
+  },
+  "foreca.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "afr.com": {
+    "total_time": 77.59448299941141,
+    "ad_time": 12.4773145000363,
+    "ad_plus_inherited": 23.887642499961657,
+    "ad_ratio": 0.1608015675564324,
+    "ad_plus_inherited_ratio": 0.3078523314620558
+  },
+  "detroitnews.com": {
+    "total_time": 73.5416240003542,
+    "ad_time": 13.834240999887697,
+    "ad_plus_inherited": 17.138134999840986,
+    "ad_ratio": 0.18811443434837755,
+    "ad_plus_inherited_ratio": 0.23303993123348
+  },
+  "uk.reuters.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "heraldsun.com.au": {
+    "total_time": 87.04340500000399,
+    "ad_time": 8.30267650001042,
+    "ad_plus_inherited": 14.86954650010739,
+    "ad_ratio": 0.09538547463774011,
+    "ad_plus_inherited_ratio": 0.17082909957516837
+  },
+  "upi.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "tampabay.com": {
+    "total_time": 194.75418250029907,
+    "ad_time": 17.926513999904273,
+    "ad_plus_inherited": 19.666353499997058,
+    "ad_ratio": 0.09204687555234786,
+    "ad_plus_inherited_ratio": 0.10098039101145803
+  },
+  "ocregister.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "telegraphindia.com": {
+    "total_time": 297.93819650029764,
+    "ad_time": 14.066183500108309,
+    "ad_plus_inherited": 30.890707000071416,
+    "ad_ratio": 0.047211749501525416,
+    "ad_plus_inherited_ratio": 0.10368159357519825
+  },
+  "sun-sentinel.com": {
+    "total_time": 144.96993566656604,
+    "ad_time": 24.4955123331747,
+    "ad_plus_inherited": 28.617193666490508,
+    "ad_ratio": 0.16896960201123978,
+    "ad_plus_inherited_ratio": 0.19740088546573314
+  },
+  "newsday.com": {
+    "total_time": 84.59582750042318,
+    "ad_time": 7.2505460000247695,
+    "ad_plus_inherited": 8.429055500004324,
+    "ad_ratio": 0.08570808057866092,
+    "ad_plus_inherited_ratio": 0.09963914000323666
+  },
+  "afp.com": {
+    "total_time": 45.42991475019517,
+    "ad_time": 0.7560012499889126,
+    "ad_plus_inherited": 0.7560012499889126,
+    "ad_ratio": 0.016641044874196355,
+    "ad_plus_inherited_ratio": 0.016641044874196355
+  },
+  "deccanherald.com": {
+    "total_time": 680.0208219999913,
+    "ad_time": 268.62574300036067,
+    "ad_plus_inherited": 268.62574300036067,
+    "ad_ratio": 0.39502576143229345,
+    "ad_plus_inherited_ratio": 0.39502576143229345
+  },
+  "dowjones.com": {
+    "total_time": 46.95714650009904,
+    "ad_time": 1.0446669999946607,
+    "ad_plus_inherited": 1.0446669999946607,
+    "ad_ratio": 0.02224724196118811,
+    "ad_plus_inherited_ratio": 0.02224724196118811
+  },
+  "fcc.gov": {
+    "total_time": 8.605956249957671,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "dailytelegraph.com.au": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "suntimes.com": {
+    "total_time": 69.52989050005272,
+    "ad_time": 5.796894250008336,
+    "ad_plus_inherited": 6.006142250007542,
+    "ad_ratio": 0.08337269350372328,
+    "ad_plus_inherited_ratio": 0.0863821617841177
+  },
+  "mid-day.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "sltrib.com": {
+    "total_time": 44.53665099985665,
+    "ad_time": 3.457920999979251,
+    "ad_plus_inherited": 3.624528999978793,
+    "ad_ratio": 0.07764214242311082,
+    "ad_plus_inherited_ratio": 0.08138306133504424
+  },
+  "commondreams.org": {
+    "total_time": 53.618459499768505,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "weatherbug.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "sacbee.com": {
+    "total_time": 245.05252799997106,
+    "ad_time": 67.82877299952088,
+    "ad_plus_inherited": 79.85445399954915,
+    "ad_ratio": 0.27679279031771054,
+    "ad_plus_inherited_ratio": 0.32586668112054157
+  },
+  "losangeles.cbslocal.com": {
+    "total_time": 9.028772000106983,
+    "ad_time": 0.7691557500656927,
+    "ad_plus_inherited": 0.7691557500656927,
+    "ad_ratio": 0.08518940893142267,
+    "ad_plus_inherited_ratio": 0.08518940893142267
+  },
+  "bostonherald.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "wtop.com": {
+    "total_time": 59.17567924968898,
+    "ad_time": 5.516592749860138,
+    "ad_plus_inherited": 7.467754499935836,
+    "ad_ratio": 0.09322398694543302,
+    "ad_plus_inherited_ratio": 0.12619634611080674
+  },
+  "reviewjournal.com": {
+    "total_time": 54.85472574955202,
+    "ad_time": 3.4212412500128266,
+    "ad_plus_inherited": 3.4212412500128266,
+    "ad_ratio": 0.062369125052835886,
+    "ad_plus_inherited_ratio": 0.062369125052835886
+  },
+  "orlandosentinel.com": {
+    "total_time": 310.3478414998099,
+    "ad_time": 49.43983099986508,
+    "ad_plus_inherited": 57.21451999984856,
+    "ad_ratio": 0.1593045750243936,
+    "ad_plus_inherited_ratio": 0.1843561074030657
+  },
+  "jsonline.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "smartbrief.com": {
+    "total_time": 66.2612339999614,
+    "ad_time": 0.1458794999998645,
+    "ad_plus_inherited": 0.1458794999998645,
+    "ad_ratio": 0.0022015813952385712,
+    "ad_plus_inherited_ratio": 0.0022015813952385712
+  },
+  "parade.com": {
+    "total_time": 49.23601399973268,
+    "ad_time": 9.023464000027161,
+    "ad_plus_inherited": 9.51984199997969,
+    "ad_ratio": 0.18326958799053378,
+    "ad_plus_inherited_ratio": 0.1933511920772339
+  },
+  "observer.com": {
+    "total_time": 165.85989649980183,
+    "ad_time": 8.81727950003551,
+    "ad_plus_inherited": 10.471089250131627,
+    "ad_ratio": 0.05316100929826666,
+    "ad_plus_inherited_ratio": 0.06313213423562059
+  },
+  "c-span.org": {
+    "total_time": 24.339424999932817,
+    "ad_time": 0.11679800000274554,
+    "ad_plus_inherited": 0.11679800000274554,
+    "ad_ratio": 0.004798716485827744,
+    "ad_plus_inherited_ratio": 0.004798716485827744
+  },
+  "beforeitsnews.com": {
+    "total_time": 69.91883524995501,
+    "ad_time": 0.6473812500044005,
+    "ad_plus_inherited": 0.6473812500044005,
+    "ad_ratio": 0.009259039394607435,
+    "ad_plus_inherited_ratio": 0.009259039394607435
+  },
+  "siasat.com": {
+    "total_time": 21.95961049971811,
+    "ad_time": 5.545164499882958,
+    "ad_plus_inherited": 6.260335499915527,
+    "ad_ratio": 0.2525165234581069,
+    "ad_plus_inherited_ratio": 0.28508408653222195
+  },
+  "syracuse.com": {
+    "total_time": 57.98992925004859,
+    "ad_time": 3.8582387500428013,
+    "ad_plus_inherited": 3.8582387500428013,
+    "ad_ratio": 0.06653291010938021,
+    "ad_plus_inherited_ratio": 0.06653291010938021
+  },
+  "seattlepi.com": {
+    "total_time": 178.1227829997173,
+    "ad_time": 19.719476666650735,
+    "ad_plus_inherited": 20.938840333372358,
+    "ad_ratio": 0.11070721181513335,
+    "ad_plus_inherited_ratio": 0.11755284742775209
+  },
+  "sandiegouniontribune.com": {
+    "total_time": 89.9787260004863,
+    "ad_time": 18.678144666676715,
+    "ad_plus_inherited": 22.15616266670986,
+    "ad_ratio": 0.20758400898647716,
+    "ad_plus_inherited_ratio": 0.24623779032601678
+  },
+  "newrepublic.com": {
+    "total_time": 58.84466174989211,
+    "ad_time": 4.174652499947115,
+    "ad_plus_inherited": 4.818851999974868,
+    "ad_ratio": 0.07094360602650195,
+    "ad_plus_inherited_ratio": 0.08189106465521832
+  },
+  "wn.com": {
+    "total_time": 259.3271347500049,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "buffalonews.com": {
+    "total_time": 94.36195699998643,
+    "ad_time": 10.00612300017383,
+    "ad_plus_inherited": 11.212965000187978,
+    "ad_ratio": 0.10603979949435839,
+    "ad_plus_inherited_ratio": 0.11882929685518911
+  },
+  "mysanantonio.com": {
+    "total_time": 215.7103000003117,
+    "ad_time": 20.695774249943497,
+    "ad_plus_inherited": 20.898298749954847,
+    "ad_ratio": 0.09594244804218247,
+    "ad_plus_inherited_ratio": 0.09688132068762896
+  },
+  "cision.com": {
+    "total_time": 61.33182449969172,
+    "ad_time": 0.9557932499956223,
+    "ad_plus_inherited": 0.9557932499956223,
+    "ad_ratio": 0.0155839689719393,
+    "ad_plus_inherited_ratio": 0.0155839689719393
+  },
+  "indystar.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "alternet.org": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "newsobserver.com": {
+    "total_time": 169.21264900095412,
+    "ad_time": 30.981668000094942,
+    "ad_plus_inherited": 46.143468500100425,
+    "ad_ratio": 0.18309309725374165,
+    "ad_plus_inherited_ratio": 0.272695148811483
+  },
+  "kansascity.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "vancouversun.com": {
+    "total_time": 162.76425450030365,
+    "ad_time": 35.763377500115894,
+    "ad_plus_inherited": 38.594345500081545,
+    "ad_ratio": 0.21972501032190195,
+    "ad_plus_inherited_ratio": 0.2371180675914904
+  },
+  "thestranger.com": {
+    "total_time": 103.87174250021053,
+    "ad_time": 12.788190500192286,
+    "ad_plus_inherited": 13.510216000169748,
+    "ad_ratio": 0.12311520142416371,
+    "ad_plus_inherited_ratio": 0.13006632675043808
+  },
+  "couriermail.com.au": {
+    "total_time": 85.52415200024552,
+    "ad_time": 9.516421000022092,
+    "ad_plus_inherited": 14.999008000013418,
+    "ad_ratio": 0.11127173760220122,
+    "ad_plus_inherited_ratio": 0.1753774536106521
+  },
+  "tennessean.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "militarytimes.com": {
+    "total_time": 44.944580500465236,
+    "ad_time": 4.5208925000042655,
+    "ad_plus_inherited": 4.541950500017265,
+    "ad_ratio": 0.10058815656222374,
+    "ad_plus_inherited_ratio": 0.10105668913675253
+  },
+  "law.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "thewest.com.au": {
+    "total_time": 53.72942166649347,
+    "ad_time": 5.852374000018851,
+    "ad_plus_inherited": 8.685333000088574,
+    "ad_ratio": 0.10892307824092,
+    "ad_plus_inherited_ratio": 0.16164947864132487
+  },
+  "mumbaimirror.indiatimes.com": {
+    "total_time": 91.08376475032128,
+    "ad_time": 10.965610000122979,
+    "ad_plus_inherited": 20.84574300015811,
+    "ad_ratio": 0.12039039042997286,
+    "ad_plus_inherited_ratio": 0.22886343199911025
+  },
+  "federalreserve.gov": {
+    "total_time": 16.402269750127743,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "criticalmention.com": {
+    "total_time": 63.404570999780844,
+    "ad_time": 0.6742835000331979,
+    "ad_plus_inherited": 0.6742835000331979,
+    "ad_ratio": 0.010634619703294398,
+    "ad_plus_inherited_ratio": 0.010634619703294398
+  },
+  "westword.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "courant.com": {
+    "total_time": 92.89299650010071,
+    "ad_time": 16.29446150001604,
+    "ad_plus_inherited": 19.262314000050537,
+    "ad_ratio": 0.17541108709953582,
+    "ad_plus_inherited_ratio": 0.20736023947757629
+  },
+  "theadvocate.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "palmbeachpost.com": {
+    "total_time": 118.95376175008278,
+    "ad_time": 16.128589999985707,
+    "ad_plus_inherited": 16.80117325000174,
+    "ad_ratio": 0.13558705300864085,
+    "ad_plus_inherited_ratio": 0.14124121005353618
+  },
+  "weather.info": {
+    "total_time": 3.5442090000142343,
+    "ad_time": 0.6952574999595527,
+    "ad_plus_inherited": 0.6952574999595527,
+    "ad_ratio": 0.1961671842593821,
+    "ad_plus_inherited_ratio": 0.1961671842593821
+  },
+  "worldweatheronline.com": {
+    "total_time": 105.0467670000362,
+    "ad_time": 15.12623075004376,
+    "ad_plus_inherited": 24.373137500035227,
+    "ad_ratio": 0.14399520501224514,
+    "ad_plus_inherited_ratio": 0.23202177654859982
+  },
+  "thestatesman.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "freepressjournal.in": {
+    "total_time": 15.100574500022049,
+    "ad_time": 2.548238249961287,
+    "ad_plus_inherited": 3.223052999950596,
+    "ad_ratio": 0.16875107963326602,
+    "ad_plus_inherited_ratio": 0.21343909795921276
+  },
+  "twincities.com": {
+    "total_time": 133.95030666648142,
+    "ad_time": 22.355635000130857,
+    "ad_plus_inherited": 30.68526200013004,
+    "ad_ratio": 0.16689498931714605,
+    "ad_plus_inherited_ratio": 0.2290794456822879
+  },
+  "dailyherald.com": {
+    "total_time": 207.42377366680503,
+    "ad_time": 23.126817333376177,
+    "ad_plus_inherited": 25.1084110001005,
+    "ad_ratio": 0.11149549988674835,
+    "ad_plus_inherited_ratio": 0.12104885836487272
+  },
+  "omaha.com": {
+    "total_time": 59.555901333893544,
+    "ad_time": 14.586664333444787,
+    "ad_plus_inherited": 16.99623533344129,
+    "ad_ratio": 0.2449239119338699,
+    "ad_plus_inherited_ratio": 0.28538289158204133
+  },
+  "triblive.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "copyright.gov": {
+    "total_time": 6.769185249999282,
+    "ad_time": 0.06459449999965727,
+    "ad_plus_inherited": 0.06459449999965727,
+    "ad_ratio": 0.009542433485575553,
+    "ad_plus_inherited_ratio": 0.009542433485575553
+  },
+  "adelaidenow.com.au": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "statesman.com": {
+    "total_time": 131.01252725016093,
+    "ad_time": 21.18110775014793,
+    "ad_plus_inherited": 21.416280250166892,
+    "ad_ratio": 0.16167238503615625,
+    "ad_plus_inherited_ratio": 0.16346742330429004
+  },
+  "snow-forecast.com": {
+    "total_time": 68.92647825009044,
+    "ad_time": 3.3359067501078243,
+    "ad_plus_inherited": 5.838851250111475,
+    "ad_ratio": 0.048398044333614956,
+    "ad_plus_inherited_ratio": 0.08471129525762204
+  },
+  "niemanlab.org": {
+    "total_time": 36.149673500265635,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "star-telegram.com": {
+    "total_time": 49.54602499981411,
+    "ad_time": 2.879360000093584,
+    "ad_plus_inherited": 2.879360000093584,
+    "ad_ratio": 0.058114853817322114,
+    "ad_plus_inherited_ratio": 0.058114853817322114
+  },
+  "mediamatters.org": {
+    "total_time": 17.027126749882882,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "adn.com": {
+    "total_time": 68.66786100034369,
+    "ad_time": 10.22141100015142,
+    "ad_plus_inherited": 10.22141100015142,
+    "ad_ratio": 0.14885291097243092,
+    "ad_plus_inherited_ratio": 0.14885291097243092
+  },
+  "good.is": {
+    "total_time": 54.51057349994517,
+    "ad_time": 5.794164250124595,
+    "ad_plus_inherited": 6.45295625012659,
+    "ad_ratio": 0.10629431829643883,
+    "ad_plus_inherited_ratio": 0.11837990018822828
+  },
+  "timesunion.com": {
+    "total_time": 241.64691633316903,
+    "ad_time": 27.821074000259024,
+    "ad_plus_inherited": 36.418177000237236,
+    "ad_ratio": 0.11513109466665368,
+    "ad_plus_inherited_ratio": 0.1507082215360279
+  },
+  "desmoinesregister.com": {
+    "total_time": 97.01501500076847,
+    "ad_time": 14.611915000074077,
+    "ad_plus_inherited": 22.35351300012553,
+    "ad_ratio": 0.15061498470065005,
+    "ad_plus_inherited_ratio": 0.2304129211333778
+  },
+  "nyse.com": {
+    "total_time": 46.377445500009344,
+    "ad_time": 0.04463850000320235,
+    "ad_plus_inherited": 0.04463850000320235,
+    "ad_ratio": 0.0009625045002358605,
+    "ad_plus_inherited_ratio": 0.0009625045002358605
+  },
+  "montrealgazette.com": {
+    "total_time": 175.4189787499272,
+    "ad_time": 39.99943450008868,
+    "ad_plus_inherited": 49.297256250079954,
+    "ad_ratio": 0.22802227435784386,
+    "ad_plus_inherited_ratio": 0.28102578524503247
+  },
+  "rollcall.com": {
+    "total_time": 154.42151599978388,
+    "ad_time": 13.902012000064133,
+    "ad_plus_inherited": 17.396907000089413,
+    "ad_ratio": 0.09002639243668344,
+    "ad_plus_inherited_ratio": 0.11265856890120002
+  },
+  "thedrum.com": {
+    "total_time": 86.83935675002431,
+    "ad_time": 8.399148999997124,
+    "ad_plus_inherited": 8.399148999997124,
+    "ad_ratio": 0.096720534494226,
+    "ad_plus_inherited_ratio": 0.096720534494226
+  },
+  "macleans.ca": {
+    "total_time": 79.95950475025893,
+    "ad_time": 7.7687077501177555,
+    "ad_plus_inherited": 8.282913500115683,
+    "ad_ratio": 0.09715802735874997,
+    "ad_plus_inherited_ratio": 0.10358885445809193
+  },
+  "newstracklive.com": {
+    "total_time": 688.8605990006035,
+    "ad_time": 12.960386000282597,
+    "ad_plus_inherited": 20.17239800018433,
+    "ad_ratio": 0.018814236173596628,
+    "ad_plus_inherited_ratio": 0.029283715790176374
+  },
+  "rferl.org": {
+    "total_time": 26.244795500017062,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "stripes.com": {
+    "total_time": 168.6672844997156,
+    "ad_time": 16.227794999882462,
+    "ad_plus_inherited": 21.053956499890774,
+    "ad_ratio": 0.09621187089135727,
+    "ad_plus_inherited_ratio": 0.12482537181018215
+  },
+  "rasmussenreports.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "northjersey.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "newswire.ca": {
+    "total_time": 18.751963250120752,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "tveyes.com": {
+    "total_time": 80.85485900008644,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "richmond.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "mediabistro.com": {
+    "total_time": 153.61124124983326,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "prweb.com": {
+    "total_time": 63.77748549987882,
+    "ad_time": 0.8135872499988182,
+    "ad_plus_inherited": 0.8135872499988182,
+    "ad_ratio": 0.012756652972785576,
+    "ad_plus_inherited_ratio": 0.012756652972785576
+  },
+  "dailynews.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "dailypioneer.com": {
+    "total_time": 313.69157099997403,
+    "ad_time": 6.2257796665847644,
+    "ad_plus_inherited": 7.8028196665788245,
+    "ad_ratio": 0.01984681847439656,
+    "ad_plus_inherited_ratio": 0.024874177019501332
+  },
+  "poynter.org": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "asianage.com": {
+    "total_time": 108.39533500011748,
+    "ad_time": 9.095932000127505,
+    "ad_plus_inherited": 13.422919500109856,
+    "ad_ratio": 0.08391442307104495,
+    "ad_plus_inherited_ratio": 0.12383299982508757
+  },
+  "assamtribune.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "csmonitor.com": {
+    "total_time": 45.99676750013168,
+    "ad_time": 6.589595999947051,
+    "ad_plus_inherited": 8.083217249950394,
+    "ad_ratio": 0.14326215423569028,
+    "ad_plus_inherited_ratio": 0.17573446329521422
+  },
+  "weather2umbrella.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "calgaryherald.com": {
+    "total_time": 245.89066099995418,
+    "ad_time": 32.41661566666639,
+    "ad_plus_inherited": 44.47283100007914,
+    "ad_ratio": 0.13183345611760516,
+    "ad_plus_inherited_ratio": 0.18086425413321178
+  },
+  "pressdemocrat.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "mediapost.com": {
+    "total_time": 35.88343425002677,
+    "ad_time": 0.17057275003026007,
+    "ad_plus_inherited": 0.17057275003026007,
+    "ad_ratio": 0.004753523557465318,
+    "ad_plus_inherited_ratio": 0.004753523557465318
+  },
+  "globaltimes.cn": {
+    "total_time": 53.76820166687441,
+    "ad_time": 1.9281896666895284,
+    "ad_plus_inherited": 3.507627666704745,
+    "ad_ratio": 0.03586115225939294,
+    "ad_plus_inherited_ratio": 0.06523609787875292
+  },
+  "newswire.com": {
+    "total_time": 25.77961150025658,
+    "ad_time": 0.7874099999899045,
+    "ad_plus_inherited": 0.7874099999899045,
+    "ad_ratio": 0.03054390482114393,
+    "ad_plus_inherited_ratio": 0.03054390482114393
+  },
+  "factcheck.org": {
+    "total_time": 14.432530999882147,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "staradvertiser.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "goodnewsnetwork.org": {
+    "total_time": 155.49235066639582,
+    "ad_time": 12.440549333347011,
+    "ad_plus_inherited": 14.536907666673264,
+    "ad_ratio": 0.08000746840619727,
+    "ad_plus_inherited_ratio": 0.09348953568694683
+  },
+  "tallahassee.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "spokesman.com": {
+    "total_time": 36.26117966656843,
+    "ad_time": 4.740741333264548,
+    "ad_plus_inherited": 5.141736999949595,
+    "ad_ratio": 0.1307387508309706,
+    "ad_plus_inherited_ratio": 0.1417972897525477
+  },
+  "project-syndicate.org": {
+    "total_time": 45.98610899977939,
+    "ad_time": 1.9653602498510736,
+    "ad_plus_inherited": 1.9653602498510736,
+    "ad_ratio": 0.04273812880886491,
+    "ad_plus_inherited_ratio": 0.04273812880886491
+  },
+  "lohud.com": {
+    "total_time": 90.9999230002577,
+    "ad_time": 14.859940499911318,
+    "ad_plus_inherited": 20.846240499959094,
+    "ad_ratio": 0.1632961876228097,
+    "ad_plus_inherited_ratio": 0.22907975976968753
+  },
+  "edmontonjournal.com": {
+    "total_time": 150.9928284998241,
+    "ad_time": 36.59252649998234,
+    "ad_plus_inherited": 40.55770549995941,
+    "ad_ratio": 0.2423461224188205,
+    "ad_plus_inherited_ratio": 0.2686068332047085
+  },
+  "pilotonline.com": {
+    "total_time": 135.54305474977446,
+    "ad_time": 30.085584000007657,
+    "ad_plus_inherited": 32.542355250050605,
+    "ad_ratio": 0.2219633020337969,
+    "ad_plus_inherited_ratio": 0.24008869587694426
+  },
+  "democratandchronicle.com": {
+    "total_time": 142.54483050041017,
+    "ad_time": 18.887173499926575,
+    "ad_plus_inherited": 36.82949899997038,
+    "ad_ratio": 0.1324998839566632,
+    "ad_plus_inherited_ratio": 0.2583713409365933
+  },
+  "ctpost.com": {
+    "total_time": 171.21064200019464,
+    "ad_time": 14.9336029998085,
+    "ad_plus_inherited": 18.403094999783207,
+    "ad_ratio": 0.08722356756183136,
+    "ad_plus_inherited_ratio": 0.10748803219698391
+  },
+  "lasvegassun.com": {
+    "total_time": 56.03658250002627,
+    "ad_time": 6.6745624999457505,
+    "ad_plus_inherited": 7.645197749952786,
+    "ad_ratio": 0.11911080587297809,
+    "ad_plus_inherited_ratio": 0.13643226279813195
+  },
+  "commercialappeal.com": {
+    "total_time": 64.6551800002344,
+    "ad_time": 12.403382000047714,
+    "ad_plus_inherited": 17.162298000010196,
+    "ad_ratio": 0.19183895242427207,
+    "ad_plus_inherited_ratio": 0.26544351125382337
+  },
+  "heraldtribune.com": {
+    "total_time": 136.90346525009954,
+    "ad_time": 18.615967250050744,
+    "ad_plus_inherited": 19.498269250034355,
+    "ad_ratio": 0.1359787877979751,
+    "ad_plus_inherited_ratio": 0.14242348953267403
+  },
+  "pe.com": {
+    "total_time": 71.77470299956622,
+    "ad_time": 14.3382959998562,
+    "ad_plus_inherited": 19.564399999944726,
+    "ad_ratio": 0.19976809935309459,
+    "ad_plus_inherited_ratio": 0.2725807169144673
+  },
+  "wfp.org": {
+    "total_time": 22.220450500004517,
+    "ad_time": 0.6560252500057686,
+    "ad_plus_inherited": 0.6560252500057686,
+    "ad_ratio": 0.02952349008430928,
+    "ad_plus_inherited_ratio": 0.02952349008430928
+  },
+  "tucson.com": {
+    "total_time": 104.90724066665283,
+    "ad_time": 20.947599333293805,
+    "ad_plus_inherited": 26.781757999997353,
+    "ad_ratio": 0.19967734543562807,
+    "ad_plus_inherited_ratio": 0.2552898906672945
+  },
+  "rgj.com": {
+    "total_time": 85.5607564998063,
+    "ad_time": 13.718473499917309,
+    "ad_plus_inherited": 20.123546499977238,
+    "ad_ratio": 0.16033604728528045,
+    "ad_plus_inherited_ratio": 0.2351959861414128
+  },
+  "greaterkashmir.com": {
+    "total_time": 131.589381249898,
+    "ad_time": 11.77820499988593,
+    "ad_plus_inherited": 12.515054249852255,
+    "ad_ratio": 0.08950726029722902,
+    "ad_plus_inherited_ratio": 0.0951068705618825
+  },
+  "lucianne.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "einpresswire.com": {
+    "total_time": 42.69976475015574,
+    "ad_time": 0.17410999999265186,
+    "ad_plus_inherited": 0.17410999999265186,
+    "ad_ratio": 0.004077540028883106,
+    "ad_plus_inherited_ratio": 0.004077540028883106
+  },
+  "telegram.com": {
+    "total_time": 168.90695549994416,
+    "ad_time": 30.675352499907603,
+    "ad_plus_inherited": 30.904257249880175,
+    "ad_ratio": 0.1816109491116708,
+    "ad_plus_inherited_ratio": 0.18296616121229176
+  },
+  "roanoke.com": {
+    "total_time": 83.01529399951687,
+    "ad_time": 19.942417999525787,
+    "ad_plus_inherited": 26.526555999560514,
+    "ad_ratio": 0.24022583115397805,
+    "ad_plus_inherited_ratio": 0.31953818051544686
+  },
+  "orlandoweekly.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "phoenixnewtimes.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "heraldextra.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "timesfreepress.com": {
+    "total_time": 140.79041300018446,
+    "ad_time": 11.850117666772958,
+    "ad_plus_inherited": 17.73715066671138,
+    "ad_ratio": 0.08416849850960685,
+    "ad_plus_inherited_ratio": 0.1259826595344112
+  },
+  "weather-forecast.com": {
+    "total_time": 19.497915750020184,
+    "ad_time": 2.3662342499155784,
+    "ad_plus_inherited": 3.9348557498669834,
+    "ad_ratio": 0.12135831748647949,
+    "ad_plus_inherited_ratio": 0.20180904463406096
+  },
+  "pressofatlanticcity.com": {
+    "total_time": 48.40837000016472,
+    "ad_time": 9.477865000226302,
+    "ad_plus_inherited": 13.565448000270408,
+    "ad_ratio": 0.1957897983384702,
+    "ad_plus_inherited_ratio": 0.2802293900873805
+  },
+  "spiked-online.com": {
+    "total_time": 128.00240899986238,
+    "ad_time": 19.975497500185156,
+    "ad_plus_inherited": 28.11374050017912,
+    "ad_ratio": 0.15605563720450474,
+    "ad_plus_inherited_ratio": 0.21963446406863596
+  },
+  "duluthnewstribune.com": {
+    "total_time": 126.48126625001896,
+    "ad_time": 28.121415999979945,
+    "ad_plus_inherited": 28.85392524996132,
+    "ad_ratio": 0.2223366102644132,
+    "ad_plus_inherited_ratio": 0.22812805489253232
+  },
+  "einnews.com": {
+    "total_time": 17.208637749987247,
+    "ad_time": 0.5296379999490455,
+    "ad_plus_inherited": 0.5296379999490455,
+    "ad_ratio": 0.03077745069910824,
+    "ad_plus_inherited_ratio": 0.03077745069910824
+  },
+  "truthdig.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "journalstar.com": {
+    "total_time": 85.68367800033593,
+    "ad_time": 16.64186499992502,
+    "ad_plus_inherited": 26.370997999954852,
+    "ad_ratio": 0.19422444727290736,
+    "ad_plus_inherited_ratio": 0.30777154547277324
+  },
+  "canberratimes.com.au": {
+    "total_time": 74.21864299988374,
+    "ad_time": 3.649979999900097,
+    "ad_plus_inherited": 3.649979999900097,
+    "ad_ratio": 0.049178748793693446,
+    "ad_plus_inherited_ratio": 0.049178748793693446
+  },
+  "straight.com": {
+    "total_time": 54.09672100006719,
+    "ad_time": 3.0267595000186702,
+    "ad_plus_inherited": 3.0267595000186702,
+    "ad_ratio": 0.055950886561403804,
+    "ad_plus_inherited_ratio": 0.055950886561403804
+  },
+  "providencejournal.com": {
+    "total_time": 138.3433517495796,
+    "ad_time": 18.63145824985986,
+    "ad_plus_inherited": 19.033665749884676,
+    "ad_ratio": 0.13467548685379077,
+    "ad_plus_inherited_ratio": 0.13758280039606252
+  },
+  "arkansasonline.com": {
+    "total_time": 54.430131666827876,
+    "ad_time": 5.1560356666256375,
+    "ad_plus_inherited": 5.65204599995438,
+    "ad_ratio": 0.09472759864308675,
+    "ad_plus_inherited_ratio": 0.10384038816130563
+  },
+  "stamfordadvocate.com": {
+    "total_time": 180.24132974995155,
+    "ad_time": 16.97447775003093,
+    "ad_plus_inherited": 20.875541000030353,
+    "ad_ratio": 0.09417638991889146,
+    "ad_plus_inherited_ratio": 0.11581994556404433
+  },
+  "lmtonline.com": {
+    "total_time": 196.58668300030695,
+    "ad_time": 26.11326450004708,
+    "ad_plus_inherited": 55.930590000076336,
+    "ad_ratio": 0.1328333338835892,
+    "ad_plus_inherited_ratio": 0.28450853916686214
+  },
+  "mcall.com": {
+    "total_time": 269.00942766680953,
+    "ad_time": 44.475845000134214,
+    "ad_plus_inherited": 53.571512333456944,
+    "ad_ratio": 0.16533191935273447,
+    "ad_plus_inherited_ratio": 0.19914362406588107
+  },
+  "cjr.org": {
+    "total_time": 70.99006750000262,
+    "ad_time": 2.1412402500063763,
+    "ad_plus_inherited": 2.1412402500063763,
+    "ad_ratio": 0.030162532948800155,
+    "ad_plus_inherited_ratio": 0.030162532948800155
+  },
+  "weatheronline.co.uk": {
+    "total_time": 24.218515250220662,
+    "ad_time": 4.759412249877641,
+    "ad_plus_inherited": 4.908243749880057,
+    "ad_ratio": 0.19651957193512418,
+    "ad_plus_inherited_ratio": 0.20266493214671105
+  },
+  "wickedlocal.com": {
+    "total_time": 120.4270573332422,
+    "ad_time": 29.44319266660994,
+    "ad_plus_inherited": 31.333701333205706,
+    "ad_ratio": 0.24448984570913831,
+    "ad_plus_inherited_ratio": 0.2601882170590618
+  },
+  "sandiegoreader.com": {
+    "total_time": 263.8582724998487,
+    "ad_time": 21.74100599988742,
+    "ad_plus_inherited": 21.74100599988742,
+    "ad_ratio": 0.08239652975026542,
+    "ad_plus_inherited_ratio": 0.08239652975026542
+  },
+  "riverfronttimes.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "bangaloremirror.indiatimes.com": {
+    "total_time": 67.94775599961577,
+    "ad_time": 5.535189999893191,
+    "ad_plus_inherited": 8.659544499896583,
+    "ad_ratio": 0.0814624400535684,
+    "ad_plus_inherited_ratio": 0.12744415724259608
+  },
+  "citypages.com": {
+    "total_time": 65.33269300023676,
+    "ad_time": 10.875141000084113,
+    "ad_plus_inherited": 12.233719000068959,
+    "ad_ratio": 0.16645787125359585,
+    "ad_plus_inherited_ratio": 0.1872526362876948
+  },
+  "postandcourier.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "dallasobserver.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "multichannel.com": {
+    "total_time": 37.06417000037618,
+    "ad_time": 5.34009299997706,
+    "ad_plus_inherited": 6.971710000128951,
+    "ad_ratio": 0.14407696165657724,
+    "ad_plus_inherited_ratio": 0.18809837101594862
+  },
+  "frontpagemag.com": {
+    "total_time": 66.92905749983765,
+    "ad_time": 4.7717877499890164,
+    "ad_plus_inherited": 5.13459999996121,
+    "ad_ratio": 0.0712962041935312,
+    "ad_plus_inherited_ratio": 0.07671705223061993
+  },
+  "nwitimes.com": {
+    "total_time": 62.09850524990907,
+    "ad_time": 12.308648250087572,
+    "ad_plus_inherited": 12.756103250088927,
+    "ad_ratio": 0.1982116671013687,
+    "ad_plus_inherited_ratio": 0.20541723506472978
+  },
+  "grandforksherald.com": {
+    "total_time": 130.3840680000576,
+    "ad_time": 26.168101499977638,
+    "ad_plus_inherited": 26.58430974996736,
+    "ad_ratio": 0.20070014612495507,
+    "ad_plus_inherited_ratio": 0.20389231719596
+  },
+  "floridatoday.com": {
+    "total_time": 96.89665599982254,
+    "ad_time": 17.39357999979984,
+    "ad_plus_inherited": 21.122409999748925,
+    "ad_ratio": 0.1795065043300534,
+    "ad_plus_inherited_ratio": 0.21798905010496553
+  },
+  "dailypress.com": {
+    "total_time": 161.49694549986452,
+    "ad_time": 40.41430800000671,
+    "ad_plus_inherited": 49.70103700000618,
+    "ad_ratio": 0.25024812621016795,
+    "ad_plus_inherited_ratio": 0.30775217974663105
+  },
+  "uexpress.com": {
+    "total_time": 61.352523000197834,
+    "ad_time": 5.5037400001092465,
+    "ad_plus_inherited": 6.438492000088445,
+    "ad_ratio": 0.08970682428319206,
+    "ad_plus_inherited_ratio": 0.1049425791351349
+  },
+  "syndication.theguardian.com": {
+    "total_time": 11.587428000115324,
+    "ad_time": 2.0296825000987155,
+    "ad_plus_inherited": 2.0296825000987155,
+    "ad_ratio": 0.17516246919320794,
+    "ad_plus_inherited_ratio": 0.17516246919320794
+  },
+  "desertsun.com": {
+    "total_time": 66.13171499990858,
+    "ad_time": 13.812940999749117,
+    "ad_plus_inherited": 18.83118799974909,
+    "ad_ratio": 0.20887014649125932,
+    "ad_plus_inherited_ratio": 0.2847527544049799
+  },
+  "thestate.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "thehour.com": {
+    "total_time": 179.601049750745,
+    "ad_time": 17.180787750134186,
+    "ad_plus_inherited": 18.912896250141785,
+    "ad_ratio": 0.09566084259517485,
+    "ad_plus_inherited_ratio": 0.1053050429069852
+  },
+  "gannett.com": {
+    "total_time": 23.456629000073008,
+    "ad_time": 0.3782680000149412,
+    "ad_plus_inherited": 0.3782680000149412,
+    "ad_ratio": 0.01612627287636957,
+    "ad_plus_inherited_ratio": 0.01612627287636957
+  },
+  "demotix.com": {
+    "total_time": 24.200900499832642,
+    "ad_time": 1.587388999898394,
+    "ad_plus_inherited": 2.0083752499194816,
+    "ad_ratio": 0.06559214604057281,
+    "ad_plus_inherited_ratio": 0.08298762477591981
+  },
+  "eastbaytimes.com": {
+    "total_time": 56.99099949967058,
+    "ad_time": 12.0035259998549,
+    "ad_plus_inherited": 16.65148349975061,
+    "ad_ratio": 0.21062143330060887,
+    "ad_plus_inherited_ratio": 0.2921774253116382
+  },
+  "winnipegfreepress.com": {
+    "total_time": 141.39848300040467,
+    "ad_time": 7.481417999777477,
+    "ad_plus_inherited": 7.9387839998234995,
+    "ad_ratio": 0.052910171601742474,
+    "ad_plus_inherited_ratio": 0.05614476075956755
+  },
+  "austinchronicle.com": {
+    "total_time": 66.35207700083265,
+    "ad_time": 39.934018500265665,
+    "ad_plus_inherited": 44.16578400036087,
+    "ad_ratio": 0.601850315850166,
+    "ad_plus_inherited_ratio": 0.6656277541968526
+  },
+  "chicagoreader.com": {
+    "total_time": 472.2532556673779,
+    "ad_time": 308.20574933376827,
+    "ad_plus_inherited": 308.8173766671389,
+    "ad_ratio": 0.6526281092508693,
+    "ad_plus_inherited_ratio": 0.6539232349615567
+  },
+  "pickyournewspaper.com": {
+    "total_time": 170.60594699987743,
+    "ad_time": 3.7630373333134535,
+    "ad_plus_inherited": 6.006051666636875,
+    "ad_ratio": 0.022056894261230864,
+    "ad_plus_inherited_ratio": 0.03520423392181745
+  },
+  "allyoucanread.com": {
+    "total_time": 105.80449675003183,
+    "ad_time": 1.6176804999486194,
+    "ad_plus_inherited": 1.6176804999486194,
+    "ad_ratio": 0.01528933598890855,
+    "ad_plus_inherited_ratio": 0.01528933598890855
+  },
+  "knoxnews.com": {
+    "total_time": 94.24143099877983,
+    "ad_time": 13.713525999919511,
+    "ad_plus_inherited": 31.628721999528352,
+    "ad_ratio": 0.14551483200734786,
+    "ad_plus_inherited_ratio": 0.33561377055000213
+  },
+  "theprovince.com": {
+    "total_time": 111.60895400002482,
+    "ad_time": 15.423949000134598,
+    "ad_plus_inherited": 18.737722000078065,
+    "ad_ratio": 0.13819634041307446,
+    "ad_plus_inherited_ratio": 0.16788726467299298
+  },
+  "houstonpress.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "creators.com": {
+    "total_time": 27.02048533342895,
+    "ad_time": 0.35462266664641595,
+    "ad_plus_inherited": 0.35462266664641595,
+    "ad_ratio": 0.013124215285936673,
+    "ad_plus_inherited_ratio": 0.013124215285936673
+  },
+  "thechronicleherald.ca": {
+    "total_time": 733.7259470007266,
+    "ad_time": 24.33109600021271,
+    "ad_plus_inherited": 42.09433200029889,
+    "ad_ratio": 0.03316101345423541,
+    "ad_plus_inherited_ratio": 0.05737064659137263
+  },
+  "aspentimes.com": {
+    "total_time": 48.16785949996847,
+    "ad_time": 7.654864500043914,
+    "ad_plus_inherited": 9.42582600004971,
+    "ad_ratio": 0.1589205868707727,
+    "ad_plus_inherited_ratio": 0.19568704314244814
+  },
+  "unionleader.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "sunnyskyz.com": {
+    "total_time": 53.34220866650378,
+    "ad_time": 4.241358000018713,
+    "ad_plus_inherited": 5.884343333270714,
+    "ad_ratio": 0.07951223067150709,
+    "ad_plus_inherited_ratio": 0.11031308002373334
+  },
+  "globalvoices.org": {
+    "total_time": 82.82202266676671,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "idahostatesman.com": {
+    "total_time": 172.73827449974488,
+    "ad_time": 47.92215799972473,
+    "ad_plus_inherited": 65.75194699977874,
+    "ad_ratio": 0.2774264021017271,
+    "ad_plus_inherited_ratio": 0.38064492186342785
+  },
+  "gazette.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "newstimes.com": {
+    "total_time": 171.30628799984672,
+    "ad_time": 14.119613333382103,
+    "ad_plus_inherited": 23.602522333307792,
+    "ad_ratio": 0.08242320523222556,
+    "ad_plus_inherited_ratio": 0.13777966126572605
+  },
+  "ibj.com": {
+    "total_time": 92.72989433331536,
+    "ad_time": 15.173050333338322,
+    "ad_plus_inherited": 15.18663800001377,
+    "ad_ratio": 0.1636263088880395,
+    "ad_plus_inherited_ratio": 0.16377283840554988
+  },
+  "abqjournal.com": {
+    "total_time": 75.8272605001257,
+    "ad_time": 15.491213000248536,
+    "ad_plus_inherited": 18.841602500207955,
+    "ad_ratio": 0.20429609217153316,
+    "ad_plus_inherited_ratio": 0.24848059096341374
+  },
+  "greensboro.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "governing.com": {
+    "total_time": 33.71315133344614,
+    "ad_time": 4.01682800006044,
+    "ad_plus_inherited": 5.180992000028101,
+    "ad_ratio": 0.11914721232468782,
+    "ad_plus_inherited_ratio": 0.15367866233519803
+  },
+  "lancasteronline.com": {
+    "total_time": 129.21621099988988,
+    "ad_time": 12.166861499790684,
+    "ad_plus_inherited": 16.554339999813237,
+    "ad_ratio": 0.0941589403190367,
+    "ad_plus_inherited_ratio": 0.12811349188862492
+  },
+  "delawareonline.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "pantagraph.com": {
+    "total_time": 93.93744349993358,
+    "ad_time": 17.283628499950282,
+    "ad_plus_inherited": 28.261264999920968,
+    "ad_ratio": 0.1839908332183056,
+    "ad_plus_inherited_ratio": 0.30085197070474834
+  },
+  "magnumphotos.com": {
+    "total_time": 15.176085999749676,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "dailyexcelsior.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "broadcastingcable.com": {
+    "total_time": 37.1570099999517,
+    "ad_time": 5.921503500154358,
+    "ad_plus_inherited": 8.001168000046164,
+    "ad_ratio": 0.1593643702806565,
+    "ad_plus_inherited_ratio": 0.21533401099971622
+  },
+  "crweworld.com": {
+    "total_time": 72.63491833331256,
+    "ad_time": 13.081338666554073,
+    "ad_plus_inherited": 15.170304333257562,
+    "ad_ratio": 0.18009710710385116,
+    "ad_plus_inherited_ratio": 0.20885690631113443
+  },
+  "thenewstribune.com": {
+    "total_time": 175.2498540004308,
+    "ad_time": 25.526156000065384,
+    "ad_plus_inherited": 46.82556300016586,
+    "ad_ratio": 0.14565579038943244,
+    "ad_plus_inherited_ratio": 0.26719316410985855
+  },
+  "crainsnewyork.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "villagevoice.com": {
+    "total_time": 52.09898199974368,
+    "ad_time": 2.7681373333228603,
+    "ad_plus_inherited": 3.273767333293412,
+    "ad_ratio": 0.0531322729748631,
+    "ad_plus_inherited_ratio": 0.06283745301030101
+  },
+  "metrotimes.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "clarionledger.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "opendemocracy.net": {
+    "total_time": 45.09475099988047,
+    "ad_time": 0.17914000002201644,
+    "ad_plus_inherited": 0.17914000002201644,
+    "ad_ratio": 0.003972524430226731,
+    "ad_plus_inherited_ratio": 0.003972524430226731
+  },
+  "thedailymash.co.uk": {
+    "total_time": 80.75238366676298,
+    "ad_time": 3.811754666550162,
+    "ad_plus_inherited": 5.452012999933988,
+    "ad_ratio": 0.047202998765707625,
+    "ad_plus_inherited_ratio": 0.06751519586632329
+  },
+  "passageweather.com": {
+    "total_time": 31.574883999982074,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "vcstar.com": {
+    "total_time": 75.60847800021293,
+    "ad_time": 12.511986499870545,
+    "ad_plus_inherited": 20.233502499992028,
+    "ad_ratio": 0.16548390909066188,
+    "ad_plus_inherited_ratio": 0.26760891152887706
+  },
+  "lehighvalleylive.com": {
+    "total_time": 47.711982999967105,
+    "ad_time": 3.8928913333026385,
+    "ad_plus_inherited": 3.8928913333026385,
+    "ad_ratio": 0.08159148055752205,
+    "ad_plus_inherited_ratio": 0.08159148055752205
+  },
+  "sfexaminer.com": {
+    "total_time": 153.5431049996114,
+    "ad_time": 51.32941199981724,
+    "ad_plus_inherited": 64.87527999986196,
+    "ad_ratio": 0.3342996873740905,
+    "ad_plus_inherited_ratio": 0.4225216104625874
+  },
+  "dailycamera.com": {
+    "total_time": 151.0459830002219,
+    "ad_time": 31.813763999700313,
+    "ad_plus_inherited": 58.127006999915466,
+    "ad_ratio": 0.21062303920822295,
+    "ad_plus_inherited_ratio": 0.3848298766067157
+  },
+  "chroniclingamerica.loc.gov": {
+    "total_time": 13.522387666443437,
+    "ad_time": 1.888304000012189,
+    "ad_plus_inherited": 1.888304000012189,
+    "ad_ratio": 0.13964279434896848,
+    "ad_plus_inherited_ratio": 0.13964279434896848
+  },
+  "nhregister.com": {
+    "total_time": 189.99967500020296,
+    "ad_time": 20.961120999922674,
+    "ad_plus_inherited": 20.961120999922674,
+    "ad_ratio": 0.11032187818163522,
+    "ad_plus_inherited_ratio": 0.11032187818163522
+  },
+  "fresnobee.com": {
+    "total_time": 186.93941499975335,
+    "ad_time": 39.0822989999142,
+    "ad_plus_inherited": 56.037126499883016,
+    "ad_ratio": 0.20906398471379492,
+    "ad_plus_inherited_ratio": 0.2997608957958756
+  },
+  "punemirror.indiatimes.com": {
+    "total_time": 96.24967200025758,
+    "ad_time": 11.712315000040695,
+    "ad_plus_inherited": 20.385345333362533,
+    "ad_ratio": 0.12168680429383023,
+    "ad_plus_inherited_ratio": 0.21179651742925398
+  },
+  "sanluisobispo.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "epa.eu": {
+    "total_time": 42.61782799994886,
+    "ad_time": 0.019739000010304153,
+    "ad_plus_inherited": 0.019739000010304153,
+    "ad_ratio": 0.0004631629751363171,
+    "ad_plus_inherited_ratio": 0.0004631629751363171
+  },
+  "sunshinecoastdaily.com.au": {
+    "total_time": 389.48753600017517,
+    "ad_time": 12.850032000103965,
+    "ad_plus_inherited": 18.23866800023825,
+    "ad_ratio": 0.03299215202639549,
+    "ad_plus_inherited_ratio": 0.046827346999443
+  },
+  "independent.com": {
+    "total_time": 65.15802666665213,
+    "ad_time": 7.228224333346587,
+    "ad_plus_inherited": 7.228224333346587,
+    "ad_ratio": 0.11093375142138844,
+    "ad_plus_inherited_ratio": 0.11093375142138844
+  },
+  "greenvilleonline.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "qctimes.com": {
+    "total_time": 59.35381000014604,
+    "ad_time": 10.920626000064658,
+    "ad_plus_inherited": 15.416053999972064,
+    "ad_ratio": 0.18399199647061895,
+    "ad_plus_inherited_ratio": 0.2597314982801295
+  },
+  "timescolonist.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "tcpalm.com": {
+    "total_time": 92.56008649982687,
+    "ad_time": 13.026264999964042,
+    "ad_plus_inherited": 17.381432999900426,
+    "ad_ratio": 0.1407330685671778,
+    "ad_plus_inherited_ratio": 0.18778540143145758
+  },
+  "bakersfield.com": {
+    "total_time": 41.69239399951766,
+    "ad_time": 4.9491924999747425,
+    "ad_plus_inherited": 6.7232909999002,
+    "ad_ratio": 0.11870732345165882,
+    "ad_plus_inherited_ratio": 0.16125941340710687
+  },
+  "collegemagazine.com": {
+    "total_time": 71.20823799973002,
+    "ad_time": 19.469797666456238,
+    "ad_plus_inherited": 20.2849023330879,
+    "ad_ratio": 0.2734205790421335,
+    "ad_plus_inherited_ratio": 0.28486735387505036
+  },
+  "24-7pressrelease.com": {
+    "total_time": 46.052885000089525,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "kitv.com": {
+    "total_time": 34.68817466681747,
+    "ad_time": 10.17306433340613,
+    "ad_plus_inherited": 12.004128999969318,
+    "ad_ratio": 0.29327182623816844,
+    "ad_plus_inherited_ratio": 0.34605824939680113
+  },
+  "journalnow.com": {
+    "total_time": 97.23125699917728,
+    "ad_time": 25.103664999929606,
+    "ad_plus_inherited": 25.399733499929425,
+    "ad_ratio": 0.25818513279265765,
+    "ad_plus_inherited_ratio": 0.2612301258240891
+  },
+  "mcclatchydc.com": {
+    "total_time": 65.39687133328214,
+    "ad_time": 5.2747649999510005,
+    "ad_plus_inherited": 8.200212999926105,
+    "ad_ratio": 0.08065775766350061,
+    "ad_plus_inherited_ratio": 0.125391518473955
+  },
+  "goldcoastbulletin.com.au": {
+    "total_time": 105.99464199958807,
+    "ad_time": 8.549539999881144,
+    "ad_plus_inherited": 22.180253333227803,
+    "ad_ratio": 0.08066011487556485,
+    "ad_plus_inherited_ratio": 0.20925825036810825
+  },
+  "thecrimson.com": {
+    "total_time": 106.02476899966132,
+    "ad_time": 32.61618900002213,
+    "ad_plus_inherited": 33.16406300000381,
+    "ad_ratio": 0.30762801284788766,
+    "ad_plus_inherited_ratio": 0.31279542802031235
+  },
+  "columbian.com": {
+    "total_time": 53.650436333370926,
+    "ad_time": 4.142477999984597,
+    "ad_plus_inherited": 4.142477999984597,
+    "ad_ratio": 0.07721238228603088,
+    "ad_plus_inherited_ratio": 0.07721238228603088
+  },
+  "canadafreepress.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "southbendtribune.com": {
+    "total_time": 30.048003000105382,
+    "ad_time": 3.571438999933889,
+    "ad_plus_inherited": 3.7362499999580905,
+    "ad_ratio": 0.11885778232654474,
+    "ad_plus_inherited_ratio": 0.12434270590112052
+  },
+  "bradenton.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "themercury.com.au": {
+    "total_time": 150.77844149993325,
+    "ad_time": 25.018391499936115,
+    "ad_plus_inherited": 39.65940700001374,
+    "ad_ratio": 0.16592817415444097,
+    "ad_plus_inherited_ratio": 0.26303101826418135
+  },
+  "gainesville.com": {
+    "total_time": 142.79369666712591,
+    "ad_time": 16.943420666696813,
+    "ad_plus_inherited": 17.63344833339215,
+    "ad_ratio": 0.11865664285024104,
+    "ad_plus_inherited_ratio": 0.12348898267196227
+  },
+  "myrtlebeachonline.com": {
+    "total_time": 297.3498069989146,
+    "ad_time": 134.34450399974594,
+    "ad_plus_inherited": 158.40909299987834,
+    "ad_ratio": 0.45180625928651214,
+    "ad_plus_inherited_ratio": 0.5327364917390264
+  },
+  "calgarysun.com": {
+    "total_time": 276.10663799999736,
+    "ad_time": 30.595062333518086,
+    "ad_plus_inherited": 32.450693333511786,
+    "ad_ratio": 0.11080886194962969,
+    "ad_plus_inherited_ratio": 0.1175295659987432
+  },
+  "washingtonmonthly.com": {
+    "total_time": 53.061847000179114,
+    "ad_time": 1.838296999965678,
+    "ad_plus_inherited": 2.223080499956268,
+    "ad_ratio": 0.03464442163046968,
+    "ad_plus_inherited_ratio": 0.04189602559346952
+  },
+  "harpers.org": {
+    "total_time": 72.17453666666786,
+    "ad_time": 9.05282733331357,
+    "ad_plus_inherited": 13.408758666618578,
+    "ad_ratio": 0.12542965637761286,
+    "ad_plus_inherited_ratio": 0.18578240035742555
+  },
+  "onthesnow.com": {
+    "total_time": 60.66323499988357,
+    "ad_time": 14.941998999987845,
+    "ad_plus_inherited": 18.919672499978333,
+    "ad_ratio": 0.2463106196037274,
+    "ad_plus_inherited_ratio": 0.3118803753214718
+  },
+  "theguardian.pe.ca": {
+    "total_time": 1782.2492499994696,
+    "ad_time": 49.763128999911714,
+    "ad_plus_inherited": 56.41266099998029,
+    "ad_ratio": 0.02792153173857502,
+    "ad_plus_inherited_ratio": 0.03165250932213722
+  },
+  "intellicast.com": {
+    "total_time": 10.865167666886315,
+    "ad_time": 0.17072533337826223,
+    "ad_plus_inherited": 0.17072533337826223,
+    "ad_ratio": 0.01571308778773663,
+    "ad_plus_inherited_ratio": 0.01571308778773663
+  },
+  "greenwichtime.com": {
+    "total_time": 138.9686810001731,
+    "ad_time": 16.13153450009122,
+    "ad_plus_inherited": 16.88847900008841,
+    "ad_ratio": 0.11608035986231406,
+    "ad_plus_inherited_ratio": 0.12152723101737847
+  },
+  "napavalleyregister.com": {
+    "total_time": 66.95761666643865,
+    "ad_time": 14.959297666704519,
+    "ad_plus_inherited": 20.6250439999858,
+    "ad_ratio": 0.22341442858139554,
+    "ad_plus_inherited_ratio": 0.30803133425033846
+  },
+  "billoreilly.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "theledger.com": {
+    "total_time": 143.22844450011326,
+    "ad_time": 21.90462050019414,
+    "ad_plus_inherited": 22.685910000203876,
+    "ad_ratio": 0.15293484877703062,
+    "ad_plus_inherited_ratio": 0.1583896975170036
+  },
+  "trib.com": {
+    "total_time": 94.02218299993547,
+    "ad_time": 20.86410100001376,
+    "ad_plus_inherited": 30.143384999973932,
+    "ad_ratio": 0.22190615378530493,
+    "ad_plus_inherited_ratio": 0.3205986506396541
+  },
+  "jewishworldreview.com": {
+    "total_time": 50.606902000057744,
+    "ad_time": 7.623421000229428,
+    "ad_plus_inherited": 9.947672000300372,
+    "ad_ratio": 0.15063994631049987,
+    "ad_plus_inherited_ratio": 0.19656749587811206
+  },
+  "beaumontenterprise.com": {
+    "total_time": 128.54001799819525,
+    "ad_time": 13.456418999703601,
+    "ad_plus_inherited": 14.105274999688845,
+    "ad_ratio": 0.10468661207043346,
+    "ad_plus_inherited_ratio": 0.10973450307037368
+  },
+  "postbulletin.com": {
+    "total_time": 31.431905999721494,
+    "ad_time": 8.023162999917986,
+    "ad_plus_inherited": 8.023162999917986,
+    "ad_ratio": 0.25525537649511537,
+    "ad_plus_inherited_ratio": 0.25525537649511537
+  },
+  "news-press.com": {
+    "total_time": 105.91366699960781,
+    "ad_time": 19.13455100005376,
+    "ad_plus_inherited": 31.803245999879437,
+    "ad_ratio": 0.18066177427436833,
+    "ad_plus_inherited_ratio": 0.3002751854488921
+  },
+  "delmarvanow.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "uticaod.com": {
+    "total_time": 101.45370449955226,
+    "ad_time": 10.309913499993854,
+    "ad_plus_inherited": 15.475254499877337,
+    "ad_ratio": 0.10162185354246335,
+    "ad_plus_inherited_ratio": 0.15253513487963008
+  },
+  "weatherforyou.com": {
+    "total_time": 31.848954999935813,
+    "ad_time": 4.1837235001294175,
+    "ad_plus_inherited": 6.613688500234275,
+    "ad_ratio": 0.13136140573961844,
+    "ad_plus_inherited_ratio": 0.20765794357295567
+  },
+  "azdailysun.com": {
+    "total_time": 78.41950799956976,
+    "ad_time": 19.28274649985542,
+    "ad_plus_inherited": 28.241117499623215,
+    "ad_ratio": 0.24589221472750394,
+    "ad_plus_inherited_ratio": 0.3601287258749208
+  },
+  "fredericknewspost.com": {
+    "total_time": 36.05124800011981,
+    "ad_time": 6.611367000092287,
+    "ad_plus_inherited": 8.334904999937862,
+    "ad_ratio": 0.18338802030016588,
+    "ad_plus_inherited_ratio": 0.2311960185098214
+  },
+  "rsf.org": {
+    "total_time": 20.26749649993144,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "arktimes.com": {
+    "total_time": 301.49601749997237,
+    "ad_time": 2.3051310000300873,
+    "ad_plus_inherited": 2.3051310000300873,
+    "ad_ratio": 0.007645643279617445,
+    "ad_plus_inherited_ratio": 0.007645643279617445
+  },
+  "jacksonville.com": {
+    "total_time": 101.91832399982377,
+    "ad_time": 18.256096999917645,
+    "ad_plus_inherited": 20.97673799993936,
+    "ad_ratio": 0.1791247764234154,
+    "ad_plus_inherited_ratio": 0.20581910275502208
+  },
+  "bismarcktribune.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "nwfdailynews.com": {
+    "total_time": 103.07000050018542,
+    "ad_time": 11.690707000045222,
+    "ad_plus_inherited": 12.294611500081373,
+    "ad_ratio": 0.11342492425838488,
+    "ad_plus_inherited_ratio": 0.11928409275654614
+  },
+  "sacurrent.com": {
+    "total_time": 21.6652370004158,
+    "ad_time": 4.545488000207115,
+    "ad_plus_inherited": 4.545488000207115,
+    "ad_ratio": 0.2098055977933626,
+    "ad_plus_inherited_ratio": 0.2098055977933626
+  },
+  "citizensvoice.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "navhindtimes.in": {
+    "total_time": 44.89412950015685,
+    "ad_time": 3.024716000116314,
+    "ad_plus_inherited": 5.0643900001450675,
+    "ad_ratio": 0.06737442141752066,
+    "ad_plus_inherited_ratio": 0.11280739946472007
+  },
+  "sentinelassam.com": {
+    "total_time": 33.44407199945999,
+    "ad_time": 2.952660000184551,
+    "ad_plus_inherited": 4.163448000035714,
+    "ad_ratio": 0.08828649813432486,
+    "ad_plus_inherited_ratio": 0.12448986475399705
+  },
+  "lacrossetribune.com": {
+    "total_time": 46.44880750012817,
+    "ad_time": 9.989855999840074,
+    "ad_plus_inherited": 13.636252999785938,
+    "ad_ratio": 0.21507238909874077,
+    "ad_plus_inherited_ratio": 0.2935759545548787
+  },
+  "filmsforaction.org": {
+    "total_time": 20.45203200020478,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "dailybreeze.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "postindependent.com": {
+    "total_time": 72.39253950021521,
+    "ad_time": 12.050796000097762,
+    "ad_plus_inherited": 12.644484000105876,
+    "ad_ratio": 0.16646461200690352,
+    "ad_plus_inherited_ratio": 0.1746655675764529
+  },
+  "indexjournal.com": {
+    "total_time": 56.05612549977377,
+    "ad_time": 8.52684549985861,
+    "ad_plus_inherited": 22.3734800000384,
+    "ad_ratio": 0.1521126446724011,
+    "ad_plus_inherited_ratio": 0.3991264076952427
+  },
+  "briefing.com": {
+    "total_time": 8.985150000225985,
+    "ad_time": 0.026322000048821792,
+    "ad_plus_inherited": 0.026322000048821792,
+    "ad_ratio": 0.0029295003475912776,
+    "ad_plus_inherited_ratio": 0.0029295003475912776
+  },
+  "news-gazette.com": {
+    "total_time": 111.30353550026484,
+    "ad_time": 9.090363999959663,
+    "ad_plus_inherited": 9.090363999959663,
+    "ad_ratio": 0.08167183512277588,
+    "ad_plus_inherited_ratio": 0.08167183512277588
+  },
+  "timesleader.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "sfweekly.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "news-leader.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "eagletribune.com": {
+    "total_time": 162.61223349973443,
+    "ad_time": 21.78252699993027,
+    "ad_plus_inherited": 43.50429199989594,
+    "ad_ratio": 0.13395380243618538,
+    "ad_plus_inherited_ratio": 0.26753394294880645
+  },
+  "worldpressphoto.org": {
+    "total_time": 151.46993449990987,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "naplesnews.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "illawarramercury.com.au": {
+    "total_time": 99.75946249990375,
+    "ad_time": 10.638456499844324,
+    "ad_plus_inherited": 22.283444999775384,
+    "ad_ratio": 0.10664107677860221,
+    "ad_plus_inherited_ratio": 0.22337174280381555
+  },
+  "mycentraljersey.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "ljworld.com": {
+    "total_time": 27.660453500051517,
+    "ad_time": 3.4687399999966146,
+    "ad_plus_inherited": 6.681678499910049,
+    "ad_ratio": 0.1254043069102303,
+    "ad_plus_inherited_ratio": 0.24156069964281696
+  },
+  "conservativedailynews.com": {
+    "total_time": 76.78915600088658,
+    "ad_time": 7.299378000025172,
+    "ad_plus_inherited": 8.619325999985449,
+    "ad_ratio": 0.09505740628196116,
+    "ad_plus_inherited_ratio": 0.11224665628420155
+  },
+  "santafenewmexican.com": {
+    "total_time": 92.32867499967688,
+    "ad_time": 9.817731999908574,
+    "ad_plus_inherited": 9.987286499919719,
+    "ad_ratio": 0.10633459215073685,
+    "ad_plus_inherited_ratio": 0.1081710151256332
+  },
+  "news-journal.com": {
+    "total_time": 52.346425000112504,
+    "ad_time": 4.938380000065081,
+    "ad_plus_inherited": 10.221697000029963,
+    "ad_ratio": 0.09434034893604419,
+    "ad_plus_inherited_ratio": 0.19527020231100775
+  },
+  "kitsapsun.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "gatehousemedia.com": {
+    "total_time": 79.60347349994117,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "consortiumnews.com": {
+    "total_time": 19.164025000063702,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "bendbulletin.com": {
+    "total_time": 85.2210949996952,
+    "ad_time": 8.099225000129081,
+    "ad_plus_inherited": 9.24150100001134,
+    "ad_ratio": 0.09503779551480826,
+    "ad_plus_inherited_ratio": 0.10844147215011017
+  },
+  "standard.net": {
+    "total_time": 88.68118399981176,
+    "ad_time": 3.3528599998826394,
+    "ad_plus_inherited": 3.721227499903762,
+    "ad_ratio": 0.03780802024350234,
+    "ad_plus_inherited_ratio": 0.04196186081493522
+  },
+  "personneltoday.com": {
+    "total_time": 243.7293024998071,
+    "ad_time": 10.544560999740497,
+    "ad_plus_inherited": 15.31087199965259,
+    "ad_ratio": 0.043263411053124576,
+    "ad_plus_inherited_ratio": 0.06281916799751523
+  },
+  "people-press.org": {
+    "total_time": 27.17510949978896,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "theolympian.com": {
+    "total_time": 146.77864699973725,
+    "ad_time": 31.431034999899566,
+    "ad_plus_inherited": 41.50606999985757,
+    "ad_ratio": 0.21413901573813957,
+    "ad_plus_inherited_ratio": 0.28278002862318163
+  },
+  "newswise.com": {
+    "total_time": 23.78208299963444,
+    "ad_time": 0.30422200000612065,
+    "ad_plus_inherited": 0.30422200000612065,
+    "ad_ratio": 0.012792067036802324,
+    "ad_plus_inherited_ratio": 0.012792067036802324
+  },
+  "newsthump.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "fosters.com": {
+    "total_time": 132.76211649982724,
+    "ad_time": 32.036582999746315,
+    "ad_plus_inherited": 34.04279749971465,
+    "ad_ratio": 0.24130816715164377,
+    "ad_plus_inherited_ratio": 0.2564195148226561
+  },
+  "bellinghamherald.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "journalism.co.uk": {
+    "total_time": 138.30960400012555,
+    "ad_time": 8.694584500030032,
+    "ad_plus_inherited": 8.694584500030032,
+    "ad_ratio": 0.0628632014594022,
+    "ad_plus_inherited_ratio": 0.0628632014594022
+  },
+  "rcinet.ca": {
+    "total_time": 202.63111450031283,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "webwire.com": {
+    "total_time": 23.226366500355653,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "worldweather.wmo.int": {
+    "total_time": 7.73085550001997,
+    "ad_time": 0.995238000061363,
+    "ad_plus_inherited": 0.995238000061363,
+    "ad_ratio": 0.1287358171497051,
+    "ad_plus_inherited_ratio": 0.1287358171497051
+  },
+  "ydr.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "dentonrc.com": {
+    "total_time": 38.863269999754266,
+    "ad_time": 13.80290850016172,
+    "ad_plus_inherited": 16.263379000112764,
+    "ad_ratio": 0.3551659060148309,
+    "ad_plus_inherited_ratio": 0.41847685488677605
+  },
+  "therealnews.com": {
+    "total_time": 70.87426950008376,
+    "ad_time": 0.03804900002432987,
+    "ad_plus_inherited": 0.03804900002432987,
+    "ad_ratio": 0.0005368520944584115,
+    "ad_plus_inherited_ratio": 0.0005368520944584115
+  },
+  "santacruzsentinel.com": {
+    "total_time": 79.4772060000978,
+    "ad_time": 16.34908499996527,
+    "ad_plus_inherited": 23.60016399991582,
+    "ad_ratio": 0.20570784785697113,
+    "ad_plus_inherited_ratio": 0.2969425472743315
+  },
+  "readingeagle.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "fredericksburg.com": {
+    "total_time": 75.59546899958514,
+    "ad_time": 25.79609799972968,
+    "ad_plus_inherited": 28.295245999877807,
+    "ad_ratio": 0.34123867926358453,
+    "ad_plus_inherited_ratio": 0.37429817387644077
+  },
+  "concordmonitor.com": {
+    "total_time": 244.69330899999477,
+    "ad_time": 9.257577000302263,
+    "ad_plus_inherited": 11.05309700028738,
+    "ad_ratio": 0.03783338840827258,
+    "ad_plus_inherited_ratio": 0.045171226975755256
+  },
+  "15minutenews.com": {
+    "total_time": 41.8093949999311,
+    "ad_time": 1.7763869999325834,
+    "ad_plus_inherited": 2.291081999836024,
+    "ad_ratio": 0.0424877470706168,
+    "ad_plus_inherited_ratio": 0.05479825766050428
+  },
+  "capitalgazette.com": {
+    "total_time": 133.79766650040983,
+    "ad_time": 28.520621999996365,
+    "ad_plus_inherited": 34.3932435001916,
+    "ad_ratio": 0.21316232746038963,
+    "ad_plus_inherited_ratio": 0.25705413554492934
+  },
+  "journalists.org": {
+    "total_time": 11.924482999835163,
+    "ad_time": 0.7671520000294549,
+    "ad_plus_inherited": 0.7671520000294549,
+    "ad_ratio": 0.06433419377930763,
+    "ad_plus_inherited_ratio": 0.06433419377930763
+  },
+  "islandpacket.com": {
+    "total_time": 187.14516499900492,
+    "ad_time": 41.23700200015446,
+    "ad_plus_inherited": 70.63919099944178,
+    "ad_ratio": 0.22034767502742444,
+    "ad_plus_inherited_ratio": 0.37745667113450343
+  },
+  "news-journalonline.com": {
+    "total_time": 137.56746749937884,
+    "ad_time": 24.29784149993793,
+    "ad_plus_inherited": 24.775208499937435,
+    "ad_ratio": 0.1766249095197427,
+    "ad_plus_inherited_ratio": 0.18009496685725718
+  },
+  "heraldnet.com": {
+    "total_time": 115.4680670001544,
+    "ad_time": 24.248604999971576,
+    "ad_plus_inherited": 27.31243099999847,
+    "ad_ratio": 0.21000269277859437,
+    "ad_plus_inherited_ratio": 0.23653666082382713
+  },
+  "thetelegraph.com": {
+    "total_time": 176.00467199998093,
+    "ad_time": 16.892280000058236,
+    "ad_plus_inherited": 21.92096000010497,
+    "ad_ratio": 0.0959763159017737,
+    "ad_plus_inherited_ratio": 0.12454760291878698
+  },
+  "theadvertiser.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "starofmysore.com": {
+    "total_time": 69.31574799970258,
+    "ad_time": 5.105720000341535,
+    "ad_plus_inherited": 6.458419000264257,
+    "ad_ratio": 0.07365887475330198,
+    "ad_plus_inherited_ratio": 0.09317390617052808
+  },
+  "hcpress.com": {
+    "total_time": 34.919706999949994,
+    "ad_time": 0.24370599997928366,
+    "ad_plus_inherited": 0.24370599997928366,
+    "ad_ratio": 0.006979039084710322,
+    "ad_plus_inherited_ratio": 0.006979039084710322
+  },
+  "ubm.com": {
+    "total_time": 79.75393199991959,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "dailycal.org": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "nytco.com": {
+    "total_time": 8.44548450007278,
+    "ad_time": 1.1517095000017434,
+    "ad_plus_inherited": 1.1517095000017434,
+    "ad_ratio": 0.1363698553933547,
+    "ad_plus_inherited_ratio": 0.1363698553933547
+  },
+  "abyznewslinks.com": {
+    "total_time": 7.0255154999758815,
+    "ad_time": 2.631940499821212,
+    "ad_plus_inherited": 3.7749859998439206,
+    "ad_ratio": 0.37462596158676864,
+    "ad_plus_inherited_ratio": 0.5373251258013565
+  },
+  "guardianlv.com": {
+    "total_time": 158.61951350008894,
+    "ad_time": 1.3776099999959115,
+    "ad_plus_inherited": 1.3885804999881657,
+    "ad_ratio": 0.008684997006973793,
+    "ad_plus_inherited_ratio": 0.008754159367582394
+  },
+  "statesmanjournal.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "newsroom.ucla.edu": {
+    "total_time": 22.6210834999074,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "ntnews.com.au": {
+    "total_time": 83.76877099997364,
+    "ad_time": 8.633146999985911,
+    "ad_plus_inherited": 25.122437000100035,
+    "ad_ratio": 0.10305925342976116,
+    "ad_plus_inherited_ratio": 0.29990217953786075
+  },
+  "registerguard.com": {
+    "total_time": 155.3797464994277,
+    "ad_time": 13.602123500037123,
+    "ad_plus_inherited": 14.679909000042244,
+    "ad_ratio": 0.08754116161521233,
+    "ad_plus_inherited_ratio": 0.09447762228197684
+  },
+  "djournal.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "examiner.com.au": {
+    "total_time": 59.43359449962736,
+    "ad_time": 5.4957959999883315,
+    "ad_plus_inherited": 8.165403999955743,
+    "ad_ratio": 0.09246952075265764,
+    "ad_plus_inherited_ratio": 0.13738701266010317
+  },
+  "thenewsstar.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "news.berkeley.edu": {
+    "total_time": 1.8970175000140443,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "dailyprogress.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "vaildaily.com": {
+    "total_time": 129.13113150034042,
+    "ad_time": 17.104053500050213,
+    "ad_plus_inherited": 17.104053500050213,
+    "ad_ratio": 0.1324549185105307,
+    "ad_plus_inherited_ratio": 0.1324549185105307
+  },
+  "journalism.org": {
+    "total_time": 26.33935299985751,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "memri.org": {
+    "total_time": 776.1595035000064,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "inma.org": {
+    "total_time": 260.77195299993036,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "pjstar.com": {
+    "total_time": 214.00728799993522,
+    "ad_time": 34.52027749996341,
+    "ad_plus_inherited": 35.76842249991023,
+    "ad_ratio": 0.16130421455541208,
+    "ad_plus_inherited_ratio": 0.16713646920249303
+  },
+  "sgvtribune.com": {
+    "total_time": 82.3294259999675,
+    "ad_time": 21.614774500078056,
+    "ad_plus_inherited": 22.106054500036407,
+    "ad_ratio": 0.2625400850005512,
+    "ad_plus_inherited_ratio": 0.2685073317533531
+  },
+  "weatherstreet.com": {
+    "total_time": 11.247390499862377,
+    "ad_time": 2.4258225000667153,
+    "ad_plus_inherited": 5.07878650011844,
+    "ad_ratio": 0.21567869454665042,
+    "ad_plus_inherited_ratio": 0.45155242899947184
+  },
+  "uschamber.com": {
+    "total_time": 20.177324500109535,
+    "ad_time": 0.25065199995879084,
+    "ad_plus_inherited": 0.25065199995879084,
+    "ad_ratio": 0.012422459675336547,
+    "ad_plus_inherited_ratio": 0.012422459675336547
+  },
+  "dailyfreeman.com": {
+    "total_time": 77.65858900036255,
+    "ad_time": 11.124840000236873,
+    "ad_plus_inherited": 27.572693000125582,
+    "ad_ratio": 0.1432531822099541,
+    "ad_plus_inherited_ratio": 0.35505014133075297
+  },
+  "jdnews.com": {
+    "total_time": 114.66177150039584,
+    "ad_time": 27.599931000135257,
+    "ad_plus_inherited": 28.560617000155617,
+    "ad_ratio": 0.24070734856943993,
+    "ad_plus_inherited_ratio": 0.24908578182970964
+  },
+  "summitdaily.com": {
+    "total_time": 54.66236300050514,
+    "ad_time": 10.209722000348847,
+    "ad_plus_inherited": 12.80976400047075,
+    "ad_ratio": 0.18677791152670253,
+    "ad_plus_inherited_ratio": 0.23434340005301957
+  },
+  "dailybulletin.com": {
+    "total_time": 88.53224450016569,
+    "ad_time": 21.731701500029885,
+    "ad_plus_inherited": 24.50908400004846,
+    "ad_ratio": 0.24546651474524872,
+    "ad_plus_inherited_ratio": 0.2768379378431165
+  },
+  "universalhub.com": {
+    "total_time": 59.558089999482036,
+    "ad_time": 12.559222000360023,
+    "ad_plus_inherited": 13.50069900060771,
+    "ad_ratio": 0.21087348503736852,
+    "ad_plus_inherited_ratio": 0.22668119479192705
+  },
+  "heraldmailmedia.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "bostonreview.net": {
+    "total_time": 38.89889299996139,
+    "ad_time": 0.7614565000403672,
+    "ad_plus_inherited": 0.7614565000403672,
+    "ad_ratio": 0.0195752742897111,
+    "ad_plus_inherited_ratio": 0.0195752742897111
+  },
+  "fair.org": {
+    "total_time": 52.98035350019927,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "nashvillescene.com": {
+    "total_time": 11.142174000080558,
+    "ad_time": 1.5100364999234444,
+    "ad_plus_inherited": 1.5100364999234444,
+    "ad_ratio": 0.13552440483450776,
+    "ad_plus_inherited_ratio": 0.13552440483450776
+  },
+  "therisingwasabi.com": {
+    "total_time": 61.99843649988179,
+    "ad_time": 7.4897604998986935,
+    "ad_plus_inherited": 11.190899999943213,
+    "ad_ratio": 0.12080563515360543,
+    "ad_plus_inherited_ratio": 0.18050293897273603
+  },
+  "johnsoncitypress.com": {
+    "total_time": 125.99624999955995,
+    "ad_time": 38.22099299993715,
+    "ad_plus_inherited": 46.580258000059985,
+    "ad_ratio": 0.3033502425673037,
+    "ad_plus_inherited_ratio": 0.3696955901482994
+  },
+  "wan-ifra.org": {
+    "total_time": 54.13053700000455,
+    "ad_time": 17.473351000007824,
+    "ad_plus_inherited": 17.473351000007824,
+    "ad_ratio": 0.32280025228654863,
+    "ad_plus_inherited_ratio": 0.32280025228654863
+  },
+  "siouxcityjournal.com": {
+    "total_time": 59.46643349966325,
+    "ad_time": 10.74234899986186,
+    "ad_plus_inherited": 10.99819049987127,
+    "ad_ratio": 0.18064559059057564,
+    "ad_plus_inherited_ratio": 0.18494787483654204
+  },
+  "washingtoncitypaper.com": {
+    "total_time": 14.784796999956598,
+    "ad_time": 1.224819499970181,
+    "ad_plus_inherited": 1.224819499970181,
+    "ad_ratio": 0.08284317329306426,
+    "ad_plus_inherited_ratio": 0.08284317329306426
+  },
+  "journalgazette.net": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "juneauempire.com": {
+    "total_time": 89.38238900026772,
+    "ad_time": 19.589178999973228,
+    "ad_plus_inherited": 20.4013060000143,
+    "ad_ratio": 0.2191615061879198,
+    "ad_plus_inherited_ratio": 0.22824749067686248
+  },
+  "wcfcourier.com": {
+    "total_time": 68.8581049994973,
+    "ad_time": 12.544629000069108,
+    "ad_plus_inherited": 21.978315999964252,
+    "ad_ratio": 0.182180863097535,
+    "ad_plus_inherited_ratio": 0.319182701878373
+  },
+  "masternewmedia.org": {
+    "total_time": 61.13091649996932,
+    "ad_time": 3.303497500048252,
+    "ad_plus_inherited": 5.772121999994852,
+    "ad_ratio": 0.054039718184985985,
+    "ad_plus_inherited_ratio": 0.09442230430158444
+  },
+  "totaltele.com": {
+    "total_time": 57.85972999985097,
+    "ad_time": 2.8456630000146106,
+    "ad_plus_inherited": 2.8456630000146106,
+    "ad_ratio": 0.049182099536619686,
+    "ad_plus_inherited_ratio": 0.049182099536619686
+  },
+  "dailybruin.com": {
+    "total_time": 107.50130200016429,
+    "ad_time": 0.3889949999866076,
+    "ad_plus_inherited": 0.3889949999866076,
+    "ad_ratio": 0.003618514313305834,
+    "ad_plus_inherited_ratio": 0.003618514313305834
+  },
+  "sj-r.com": {
+    "total_time": 96.98880699989968,
+    "ad_time": 21.815354499936802,
+    "ad_plus_inherited": 22.789116999920225,
+    "ad_ratio": 0.22492651652019358,
+    "ad_plus_inherited_ratio": 0.23496646370692853
+  },
+  "salemnews.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "andhrabhoomi.net": {
+    "total_time": 276.6576539998641,
+    "ad_time": 13.419509999570437,
+    "ad_plus_inherited": 20.42358799953945,
+    "ad_ratio": 0.04850583313186422,
+    "ad_plus_inherited_ratio": 0.07382260242671429
+  },
+  "djc.com": {
+    "total_time": 28.684847999960766,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "match.net.tw": {
+    "total_time": 72.37695899989922,
+    "ad_time": 10.371245999995153,
+    "ad_plus_inherited": 10.403417000023182,
+    "ad_ratio": 0.14329485713829998,
+    "ad_plus_inherited_ratio": 0.14373934942524552
+  },
+  "lee.net": {
+    "total_time": 11.60908249989734,
+    "ad_time": 0.12026750000950415,
+    "ad_plus_inherited": 0.12026750000950415,
+    "ad_ratio": 0.010359776494875256,
+    "ad_plus_inherited_ratio": 0.010359776494875256
+  },
+  "newstodaynet.com": {
+    "total_time": 111.69705849987804,
+    "ad_time": 1.7859790000657085,
+    "ad_plus_inherited": 4.063389000031748,
+    "ad_ratio": 0.015989490001365243,
+    "ad_plus_inherited_ratio": 0.03637865718761237
+  },
+  "businesswireindia.com": {
+    "total_time": 116.66686999992817,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "dailyitem.com": {
+    "total_time": 136.81512600011774,
+    "ad_time": 20.38148300020839,
+    "ad_plus_inherited": 20.38148300020839,
+    "ad_ratio": 0.14897097708473295,
+    "ad_plus_inherited_ratio": 0.14897097708473295
+  },
+  "pressconnects.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "register-herald.com": {
+    "total_time": 142.81482099962886,
+    "ad_time": 19.570460000133608,
+    "ad_plus_inherited": 31.82926400017459,
+    "ad_ratio": 0.13703381668058434,
+    "ad_plus_inherited_ratio": 0.2228708741668857
+  },
+  "parkrecord.com": {
+    "total_time": 49.902695999422576,
+    "ad_time": 6.655940499942517,
+    "ad_plus_inherited": 6.955115999968257,
+    "ad_ratio": 0.13337837498838806,
+    "ad_plus_inherited_ratio": 0.13937355208321278
+  },
+  "journaltimes.com": {
+    "total_time": 76.89927800091391,
+    "ad_time": 15.754356000063126,
+    "ad_plus_inherited": 28.35754550031561,
+    "ad_ratio": 0.204870011911892,
+    "ad_plus_inherited_ratio": 0.3687621813559627
+  },
+  "biv.com": {
+    "total_time": 38.648011000070255,
+    "ad_time": 4.789322000113316,
+    "ad_plus_inherited": 4.789322000113316,
+    "ad_ratio": 0.12392156481492954,
+    "ad_plus_inherited_ratio": 0.12392156481492954
+  },
+  "stanforddaily.com": {
+    "total_time": 62.73428600020998,
+    "ad_time": 10.018067499971949,
+    "ad_plus_inherited": 10.326348499962478,
+    "ad_ratio": 0.15969046814270615,
+    "ad_plus_inherited_ratio": 0.1646045433581234
+  }
+}

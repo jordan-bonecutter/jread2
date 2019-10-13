@@ -1,0 +1,1762 @@
+{
+  "reddit.com": {
+    "total": 7643617,
+    "ad": 122188,
+    "ratio": 0.015985625653404664
+  },
+  "forbes.com": {
+    "total": 8041728,
+    "ad": 1097688,
+    "ratio": 0.13649902110591156
+  },
+  "nytimes.com": {
+    "total": 9449958,
+    "ad": 1142632,
+    "ratio": 0.12091397654889048
+  },
+  "theguardian.com": {
+    "total": 13351959,
+    "ad": 1221835,
+    "ratio": 0.0915097926828565
+  },
+  "shutterstock.com": {
+    "total": 11115997,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "indiatimes.com": {
+    "total": 58768067,
+    "ad": 9254972,
+    "ratio": 0.15748300858695932
+  },
+  "washingtonpost.com": {
+    "total": 8734959,
+    "ad": 1029371,
+    "ratio": 0.11784497214010964
+  },
+  "foxnews.com": {
+    "total": 17849261,
+    "ad": 11819936,
+    "ratio": 0.6622087043267506
+  },
+  "cnbc.com": {
+    "total": 4962890,
+    "ad": 45857,
+    "ratio": 0.009239979125066241
+  },
+  "bloomberg.com": {
+    "total": 20650341,
+    "ad": 777673,
+    "ratio": 0.03765908756664115
+  },
+  "wsj.com": {
+    "total": 9367589,
+    "ad": 1610680,
+    "ratio": 0.17194178779619815
+  },
+  "chron.com": {
+    "total": 6658596,
+    "ad": 1213923,
+    "ratio": 0.1823091534611801
+  },
+  "chinadaily.com.cn": {
+    "total": 4302462,
+    "ad": 427088,
+    "ratio": 0.09926595516706481
+  },
+  "nbcnews.com": {
+    "total": 12569202,
+    "ad": 764126,
+    "ratio": 0.06079351736092713
+  },
+  "wunderground.com": {
+    "total": 4374510,
+    "ad": 431622,
+    "ratio": 0.09866750790374236
+  },
+  "cbsnews.com": {
+    "total": 12724920,
+    "ad": 4712336,
+    "ratio": 0.370323428359471
+  },
+  "usnews.com": {
+    "total": 13525264,
+    "ad": 2951364,
+    "ratio": 0.21821119351163867
+  },
+  "dw.com": {
+    "total": 6782815,
+    "ad": 1942961,
+    "ratio": 0.2864534857577569
+  },
+  "thehindu.com": {
+    "total": 13652062,
+    "ad": 857703,
+    "ratio": 0.0628258939931565
+  },
+  "weather.gov": {
+    "total": 4567116,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "news.com.au": {
+    "total": 4409162,
+    "ad": 1052645,
+    "ratio": 0.2387403774231929
+  },
+  "indianexpress.com": {
+    "total": 32552344,
+    "ad": 5437674,
+    "ratio": 0.16704400764504085
+  },
+  "thedailybeast.com": {
+    "total": 8198680,
+    "ad": 3719465,
+    "ratio": 0.4536663218957198
+  },
+  "time.com": {
+    "total": 15325516,
+    "ad": 2899673,
+    "ratio": 0.18920557063135754
+  },
+  "latimes.com": {
+    "total": 7085405,
+    "ad": 1604729,
+    "ratio": 0.22648373663890772
+  },
+  "yr.no": {
+    "total": 5943583,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "hindustantimes.com": {
+    "total": 4868642,
+    "ad": 1810022,
+    "ratio": 0.3717714303084926
+  },
+  "theatlantic.com": {
+    "total": 6513489,
+    "ad": 1954986,
+    "ratio": 0.30014420842654377
+  },
+  "newsnow.co.uk": {
+    "total": 6348192,
+    "ad": 1694645,
+    "ratio": 0.2669492353098331
+  },
+  "hollywoodreporter.com": {
+    "total": 6229271,
+    "ad": 870089,
+    "ratio": 0.13967749998354542
+  },
+  "newsweek.com": {
+    "total": 4345045,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "livemint.com": {
+    "total": 3293894,
+    "ad": 69352,
+    "ratio": 0.02105471517905555
+  },
+  "nationalgeographic.com": {
+    "total": 12270418,
+    "ad": 50847,
+    "ratio": 0.004143868611484955
+  },
+  "irna.ir": {
+    "total": 3532835,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "patch.com": {
+    "total": 9837522,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "mathrubhumi.com": {
+    "total": 15425582,
+    "ad": 4493731,
+    "ratio": 0.29131678791762927
+  },
+  "alarabiya.net": {
+    "total": 11057444,
+    "ad": 1527430,
+    "ratio": 0.1381359019317665
+  },
+  "voanews.com": {
+    "total": 3467072,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "smh.com.au": {
+    "total": 5146986,
+    "ad": 1411224,
+    "ratio": 0.27418454217672245
+  },
+  "bankrate.com": {
+    "total": 11217420,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "foxbusiness.com": {
+    "total": 17765814,
+    "ad": 4430712,
+    "ratio": 0.24939538374093076
+  },
+  "business-standard.com": {
+    "total": 26121176,
+    "ad": 5051879,
+    "ratio": 0.19340166767376782
+  },
+  "france24.com": {
+    "total": 8847607,
+    "ad": 2992348,
+    "ratio": 0.338209868498906
+  },
+  "economist.com": {
+    "total": 6861558,
+    "ad": 159897,
+    "ratio": 0.023303308082508373
+  },
+  "ctvnews.ca": {
+    "total": 13044313,
+    "ad": 502340,
+    "ratio": 0.038510268804497406
+  },
+  "washingtonexaminer.com": {
+    "total": 3181048,
+    "ad": 295113,
+    "ratio": 0.0927722561872691
+  },
+  "theconversation.com": {
+    "total": 5187630,
+    "ad": 534,
+    "ratio": 0.00010293717940562453
+  },
+  "nj.com": {
+    "total": 4044999,
+    "ad": 86325,
+    "ratio": 0.021341167204244057
+  },
+  "dailycaller.com": {
+    "total": 4803355,
+    "ad": 1041301,
+    "ratio": 0.2167861838235983
+  },
+  "zougla.gr": {
+    "total": 22588978,
+    "ad": 5702889,
+    "ratio": 0.2524633473900413
+  },
+  "rd.com": {
+    "total": 16745913,
+    "ad": 355386,
+    "ratio": 0.021222252856562672
+  },
+  "theglobeandmail.com": {
+    "total": 19469749,
+    "ad": 7814457,
+    "ratio": 0.40136403402016124
+  },
+  "financialexpress.com": {
+    "total": 6680878,
+    "ad": 1511858,
+    "ratio": 0.2262963041684042
+  },
+  "prnewswire.com": {
+    "total": 2255377,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "thehindubusinessline.com": {
+    "total": 8366083,
+    "ad": 24487,
+    "ratio": 0.0029269372536705647
+  },
+  "thetimes.co.uk": {
+    "total": 18806073,
+    "ad": 1632412,
+    "ratio": 0.08680238559108007
+  },
+  "theage.com.au": {
+    "total": 5009981,
+    "ad": 1105578,
+    "ratio": 0.22067508838855876
+  },
+  "metoffice.gov.uk": {
+    "total": 5859797,
+    "ad": 1282666,
+    "ratio": 0.21889256573222587
+  },
+  "fortune.com": {
+    "total": 12029229,
+    "ad": 2208788,
+    "ratio": 0.18361841810476798
+  },
+  "thestar.com": {
+    "total": 8186133,
+    "ad": 848181,
+    "ratio": 0.10361192519105175
+  },
+  "thenews.com.pk": {
+    "total": 5854384,
+    "ad": 1418809,
+    "ratio": 0.24234983561037335
+  },
+  "ap.org": {
+    "total": 9856395,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "theroot.com": {
+    "total": 12511557,
+    "ad": 1383707,
+    "ratio": 0.11059430892573961
+  },
+  "bostonglobe.com": {
+    "total": 5852704,
+    "ad": 690648,
+    "ratio": 0.11800494267265182
+  },
+  "theepochtimes.com": {
+    "total": 6508936,
+    "ad": 770732,
+    "ratio": 0.11841136554423028
+  },
+  "ajc.com": {
+    "total": 25449921,
+    "ad": 1641371,
+    "ratio": 0.06449414911739805
+  },
+  "mercurynews.com": {
+    "total": 6188479,
+    "ad": 280980,
+    "ratio": 0.045403725212608784
+  },
+  "voat.co": {
+    "total": 1148823,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "oregonlive.com": {
+    "total": 4671827,
+    "ad": 363374,
+    "ratio": 0.07777984929664562
+  },
+  "startribune.com": {
+    "total": 5308743,
+    "ad": 399817,
+    "ratio": 0.0753129318936705
+  },
+  "blastingnews.com": {
+    "total": 707712,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "stltoday.com": {
+    "total": 10113029,
+    "ad": 3981415,
+    "ratio": 0.3936916427313716
+  },
+  "lexisnexis.com": {
+    "total": 3495641,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "topix.com": {
+    "total": 3830595,
+    "ad": 424304,
+    "ratio": 0.11076712625584276
+  },
+  "dallasnews.com": {
+    "total": 8735963,
+    "ad": 1028997,
+    "ratio": 0.11778861700764988
+  },
+  "al.com": {
+    "total": 6270756,
+    "ad": 112396,
+    "ratio": 0.01792383565873078
+  },
+  "freep.com": {
+    "total": 5425292,
+    "ad": 1763004,
+    "ratio": 0.3249602049069433
+  },
+  "theweek.com": {
+    "total": 3638890,
+    "ad": 1200445,
+    "ratio": 0.3298931817120056
+  },
+  "huffingtonpost.com": {
+    "total": 8494318,
+    "ad": 34038,
+    "ratio": 0.004007149249651355
+  },
+  "nationalpost.com": {
+    "total": 21223703,
+    "ad": 4226684,
+    "ratio": 0.19914922480775385
+  },
+  "adweek.com": {
+    "total": 14817620,
+    "ad": 3047006,
+    "ratio": 0.2056339682081198
+  },
+  "newspapers.com": {
+    "total": 2478565,
+    "ad": 30059,
+    "ratio": 0.012127581887099996
+  },
+  "rappler.com": {
+    "total": 18027820,
+    "ad": 2895391,
+    "ratio": 0.1606068287790759
+  },
+  "metafilter.com": {
+    "total": 2545966,
+    "ad": 48583,
+    "ratio": 0.01908234438323214
+  },
+  "sfchronicle.com": {
+    "total": 13592017,
+    "ad": 779068,
+    "ratio": 0.05731805662102983
+  },
+  "deseretnews.com": {
+    "total": 9441897,
+    "ad": 1904511,
+    "ratio": 0.2017085126008047
+  },
+  "denverpost.com": {
+    "total": 16982657,
+    "ad": 4826386,
+    "ratio": 0.28419498786320657
+  },
+  "thebetterindia.com": {
+    "total": 1729525,
+    "ad": 218,
+    "ratio": 0.00012604616874575388
+  },
+  "afr.com": {
+    "total": 23775455,
+    "ad": 5582771,
+    "ratio": 0.23481237267593827
+  },
+  "detroitnews.com": {
+    "total": 5216567,
+    "ad": 1140360,
+    "ratio": 0.21860353753723474
+  },
+  "heraldsun.com.au": {
+    "total": 12208580,
+    "ad": 2828920,
+    "ratio": 0.23171572779143848
+  },
+  "tampabay.com": {
+    "total": 17344807,
+    "ad": 7369900,
+    "ratio": 0.42490527568280234
+  },
+  "newsday.com": {
+    "total": 12187202,
+    "ad": 1033073,
+    "ratio": 0.0847670367652887
+  },
+  "afp.com": {
+    "total": 3703019,
+    "ad": 3886,
+    "ratio": 0.0010494140051671352
+  },
+  "deccanherald.com": {
+    "total": 18148976,
+    "ad": 303686,
+    "ratio": 0.01673295507140458
+  },
+  "dowjones.com": {
+    "total": 10145334,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "fcc.gov": {
+    "total": 2158448,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "suntimes.com": {
+    "total": 13455207,
+    "ad": 972426,
+    "ratio": 0.07227135190116361
+  },
+  "sltrib.com": {
+    "total": 6066325,
+    "ad": 491012,
+    "ratio": 0.08094060242403761
+  },
+  "commondreams.org": {
+    "total": 4207702,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "wtop.com": {
+    "total": 7697941,
+    "ad": 1352073,
+    "ratio": 0.17564086292685277
+  },
+  "reviewjournal.com": {
+    "total": 14548330,
+    "ad": 448533,
+    "ratio": 0.03083054893585724
+  },
+  "orlandosentinel.com": {
+    "total": 5182615,
+    "ad": 2234283,
+    "ratio": 0.43111112826246983
+  },
+  "smartbrief.com": {
+    "total": 3489494,
+    "ad": 16932,
+    "ratio": 0.004852279442234318
+  },
+  "parade.com": {
+    "total": 2680838,
+    "ad": 638900,
+    "ratio": 0.23832100261186986
+  },
+  "observer.com": {
+    "total": 10053877,
+    "ad": 2049969,
+    "ratio": 0.20389835682294502
+  },
+  "c-span.org": {
+    "total": 3868006,
+    "ad": 143,
+    "ratio": 3.696995299386816e-05
+  },
+  "beforeitsnews.com": {
+    "total": 4757549,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "siasat.com": {
+    "total": 2980045,
+    "ad": 881526,
+    "ratio": 0.29580962703583336
+  },
+  "syracuse.com": {
+    "total": 5176726,
+    "ad": 71647,
+    "ratio": 0.013840214838490583
+  },
+  "seattlepi.com": {
+    "total": 13306557,
+    "ad": 819527,
+    "ratio": 0.061588207978968565
+  },
+  "sandiegouniontribune.com": {
+    "total": 13179973,
+    "ad": 5311138,
+    "ratio": 0.40297032474952715
+  },
+  "newrepublic.com": {
+    "total": 6304909,
+    "ad": 1768949,
+    "ratio": 0.2805669360176332
+  },
+  "wn.com": {
+    "total": 3346404,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "mysanantonio.com": {
+    "total": 12932359,
+    "ad": 1102697,
+    "ratio": 0.0852665008758263
+  },
+  "cision.com": {
+    "total": 14763081,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "newsobserver.com": {
+    "total": 15215038,
+    "ad": 5116384,
+    "ratio": 0.3362715229498605
+  },
+  "vancouversun.com": {
+    "total": 10755736,
+    "ad": 1889958,
+    "ratio": 0.17571628756972094
+  },
+  "thestranger.com": {
+    "total": 5082220,
+    "ad": 855092,
+    "ratio": 0.1682516695459858
+  },
+  "couriermail.com.au": {
+    "total": 6660597,
+    "ad": 1616842,
+    "ratio": 0.24274730928774102
+  },
+  "militarytimes.com": {
+    "total": 11248411,
+    "ad": 1437056,
+    "ratio": 0.12775635598663668
+  },
+  "federalreserve.gov": {
+    "total": 2380500,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "criticalmention.com": {
+    "total": 12926027,
+    "ad": 979,
+    "ratio": 7.573866277704665e-05
+  },
+  "courant.com": {
+    "total": 8896436,
+    "ad": 1829929,
+    "ratio": 0.20569236939376623
+  },
+  "palmbeachpost.com": {
+    "total": 15175450,
+    "ad": 1554925,
+    "ratio": 0.10246318890049388
+  },
+  "weather.info": {
+    "total": 629817,
+    "ad": 12655,
+    "ratio": 0.020093138165530624
+  },
+  "worldweatheronline.com": {
+    "total": 24837677,
+    "ad": 5232690,
+    "ratio": 0.21067549916201905
+  },
+  "freepressjournal.in": {
+    "total": 3297170,
+    "ad": 951500,
+    "ratio": 0.28858081324287194
+  },
+  "twincities.com": {
+    "total": 6257331,
+    "ad": 959782,
+    "ratio": 0.1533852052896035
+  },
+  "dailyherald.com": {
+    "total": 13246667,
+    "ad": 1104617,
+    "ratio": 0.08338829684478367
+  },
+  "omaha.com": {
+    "total": 3341777,
+    "ad": 849209,
+    "ratio": 0.25411899118343323
+  },
+  "copyright.gov": {
+    "total": 1199278,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "statesman.com": {
+    "total": 19903784,
+    "ad": 1826339,
+    "ratio": 0.09175838122037498
+  },
+  "snow-forecast.com": {
+    "total": 6943589,
+    "ad": 2221634,
+    "ratio": 0.3199547093009105
+  },
+  "niemanlab.org": {
+    "total": 2818779,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "star-telegram.com": {
+    "total": 2649277,
+    "ad": 212778,
+    "ratio": 0.08031549739796934
+  },
+  "mediamatters.org": {
+    "total": 792713,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "adn.com": {
+    "total": 3056509,
+    "ad": 279679,
+    "ratio": 0.09150275690338226
+  },
+  "good.is": {
+    "total": 10560549,
+    "ad": 1798521,
+    "ratio": 0.17030563467865165
+  },
+  "timesunion.com": {
+    "total": 6295058,
+    "ad": 1649784,
+    "ratio": 0.2620760603000004
+  },
+  "nyse.com": {
+    "total": 5066549,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "montrealgazette.com": {
+    "total": 13107251,
+    "ad": 1074562,
+    "ratio": 0.08198225547065513
+  },
+  "rollcall.com": {
+    "total": 8227426,
+    "ad": 2146528,
+    "ratio": 0.2608990952942026
+  },
+  "thedrum.com": {
+    "total": 5976710,
+    "ad": 839545,
+    "ratio": 0.1404694221402745
+  },
+  "macleans.ca": {
+    "total": 10701660,
+    "ad": 1104969,
+    "ratio": 0.1032521122891215
+  },
+  "newstracklive.com": {
+    "total": 5444333,
+    "ad": 1533614,
+    "ratio": 0.2816899701028574
+  },
+  "rferl.org": {
+    "total": 2222387,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "stripes.com": {
+    "total": 17333554,
+    "ad": 1152362,
+    "ratio": 0.06648157671531181
+  },
+  "newswire.ca": {
+    "total": 1488809,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "tveyes.com": {
+    "total": 7115714,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "mediabistro.com": {
+    "total": 6203911,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "prweb.com": {
+    "total": 5664902,
+    "ad": 21119,
+    "ratio": 0.003728043309487084
+  },
+  "dailypioneer.com": {
+    "total": 2214063,
+    "ad": 536835,
+    "ratio": 0.24246600028996465
+  },
+  "asianage.com": {
+    "total": 13110089,
+    "ad": 3979338,
+    "ratio": 0.3035324931813964
+  },
+  "csmonitor.com": {
+    "total": 10415704,
+    "ad": 1407374,
+    "ratio": 0.13512039128608108
+  },
+  "calgaryherald.com": {
+    "total": 6516374,
+    "ad": 826827,
+    "ratio": 0.1268845219749511
+  },
+  "mediapost.com": {
+    "total": 1105818,
+    "ad": 11356,
+    "ratio": 0.01026932099133854
+  },
+  "globaltimes.cn": {
+    "total": 10257063,
+    "ad": 164112,
+    "ratio": 0.015999901726254387
+  },
+  "newswire.com": {
+    "total": 4826923,
+    "ad": 12933,
+    "ratio": 0.0026793466562445682
+  },
+  "factcheck.org": {
+    "total": 2354986,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "goodnewsnetwork.org": {
+    "total": 6181134,
+    "ad": 424856,
+    "ratio": 0.06873431315354109
+  },
+  "spokesman.com": {
+    "total": 4144389,
+    "ad": 59542,
+    "ratio": 0.014366894613415873
+  },
+  "project-syndicate.org": {
+    "total": 4742786,
+    "ad": 2705,
+    "ratio": 0.0005703398803994108
+  },
+  "lohud.com": {
+    "total": 10858305,
+    "ad": 2858263,
+    "ratio": 0.26323288947952744
+  },
+  "edmontonjournal.com": {
+    "total": 22174393,
+    "ad": 2085476,
+    "ratio": 0.09404884273495108
+  },
+  "pilotonline.com": {
+    "total": 23072085,
+    "ad": 5494491,
+    "ratio": 0.23814453700218252
+  },
+  "democratandchronicle.com": {
+    "total": 11427572,
+    "ad": 3078319,
+    "ratio": 0.26937646947225535
+  },
+  "ctpost.com": {
+    "total": 5240014,
+    "ad": 235499,
+    "ratio": 0.044942437176694564
+  },
+  "lasvegassun.com": {
+    "total": 2336326,
+    "ad": 234935,
+    "ratio": 0.10055745645085488
+  },
+  "commercialappeal.com": {
+    "total": 5504694,
+    "ad": 2231926,
+    "ratio": 0.40545868671355756
+  },
+  "heraldtribune.com": {
+    "total": 9990415,
+    "ad": 689187,
+    "ratio": 0.06898482195184084
+  },
+  "pe.com": {
+    "total": 5265315,
+    "ad": 1152569,
+    "ratio": 0.21889839449301704
+  },
+  "wfp.org": {
+    "total": 2260571,
+    "ad": 68105,
+    "ratio": 0.030127343932130422
+  },
+  "tucson.com": {
+    "total": 9758354,
+    "ad": 3076094,
+    "ratio": 0.3152267277862639
+  },
+  "rgj.com": {
+    "total": 10860730,
+    "ad": 2806878,
+    "ratio": 0.25844284868512524
+  },
+  "greaterkashmir.com": {
+    "total": 3138023,
+    "ad": 77374,
+    "ratio": 0.024656925714056272
+  },
+  "einpresswire.com": {
+    "total": 2390550,
+    "ad": 1189,
+    "ratio": 0.0004973750810482944
+  },
+  "telegram.com": {
+    "total": 17728364,
+    "ad": 1478912,
+    "ratio": 0.0834206698373296
+  },
+  "roanoke.com": {
+    "total": 4619147,
+    "ad": 1784239,
+    "ratio": 0.38627023560843593
+  },
+  "timesfreepress.com": {
+    "total": 6928743,
+    "ad": 3499270,
+    "ratio": 0.5050367721821981
+  },
+  "weather-forecast.com": {
+    "total": 3520500,
+    "ad": 1200992,
+    "ratio": 0.3411424513563414
+  },
+  "pressofatlanticcity.com": {
+    "total": 4303159,
+    "ad": 1456608,
+    "ratio": 0.33849736902587146
+  },
+  "spiked-online.com": {
+    "total": 6547222,
+    "ad": 2500640,
+    "ratio": 0.38193908805902715
+  },
+  "duluthnewstribune.com": {
+    "total": 17244853,
+    "ad": 812044,
+    "ratio": 0.047089064777762965
+  },
+  "einnews.com": {
+    "total": 5157219,
+    "ad": 410130,
+    "ratio": 0.07952541864132588
+  },
+  "journalstar.com": {
+    "total": 4610546,
+    "ad": 1405444,
+    "ratio": 0.3048324428386573
+  },
+  "canberratimes.com.au": {
+    "total": 3038313,
+    "ad": 200885,
+    "ratio": 0.06611728284742224
+  },
+  "straight.com": {
+    "total": 3599460,
+    "ad": 371236,
+    "ratio": 0.10313658159835086
+  },
+  "providencejournal.com": {
+    "total": 16173450,
+    "ad": 1089978,
+    "ratio": 0.06739304230080781
+  },
+  "arkansasonline.com": {
+    "total": 13892742,
+    "ad": 505197,
+    "ratio": 0.036364095727107006
+  },
+  "stamfordadvocate.com": {
+    "total": 12187294,
+    "ad": 2798629,
+    "ratio": 0.22963497885584774
+  },
+  "lmtonline.com": {
+    "total": 9684658,
+    "ad": 5089301,
+    "ratio": 0.5255013651488777
+  },
+  "mcall.com": {
+    "total": 10938571,
+    "ad": 3787925,
+    "ratio": 0.3462906626468851
+  },
+  "cjr.org": {
+    "total": 3727845,
+    "ad": 400465,
+    "ratio": 0.1074253355490907
+  },
+  "weatheronline.co.uk": {
+    "total": 2601312,
+    "ad": 337128,
+    "ratio": 0.1295992176255674
+  },
+  "wickedlocal.com": {
+    "total": 5950634,
+    "ad": 811699,
+    "ratio": 0.1364054653672197
+  },
+  "sandiegoreader.com": {
+    "total": 11336981,
+    "ad": 1382162,
+    "ratio": 0.1219162314905529
+  },
+  "citypages.com": {
+    "total": 4306880,
+    "ad": 968519,
+    "ratio": 0.2248771732669589
+  },
+  "multichannel.com": {
+    "total": 2030727,
+    "ad": 455016,
+    "ratio": 0.22406556863625687
+  },
+  "frontpagemag.com": {
+    "total": 3286349,
+    "ad": 517417,
+    "ratio": 0.1574443249940892
+  },
+  "nwitimes.com": {
+    "total": 11984217,
+    "ad": 1801406,
+    "ratio": 0.15031486829719456
+  },
+  "grandforksherald.com": {
+    "total": 13595644,
+    "ad": 1326436,
+    "ratio": 0.09756330777710862
+  },
+  "floridatoday.com": {
+    "total": 6040910,
+    "ad": 1667556,
+    "ratio": 0.27604384107692387
+  },
+  "dailypress.com": {
+    "total": 5202109,
+    "ad": 1904209,
+    "ratio": 0.3660455788219739
+  },
+  "uexpress.com": {
+    "total": 4936269,
+    "ad": 1181829,
+    "ratio": 0.23941746286517204
+  },
+  "desertsun.com": {
+    "total": 5263139,
+    "ad": 1792321,
+    "ratio": 0.34054221254654304
+  },
+  "thehour.com": {
+    "total": 8305091,
+    "ad": 2046699,
+    "ratio": 0.2464390817632221
+  },
+  "gannett.com": {
+    "total": 3538662,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "eastbaytimes.com": {
+    "total": 9601096,
+    "ad": 1826821,
+    "ratio": 0.19027213143166155
+  },
+  "austinchronicle.com": {
+    "total": 6879343,
+    "ad": 2784816,
+    "ratio": 0.4048084242928431
+  },
+  "chicagoreader.com": {
+    "total": 4121249,
+    "ad": 1358444,
+    "ratio": 0.32961949156675563
+  },
+  "pickyournewspaper.com": {
+    "total": 7643363,
+    "ad": 1468922,
+    "ratio": 0.19218268189015753
+  },
+  "allyoucanread.com": {
+    "total": 8087409,
+    "ad": 2554613,
+    "ratio": 0.3158753316420624
+  },
+  "knoxnews.com": {
+    "total": 6132215,
+    "ad": 2677987,
+    "ratio": 0.43670794321464595
+  },
+  "theprovince.com": {
+    "total": 5267430,
+    "ad": 558384,
+    "ratio": 0.1060069141877538
+  },
+  "creators.com": {
+    "total": 1469737,
+    "ad": 405,
+    "ratio": 0.00027555950486379534
+  },
+  "thechronicleherald.ca": {
+    "total": 5584614,
+    "ad": 1347239,
+    "ratio": 0.24124120306255722
+  },
+  "aspentimes.com": {
+    "total": 5428330,
+    "ad": 953820,
+    "ratio": 0.1757114987482338
+  },
+  "sunnyskyz.com": {
+    "total": 4813331,
+    "ad": 967839,
+    "ratio": 0.20107468196141093
+  },
+  "globalvoices.org": {
+    "total": 3398214,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "idahostatesman.com": {
+    "total": 18323059,
+    "ad": 8317006,
+    "ratio": 0.4539092517248348
+  },
+  "newstimes.com": {
+    "total": 17369869,
+    "ad": 6388640,
+    "ratio": 0.3678001256083163
+  },
+  "ibj.com": {
+    "total": 8537039,
+    "ad": 370993,
+    "ratio": 0.0434568707018909
+  },
+  "abqjournal.com": {
+    "total": 6144010,
+    "ad": 2199921,
+    "ratio": 0.35805947581465525
+  },
+  "governing.com": {
+    "total": 3486298,
+    "ad": 1099967,
+    "ratio": 0.3155114680385899
+  },
+  "lancasteronline.com": {
+    "total": 10304999,
+    "ad": 2104580,
+    "ratio": 0.20422903485968316
+  },
+  "pantagraph.com": {
+    "total": 7089868,
+    "ad": 1984833,
+    "ratio": 0.27995344906280345
+  },
+  "magnumphotos.com": {
+    "total": 3966682,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "broadcastingcable.com": {
+    "total": 7189610,
+    "ad": 1590730,
+    "ratio": 0.22125400404194387
+  },
+  "crweworld.com": {
+    "total": 11925516,
+    "ad": 1959758,
+    "ratio": 0.16433318273188346
+  },
+  "thenewstribune.com": {
+    "total": 7030188,
+    "ad": 3184919,
+    "ratio": 0.45303468413646975
+  },
+  "opendemocracy.net": {
+    "total": 2048757,
+    "ad": 22836,
+    "ratio": 0.011146270641174136
+  },
+  "thedailymash.co.uk": {
+    "total": 9250293,
+    "ad": 1046441,
+    "ratio": 0.1131251734404521
+  },
+  "passageweather.com": {
+    "total": 1461507,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "vcstar.com": {
+    "total": 5041566,
+    "ad": 1772612,
+    "ratio": 0.35159948317645745
+  },
+  "lehighvalleylive.com": {
+    "total": 4760262,
+    "ad": 91375,
+    "ratio": 0.019195372019439265
+  },
+  "sfexaminer.com": {
+    "total": 5188317,
+    "ad": 1832656,
+    "ratio": 0.35322745314135584
+  },
+  "nhregister.com": {
+    "total": 12676320,
+    "ad": 515886,
+    "ratio": 0.04069682683933507
+  },
+  "fresnobee.com": {
+    "total": 7822836,
+    "ad": 2572098,
+    "ratio": 0.3287935475063008
+  },
+  "sunshinecoastdaily.com.au": {
+    "total": 8178291,
+    "ad": 2405336,
+    "ratio": 0.29411230292490204
+  },
+  "independent.com": {
+    "total": 5336782,
+    "ad": 716928,
+    "ratio": 0.13433713425056523
+  },
+  "qctimes.com": {
+    "total": 4523837,
+    "ad": 1363800,
+    "ratio": 0.30146974791532055
+  },
+  "tcpalm.com": {
+    "total": 4993842,
+    "ad": 1469833,
+    "ratio": 0.29432909571428173
+  },
+  "bakersfield.com": {
+    "total": 7404113,
+    "ad": 988430,
+    "ratio": 0.13349742231108574
+  },
+  "collegemagazine.com": {
+    "total": 5566252,
+    "ad": 776141,
+    "ratio": 0.13943691374375433
+  },
+  "24-7pressrelease.com": {
+    "total": 2926170,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "kitv.com": {
+    "total": 5382316,
+    "ad": 1240287,
+    "ratio": 0.23043741764697576
+  },
+  "journalnow.com": {
+    "total": 3462728,
+    "ad": 504985,
+    "ratio": 0.14583444036031706
+  },
+  "mcclatchydc.com": {
+    "total": 9996253,
+    "ad": 2299779,
+    "ratio": 0.23006410502015104
+  },
+  "goldcoastbulletin.com.au": {
+    "total": 13644173,
+    "ad": 4225899,
+    "ratio": 0.30972188640528087
+  },
+  "columbian.com": {
+    "total": 7226080,
+    "ad": 824627,
+    "ratio": 0.11411816641941412
+  },
+  "southbendtribune.com": {
+    "total": 5915993,
+    "ad": 706617,
+    "ratio": 0.11944182489735873
+  },
+  "gainesville.com": {
+    "total": 18334332,
+    "ad": 1390813,
+    "ratio": 0.07585839505906188
+  },
+  "myrtlebeachonline.com": {
+    "total": 9554142,
+    "ad": 3740730,
+    "ratio": 0.391529663260186
+  },
+  "calgarysun.com": {
+    "total": 12228787,
+    "ad": 1225010,
+    "ratio": 0.10017428547900949
+  },
+  "washingtonmonthly.com": {
+    "total": 5832635,
+    "ad": 600166,
+    "ratio": 0.10289791835079685
+  },
+  "harpers.org": {
+    "total": 3436353,
+    "ad": 1416107,
+    "ratio": 0.41209590516457417
+  },
+  "onthesnow.com": {
+    "total": 4262222,
+    "ad": 2204730,
+    "ratio": 0.5172724461560191
+  },
+  "theguardian.pe.ca": {
+    "total": 3906937,
+    "ad": 651206,
+    "ratio": 0.1666794217567368
+  },
+  "intellicast.com": {
+    "total": 2329374,
+    "ad": 26302,
+    "ratio": 0.011291445684548724
+  },
+  "greenwichtime.com": {
+    "total": 9961996,
+    "ad": 1026401,
+    "ratio": 0.10303166152646517
+  },
+  "napavalleyregister.com": {
+    "total": 12964490,
+    "ad": 4497723,
+    "ratio": 0.3469263349348875
+  },
+  "theledger.com": {
+    "total": 4914111,
+    "ad": 253476,
+    "ratio": 0.05158125243813174
+  },
+  "trib.com": {
+    "total": 4946348,
+    "ad": 1368633,
+    "ratio": 0.27669565505702387
+  },
+  "jewishworldreview.com": {
+    "total": 2640238,
+    "ad": 1252345,
+    "ratio": 0.4743303444613705
+  },
+  "beaumontenterprise.com": {
+    "total": 4519434,
+    "ad": 670413,
+    "ratio": 0.1483400355000206
+  },
+  "postbulletin.com": {
+    "total": 3665078,
+    "ad": 391076,
+    "ratio": 0.10670332254866063
+  },
+  "uticaod.com": {
+    "total": 6752452,
+    "ad": 421593,
+    "ratio": 0.062435541933508004
+  },
+  "weatherforyou.com": {
+    "total": 1377975,
+    "ad": 534445,
+    "ratio": 0.3878481104519313
+  },
+  "azdailysun.com": {
+    "total": 6536995,
+    "ad": 1614099,
+    "ratio": 0.2469175821612224
+  },
+  "fredericknewspost.com": {
+    "total": 6404708,
+    "ad": 2677702,
+    "ratio": 0.4180833849099756
+  },
+  "arktimes.com": {
+    "total": 4033096,
+    "ad": 187986,
+    "ratio": 0.04661084189416766
+  },
+  "nwfdailynews.com": {
+    "total": 5469963,
+    "ad": 646817,
+    "ratio": 0.11824888029407146
+  },
+  "sacurrent.com": {
+    "total": 2378513,
+    "ad": 152901,
+    "ratio": 0.06428428181809391
+  },
+  "navhindtimes.in": {
+    "total": 3121230,
+    "ad": 578592,
+    "ratio": 0.18537307407656597
+  },
+  "sentinelassam.com": {
+    "total": 2207392,
+    "ad": 834729,
+    "ratio": 0.3781516830721503
+  },
+  "lacrossetribune.com": {
+    "total": 4052891,
+    "ad": 1339797,
+    "ratio": 0.330578098448737
+  },
+  "filmsforaction.org": {
+    "total": 666921,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "postindependent.com": {
+    "total": 5423487,
+    "ad": 382564,
+    "ratio": 0.07053838240969325
+  },
+  "indexjournal.com": {
+    "total": 8325933,
+    "ad": 2481854,
+    "ratio": 0.2980871933511836
+  },
+  "briefing.com": {
+    "total": 3442097,
+    "ad": 14118,
+    "ratio": 0.004101569479302879
+  },
+  "news-gazette.com": {
+    "total": 5522315,
+    "ad": 347234,
+    "ratio": 0.06287833997155179
+  },
+  "eagletribune.com": {
+    "total": 6450676,
+    "ad": 273331,
+    "ratio": 0.04237245832839845
+  },
+  "worldpressphoto.org": {
+    "total": 1247822,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "illawarramercury.com.au": {
+    "total": 10899943,
+    "ad": 2653168,
+    "ratio": 0.243411181141039
+  },
+  "ljworld.com": {
+    "total": 13492671,
+    "ad": 3724576,
+    "ratio": 0.276044379945231
+  },
+  "conservativedailynews.com": {
+    "total": 2361712,
+    "ad": 311962,
+    "ratio": 0.1320914658518905
+  },
+  "santafenewmexican.com": {
+    "total": 12468140,
+    "ad": 1197958,
+    "ratio": 0.09608153261031718
+  },
+  "gatehousemedia.com": {
+    "total": 6808880,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "consortiumnews.com": {
+    "total": 779146,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "standard.net": {
+    "total": 3426937,
+    "ad": 225294,
+    "ratio": 0.0657420898020594
+  },
+  "personneltoday.com": {
+    "total": 10970589,
+    "ad": 2944653,
+    "ratio": 0.2684133914778869
+  },
+  "people-press.org": {
+    "total": 881522,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "theolympian.com": {
+    "total": 6615574,
+    "ad": 2064787,
+    "ratio": 0.31211003005937205
+  },
+  "fosters.com": {
+    "total": 11235540,
+    "ad": 1502364,
+    "ratio": 0.13371533544449132
+  },
+  "journalism.co.uk": {
+    "total": 1801338,
+    "ad": 32609,
+    "ratio": 0.018102654804373192
+  },
+  "rcinet.ca": {
+    "total": 3254960,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "webwire.com": {
+    "total": 605562,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "dentonrc.com": {
+    "total": 3785418,
+    "ad": 598124,
+    "ratio": 0.15800738518176857
+  },
+  "therealnews.com": {
+    "total": 3712670,
+    "ad": 318,
+    "ratio": 8.565264351531378e-05
+  },
+  "santacruzsentinel.com": {
+    "total": 5232750,
+    "ad": 351603,
+    "ratio": 0.06719277626487029
+  },
+  "concordmonitor.com": {
+    "total": 6767185,
+    "ad": 961917,
+    "ratio": 0.142144333278904
+  },
+  "15minutenews.com": {
+    "total": 3678514,
+    "ad": 946623,
+    "ratio": 0.2573384252445417
+  },
+  "capitalgazette.com": {
+    "total": 10676269,
+    "ad": 3091292,
+    "ratio": 0.2895479684897411
+  },
+  "journalists.org": {
+    "total": 1924775,
+    "ad": 235806,
+    "ratio": 0.1225109428374745
+  },
+  "islandpacket.com": {
+    "total": 8397587,
+    "ad": 3200199,
+    "ratio": 0.38108554278746976
+  },
+  "news-journalonline.com": {
+    "total": 11380420,
+    "ad": 929808,
+    "ratio": 0.0817024327748888
+  },
+  "heraldnet.com": {
+    "total": 5056423,
+    "ad": 1399036,
+    "ratio": 0.27668492133668404
+  },
+  "starofmysore.com": {
+    "total": 4700946,
+    "ad": 874175,
+    "ratio": 0.18595725200842553
+  },
+  "hcpress.com": {
+    "total": 2572773,
+    "ad": 952,
+    "ratio": 0.000370028758852802
+  },
+  "ubm.com": {
+    "total": 3749325,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "nytco.com": {
+    "total": 1281785,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "abyznewslinks.com": {
+    "total": 4920287,
+    "ad": 2461909,
+    "ratio": 0.5003588205322169
+  },
+  "guardianlv.com": {
+    "total": 2396989,
+    "ad": 195925,
+    "ratio": 0.08173796375369265
+  },
+  "ntnews.com.au": {
+    "total": 7347287,
+    "ad": 2608411,
+    "ratio": 0.35501689262989183
+  },
+  "registerguard.com": {
+    "total": 5315223,
+    "ad": 672024,
+    "ratio": 0.12643382977534526
+  },
+  "examiner.com.au": {
+    "total": 2669708,
+    "ad": 244075,
+    "ratio": 0.09142385609212693
+  },
+  "vaildaily.com": {
+    "total": 6686304,
+    "ad": 123124,
+    "ratio": 0.018414358665116034
+  },
+  "journalism.org": {
+    "total": 2235523,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "memri.org": {
+    "total": 1820255,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "inma.org": {
+    "total": 13353154,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "pjstar.com": {
+    "total": 10732496,
+    "ad": 1003063,
+    "ratio": 0.0934603656036769
+  },
+  "weatherstreet.com": {
+    "total": 2887227,
+    "ad": 964022,
+    "ratio": 0.3338920008714244
+  },
+  "uschamber.com": {
+    "total": 1803137,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "dailyfreeman.com": {
+    "total": 12204682,
+    "ad": 3680584,
+    "ratio": 0.3015714788799905
+  },
+  "jdnews.com": {
+    "total": 4477069,
+    "ad": 212047,
+    "ratio": 0.04736290640148722
+  },
+  "summitdaily.com": {
+    "total": 6600824,
+    "ad": 1810938,
+    "ratio": 0.2743502932361172
+  },
+  "dailybulletin.com": {
+    "total": 10115501,
+    "ad": 1775314,
+    "ratio": 0.1755043076956841
+  },
+  "universalhub.com": {
+    "total": 2090458,
+    "ad": 739769,
+    "ratio": 0.35387891074587485
+  },
+  "bostonreview.net": {
+    "total": 1789779,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "fair.org": {
+    "total": 3433840,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "nashvillescene.com": {
+    "total": 1971685,
+    "ad": 166063,
+    "ratio": 0.08422389986230051
+  },
+  "therisingwasabi.com": {
+    "total": 7904605,
+    "ad": 2742087,
+    "ratio": 0.34689740980099576
+  },
+  "wan-ifra.org": {
+    "total": 1272484,
+    "ad": 4296,
+    "ratio": 0.0033760738838366534
+  },
+  "siouxcityjournal.com": {
+    "total": 6346085,
+    "ad": 1203434,
+    "ratio": 0.18963408148488398
+  },
+  "washingtoncitypaper.com": {
+    "total": 1583739,
+    "ad": 135070,
+    "ratio": 0.08528551737375918
+  },
+  "wcfcourier.com": {
+    "total": 4798592,
+    "ad": 1374879,
+    "ratio": 0.28651717003654403
+  },
+  "masternewmedia.org": {
+    "total": 7102802,
+    "ad": 983394,
+    "ratio": 0.13845155756840752
+  },
+  "totaltele.com": {
+    "total": 1519257,
+    "ad": 70454,
+    "ratio": 0.046373984125134854
+  },
+  "dailybruin.com": {
+    "total": 1507293,
+    "ad": 8917,
+    "ratio": 0.0059159035436375015
+  },
+  "sj-r.com": {
+    "total": 10182390,
+    "ad": 920923,
+    "ratio": 0.09044271531536309
+  },
+  "djc.com": {
+    "total": 1831201,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "match.net.tw": {
+    "total": 1641754,
+    "ad": 143570,
+    "ratio": 0.0874491549891153
+  },
+  "lee.net": {
+    "total": 823108,
+    "ad": 521,
+    "ratio": 0.0006329667552739131
+  },
+  "newstodaynet.com": {
+    "total": 2685807,
+    "ad": 235810,
+    "ratio": 0.08779856482613978
+  },
+  "businesswireindia.com": {
+    "total": 1812198,
+    "ad": 0,
+    "ratio": 0.0
+  },
+  "dailyitem.com": {
+    "total": 6313801,
+    "ad": 430565,
+    "ratio": 0.0681942620617913
+  },
+  "register-herald.com": {
+    "total": 7482030,
+    "ad": 930959,
+    "ratio": 0.12442599134192191
+  },
+  "parkrecord.com": {
+    "total": 5172610,
+    "ad": 307118,
+    "ratio": 0.05937389441693845
+  },
+  "journaltimes.com": {
+    "total": 8704981,
+    "ad": 2871690,
+    "ratio": 0.32989043858912503
+  },
+  "biv.com": {
+    "total": 3954486,
+    "ad": 286405,
+    "ratio": 0.07242534175111506
+  },
+  "stanforddaily.com": {
+    "total": 3861456,
+    "ad": 415203,
+    "ratio": 0.10752498539411041
+  }
+}

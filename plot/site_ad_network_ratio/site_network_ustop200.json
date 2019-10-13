@@ -1,0 +1,1402 @@
+{
+  "google.com": {
+    "total_time": 3.437169000000722,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "youtube.com": {
+    "total_time": 31.679955500019787,
+    "ad_time": 3.9379420000223035,
+    "ad_plus_inherited": 5.9336822500154085,
+    "ad_ratio": 0.1243038993542729,
+    "ad_plus_inherited_ratio": 0.1873008391697931
+  },
+  "amazon.com": {
+    "total_time": 109.96814666663462,
+    "ad_time": 0.7803516666632883,
+    "ad_plus_inherited": 0.7878566666622646,
+    "ad_ratio": 0.007096160936756556,
+    "ad_plus_inherited_ratio": 0.0071644079721615225
+  },
+  "yahoo.com": {
+    "total_time": 87.05518325006778,
+    "ad_time": 8.0861927499991,
+    "ad_plus_inherited": 8.125788499997725,
+    "ad_ratio": 0.09288582767979876,
+    "ad_plus_inherited_ratio": 0.09334066274556257
+  },
+  "facebook.com": {
+    "total_time": 7.26723774999482,
+    "ad_time": 0.27010949999930745,
+    "ad_plus_inherited": 0.27010949999930745,
+    "ad_ratio": 0.03716811108863199,
+    "ad_plus_inherited_ratio": 0.03716811108863199
+  },
+  "reddit.com": {
+    "total_time": 30.203275250019942,
+    "ad_time": 1.198471999998219,
+    "ad_plus_inherited": 1.198471999998219,
+    "ad_ratio": 0.03968019991465752,
+    "ad_plus_inherited_ratio": 0.03968019991465752
+  },
+  "wikipedia.org": {
+    "total_time": 1.4921552500018151,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "ebay.com": {
+    "total_time": 72.39342633332615,
+    "ad_time": 22.964915333320597,
+    "ad_plus_inherited": 23.934607999991098,
+    "ad_ratio": 0.3172237659754025,
+    "ad_plus_inherited_ratio": 0.3306185272926204
+  },
+  "office.com": {
+    "total_time": 5.538915000008274,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "bing.com": {
+    "total_time": 9.195732000020143,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "netflix.com": {
+    "total_time": 8.352075000020704,
+    "ad_time": 1.1013254999979836,
+    "ad_plus_inherited": 2.347513999995499,
+    "ad_ratio": 0.1318625012341548,
+    "ad_plus_inherited_ratio": 0.28106955457053245
+  },
+  "force.com": {
+    "total_time": 72.48884999994698,
+    "ad_time": 1.2105975000013132,
+    "ad_plus_inherited": 1.2105975000013132,
+    "ad_ratio": 0.016700464968090935,
+    "ad_plus_inherited_ratio": 0.016700464968090935
+  },
+  "espn.com": {
+    "total_time": 105.91668474997641,
+    "ad_time": 9.805691000003208,
+    "ad_plus_inherited": 9.805691000003208,
+    "ad_ratio": 0.09257928553136092,
+    "ad_plus_inherited_ratio": 0.09257928553136092
+  },
+  "live.com": {
+    "total_time": 8.83928675000243,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "instructure.com": {
+    "total_time": 33.90811300002497,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "chase.com": {
+    "total_time": 22.339572250004494,
+    "ad_time": 0.8078425000057905,
+    "ad_plus_inherited": 0.8078425000057905,
+    "ad_ratio": 0.036161950236340265,
+    "ad_plus_inherited_ratio": 0.036161950236340265
+  },
+  "apple.com": {
+    "total_time": 16.729538249986945,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "instagram.com": {
+    "total_time": 4.518022250002105,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "microsoftonline.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "cnn.com": {
+    "total_time": 179.49572700003773,
+    "ad_time": 10.65640200002963,
+    "ad_plus_inherited": 13.40190300004906,
+    "ad_ratio": 0.059368555330720434,
+    "ad_plus_inherited_ratio": 0.07466418963859926
+  },
+  "dropbox.com": {
+    "total_time": 110.43405850009367,
+    "ad_time": 5.407846999991307,
+    "ad_plus_inherited": 5.407846999991307,
+    "ad_ratio": 0.04896901439139557,
+    "ad_plus_inherited_ratio": 0.04896901439139557
+  },
+  "tmall.com": {
+    "total_time": 44.46367899994766,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "linkedin.com": {
+    "total_time": 6.800250750005944,
+    "ad_time": 0.4837840000000142,
+    "ad_plus_inherited": 0.4837840000000142,
+    "ad_ratio": 0.071142082518,
+    "ad_plus_inherited_ratio": 0.071142082518
+  },
+  "twitter.com": {
+    "total_time": 2.136043750018871,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "myshopify.com": {
+    "total_time": 0.5919975000015256,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "twitch.tv": {
+    "total_time": 46.37334674999511,
+    "ad_time": 0.7496575000041048,
+    "ad_plus_inherited": 0.7496575000041048,
+    "ad_ratio": 0.016165697594474004,
+    "ad_plus_inherited_ratio": 0.016165697594474004
+  },
+  "salesforce.com": {
+    "total_time": 67.28058925009645,
+    "ad_time": 1.5491434999967169,
+    "ad_plus_inherited": 1.5491434999967169,
+    "ad_ratio": 0.023025117901958565,
+    "ad_plus_inherited_ratio": 0.023025117901958565
+  },
+  "microsoft.com": {
+    "total_time": 12.985540999992736,
+    "ad_time": 0.30273700000543613,
+    "ad_plus_inherited": 0.30273700000543613,
+    "ad_ratio": 0.023313391410154222,
+    "ad_plus_inherited_ratio": 0.023313391410154222
+  },
+  "nytimes.com": {
+    "total_time": 67.49443950003297,
+    "ad_time": 6.106472000014037,
+    "ad_plus_inherited": 7.942552500015154,
+    "ad_ratio": 0.09047370487477052,
+    "ad_plus_inherited_ratio": 0.11767713842577024
+  },
+  "craigslist.org": {
+    "total_time": 0.9343052499825717,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "adobe.com": {
+    "total_time": 40.83057299997199,
+    "ad_time": 1.3248625000087486,
+    "ad_plus_inherited": 1.3248625000087486,
+    "ad_ratio": 0.03244780571680092,
+    "ad_plus_inherited_ratio": 0.03244780571680092
+  },
+  "walmart.com": {
+    "total_time": 20.28757525004221,
+    "ad_time": 0.923888999994233,
+    "ad_plus_inherited": 0.923888999994233,
+    "ad_ratio": 0.04553964624196826,
+    "ad_plus_inherited_ratio": 0.04553964624196826
+  },
+  "pornhub.com": {
+    "total_time": 20.99650125003427,
+    "ad_time": 0.9400640000058047,
+    "ad_plus_inherited": 2.2718592500168597,
+    "ad_ratio": 0.04477241178476201,
+    "ad_plus_inherited_ratio": 0.10820180100306719
+  },
+  "livejasmin.com": {
+    "total_time": 30.429502999950273,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "stackoverflow.com": {
+    "total_time": 5.754796750004971,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "imdb.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "amazonaws.com": {
+    "total_time": 0.1996622499973455,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "sohu.com": {
+    "total_time": 1716.8935997500394,
+    "ad_time": 588.9681420000052,
+    "ad_plus_inherited": 600.0813847500212,
+    "ad_ratio": 0.343042889836477,
+    "ad_plus_inherited_ratio": 0.34951576780144467
+  },
+  "indeed.com": {
+    "total_time": 4.951219000000492,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "qq.com": {
+    "total_time": 141.91812724995543,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "zillow.com": {
+    "total_time": 12.037598000031721,
+    "ad_time": 0.3793965000004391,
+    "ad_plus_inherited": 0.3793965000004391,
+    "ad_ratio": 0.03151762502780366,
+    "ad_plus_inherited_ratio": 0.03151762502780366
+  },
+  "wellsfargo.com": {
+    "total_time": 23.396001500010243,
+    "ad_time": 0.6038289999924018,
+    "ad_plus_inherited": 0.6038289999924018,
+    "ad_ratio": 0.025809068271436787,
+    "ad_plus_inherited_ratio": 0.025809068271436787
+  },
+  "msn.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "spotify.com": {
+    "total_time": 27.963306500052568,
+    "ad_time": 0.2632694999992964,
+    "ad_plus_inherited": 0.2632694999992964,
+    "ad_ratio": 0.009414820096428921,
+    "ad_plus_inherited_ratio": 0.009414820096428921
+  },
+  "imgur.com": {
+    "total_time": 24.953790999976263,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "login.tmall.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "yelp.com": {
+    "total_time": 40.95645649996368,
+    "ad_time": 0.6509344999976747,
+    "ad_plus_inherited": 0.6509344999976747,
+    "ad_ratio": 0.01589333051794293,
+    "ad_plus_inherited_ratio": 0.01589333051794293
+  },
+  "etsy.com": {
+    "total_time": 32.63099225000951,
+    "ad_time": 0.18499500000325497,
+    "ad_plus_inherited": 0.18499500000325497,
+    "ad_ratio": 0.005669303543878628,
+    "ad_plus_inherited_ratio": 0.005669303543878628
+  },
+  "hulu.com": {
+    "total_time": 30.14334999997118,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "taobao.com": {
+    "total_time": 76.14268024999365,
+    "ad_time": 0.2802964999937103,
+    "ad_plus_inherited": 0.2802964999937103,
+    "ad_ratio": 0.0036812008596681057,
+    "ad_plus_inherited_ratio": 0.0036812008596681057
+  },
+  "paypal.com": {
+    "total_time": 12.220171749953806,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "foxnews.com": {
+    "total_time": 94.3259886665401,
+    "ad_time": 12.921369999993956,
+    "ad_plus_inherited": 15.133138999988052,
+    "ad_ratio": 0.1369863192812471,
+    "ad_plus_inherited_ratio": 0.16043445940955373
+  },
+  "baidu.com": {
+    "total_time": 5.459809999993013,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "wordpress.com": {
+    "total_time": 17.775914999989254,
+    "ad_time": 0.26943300000129966,
+    "ad_plus_inherited": 0.26943300000129966,
+    "ad_ratio": 0.01515719443986217,
+    "ad_plus_inherited_ratio": 0.01515719443986217
+  },
+  "jd.com": {
+    "total_time": 31.6944472499963,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "tumblr.com": {
+    "total_time": 28.171208250005293,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "capitalone.com": {
+    "total_time": 24.83245574999819,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "360.cn": {
+    "total_time": 155.19139250000808,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "washingtonpost.com": {
+    "total_time": 93.69625966664425,
+    "ad_time": 9.899300666681176,
+    "ad_plus_inherited": 11.516807333362513,
+    "ad_ratio": 0.10565310399690708,
+    "ad_plus_inherited_ratio": 0.1229164042869737
+  },
+  "soundcloud.com": {
+    "total_time": 19.509834750035225,
+    "ad_time": 0.0028122500007157214,
+    "ad_plus_inherited": 0.0028122500007157214,
+    "ad_ratio": 0.00014414524965213475,
+    "ad_plus_inherited_ratio": 0.00014414524965213475
+  },
+  "fandom.com": {
+    "total_time": 44.92699066663044,
+    "ad_time": 3.614038000014262,
+    "ad_plus_inherited": 3.614038000014262,
+    "ad_ratio": 0.08044246779917516,
+    "ad_plus_inherited_ratio": 0.08044246779917516
+  },
+  "okta.com": {
+    "total_time": 47.25804524997875,
+    "ad_time": 0.30288649999783956,
+    "ad_plus_inherited": 0.30288649999783956,
+    "ad_ratio": 0.0064092050019351095,
+    "ad_plus_inherited_ratio": 0.0064092050019351095
+  },
+  "blogspot.com": {
+    "total_time": 18.61856149999403,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "pinterest.com": {
+    "total_time": 33.81477874996381,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "intuit.com": {
+    "total_time": 21.033988500059422,
+    "ad_time": 1.156402500004333,
+    "ad_plus_inherited": 1.156402500004333,
+    "ad_ratio": 0.05497780413833858,
+    "ad_plus_inherited_ratio": 0.05497780413833858
+  },
+  "stackexchange.com": {
+    "total_time": 24.672772249952686,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "quizlet.com": {
+    "total_time": 11.088636500007851,
+    "ad_time": 0.09726400000363356,
+    "ad_plus_inherited": 0.09726400000363356,
+    "ad_ratio": 0.008771502249493406,
+    "ad_plus_inherited_ratio": 0.008771502249493406
+  },
+  "bbc.com": {
+    "total_time": 41.79521533337048,
+    "ad_time": 6.980585000012074,
+    "ad_plus_inherited": 9.894041333352407,
+    "ad_ratio": 0.1670187590692607,
+    "ad_plus_inherited_ratio": 0.2367266505133358
+  },
+  "weather.com": {
+    "total_time": 203.3921009998012,
+    "ad_time": 40.9084819998825,
+    "ad_plus_inherited": 56.021638999925926,
+    "ad_ratio": 0.20113112455592602,
+    "ad_plus_inherited_ratio": 0.27543665031505177
+  },
+  "xvideos.com": {
+    "total_time": 15.038927249999688,
+    "ad_time": 0.02136024999890651,
+    "ad_plus_inherited": 0.02136024999890651,
+    "ad_ratio": 0.0014203306953896565,
+    "ad_plus_inherited_ratio": 0.0014203306953896565
+  },
+  "medium.com": {
+    "total_time": 19.64434524995886,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "breitbart.com": {
+    "total_time": 475.04671000006783,
+    "ad_time": 11.159081999998307,
+    "ad_plus_inherited": 14.189964000019245,
+    "ad_ratio": 0.023490494229497377,
+    "ad_plus_inherited_ratio": 0.02987067103362787
+  },
+  "nih.gov": {
+    "total_time": 22.777222500026255,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "github.com": {
+    "total_time": 9.832127000014225,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "canva.com": {
+    "total_time": 7.338019000017084,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "bestbuy.com": {
+    "total_time": 479.42908000001444,
+    "ad_time": 0.06354000000283122,
+    "ad_plus_inherited": 0.06354000000283122,
+    "ad_ratio": 0.0001325326365326636,
+    "ad_plus_inherited_ratio": 0.0001325326365326636
+  },
+  "forbes.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "xfinity.com": {
+    "total_time": 0.36768775000746245,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "businessinsider.com": {
+    "total_time": 70.61352033333247,
+    "ad_time": 4.137511999991451,
+    "ad_plus_inherited": 4.137511999991451,
+    "ad_ratio": 0.05859376476997956,
+    "ad_plus_inherited_ratio": 0.05859376476997956
+  },
+  "homedepot.com": {
+    "total_time": 1.268171749999965,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "cnet.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "zendesk.com": {
+    "total_time": 64.50559775001057,
+    "ad_time": 0.7057354999997187,
+    "ad_plus_inherited": 0.7057354999997187,
+    "ad_ratio": 0.010940686151530208,
+    "ad_plus_inherited_ratio": 0.010940686151530208
+  },
+  "sina.com.cn": {
+    "total_time": 609.4929910000017,
+    "ad_time": 1.1491976666657138,
+    "ad_plus_inherited": 1.1491976666657138,
+    "ad_ratio": 0.0018854977557333562,
+    "ad_plus_inherited_ratio": 0.0018854977557333562
+  },
+  "pages.tmall.com": {
+    "total_time": 0.050573000000440516,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "usps.com": {
+    "total_time": 0.13687899999786168,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "patch.com": {
+    "total_time": 64.1440302500323,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "discordapp.com": {
+    "total_time": 21.61336350003876,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "office365.com": {
+    "total_time": 28.636722500024916,
+    "ad_time": 1.4157644999941112,
+    "ad_plus_inherited": 1.4157644999941112,
+    "ad_ratio": 0.049438775683665594,
+    "ad_plus_inherited_ratio": 0.049438775683665594
+  },
+  "americanexpress.com": {
+    "total_time": 0.26614675000200805,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "airbnb.com": {
+    "total_time": 79.90316574996723,
+    "ad_time": 3.744303500001479,
+    "ad_plus_inherited": 3.744303500001479,
+    "ad_ratio": 0.0468605150353885,
+    "ad_plus_inherited_ratio": 0.0468605150353885
+  },
+  "theguardian.com": {
+    "total_time": 62.59039500006838,
+    "ad_time": 4.758641250022265,
+    "ad_plus_inherited": 4.758641250022265,
+    "ad_ratio": 0.07602829875122319,
+    "ad_plus_inherited_ratio": 0.07602829875122319
+  },
+  "gfycat.com": {
+    "total_time": 18.339736999976594,
+    "ad_time": 1.7796794999958365,
+    "ad_plus_inherited": 1.7796794999958365,
+    "ad_ratio": 0.09703953224618804,
+    "ad_plus_inherited_ratio": 0.09703953224618804
+  },
+  "weibo.com": {
+    "total_time": 138.41956500007655,
+    "ad_time": 24.7131980000122,
+    "ad_plus_inherited": 30.56333700007235,
+    "ad_ratio": 0.17853833018474327,
+    "ad_plus_inherited_ratio": 0.22080214599760845
+  },
+  "ups.com": {
+    "total_time": 25.46094249998896,
+    "ad_time": 0.6512905000017781,
+    "ad_plus_inherited": 0.6512905000017781,
+    "ad_ratio": 0.02557998393036945,
+    "ad_plus_inherited_ratio": 0.02557998393036945
+  },
+  "wikihow.com": {
+    "total_time": 6.751246749981874,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "glassdoor.com": {
+    "total_time": 33.74431625001853,
+    "ad_time": 2.370483749988125,
+    "ad_plus_inherited": 2.370483749988125,
+    "ad_ratio": 0.07024838590370974,
+    "ad_plus_inherited_ratio": 0.07024838590370974
+  },
+  "zoom.us": {
+    "total_time": 97.00567649999903,
+    "ad_time": 0.8432550000143237,
+    "ad_plus_inherited": 0.8432550000143237,
+    "ad_ratio": 0.008692841805132221,
+    "ad_plus_inherited_ratio": 0.008692841805132221
+  },
+  "target.com": {
+    "total_time": 20.894336500012287,
+    "ad_time": 1.9270317500013334,
+    "ad_plus_inherited": 2.184627000004184,
+    "ad_ratio": 0.09222746795526147,
+    "ad_plus_inherited_ratio": 0.10455594031439569
+  },
+  "citi.com": {
+    "total_time": 0.40782774999206595,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "aliexpress.com": {
+    "total_time": 23.77940749998561,
+    "ad_time": 0.17823850000058883,
+    "ad_plus_inherited": 0.17823850000058883,
+    "ad_ratio": 0.007495497942944823,
+    "ad_plus_inherited_ratio": 0.007495497942944823
+  },
+  "slickdeals.net": {
+    "total_time": 78.10032400001,
+    "ad_time": 10.180529500001285,
+    "ad_plus_inherited": 10.180529500001285,
+    "ad_ratio": 0.1303519496282753,
+    "ad_plus_inherited_ratio": 0.1303519496282753
+  },
+  "roblox.com": {
+    "total_time": 13.424363249965609,
+    "ad_time": 0.036601750000045286,
+    "ad_plus_inherited": 0.036601750000045286,
+    "ad_ratio": 0.002726516656210048,
+    "ad_plus_inherited_ratio": 0.002726516656210048
+  },
+  "box.com": {
+    "total_time": 33.52843775004294,
+    "ad_time": 1.320961499997793,
+    "ad_plus_inherited": 1.320961499997793,
+    "ad_ratio": 0.03939824186995117,
+    "ad_plus_inherited_ratio": 0.03939824186995117
+  },
+  "healthline.com": {
+    "total_time": 28.74819350002508,
+    "ad_time": 4.2264274999924965,
+    "ad_plus_inherited": 4.800884749993202,
+    "ad_ratio": 0.14701541159408188,
+    "ad_plus_inherited_ratio": 0.16699778892155479
+  },
+  "amazon.co.uk": {
+    "total_time": 85.38343849995726,
+    "ad_time": 0.2529232500019134,
+    "ad_plus_inherited": 0.2529232500019134,
+    "ad_ratio": 0.0029622050182722495,
+    "ad_plus_inherited_ratio": 0.0029622050182722495
+  },
+  "go.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "pandora.com": {
+    "total_time": 30.74167999994097,
+    "ad_time": 1.2512059999971825,
+    "ad_plus_inherited": 1.2512059999971825,
+    "ad_ratio": 0.04070063835156651,
+    "ad_plus_inherited_ratio": 0.04070063835156651
+  },
+  "xhamster.com": {
+    "total_time": 69.84100050002053,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "thepiratebay.org": {
+    "total_time": 5.43960133332439,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "redd.it": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "wsj.com": {
+    "total_time": 204.37606399986038,
+    "ad_time": 26.4944843332778,
+    "ad_plus_inherited": 30.806114333279165,
+    "ad_ratio": 0.12963594569125228,
+    "ad_plus_inherited_ratio": 0.15073249641063746
+  },
+  "grammarly.com": {
+    "total_time": 21.140225500041197,
+    "ad_time": 0.6339100000004692,
+    "ad_plus_inherited": 0.6339100000004692,
+    "ad_ratio": 0.029985962070235902,
+    "ad_plus_inherited_ratio": 0.029985962070235902
+  },
+  "w3schools.com": {
+    "total_time": 33.44456424998316,
+    "ad_time": 7.7853234999984124,
+    "ad_plus_inherited": 8.022224999991522,
+    "ad_ratio": 0.23278292525525526,
+    "ad_plus_inherited_ratio": 0.23986633343550176
+  },
+  "bbc.co.uk": {
+    "total_time": 32.53521375001037,
+    "ad_time": 6.056357000001299,
+    "ad_plus_inherited": 7.134555250000631,
+    "ad_ratio": 0.1861477550612179,
+    "ad_plus_inherited_ratio": 0.2192871792642935
+  },
+  "chaturbate.com": {
+    "total_time": 96.50585550000869,
+    "ad_time": 1.128233999996155,
+    "ad_plus_inherited": 1.128233999996155,
+    "ad_ratio": 0.011690834656100773,
+    "ad_plus_inherited_ratio": 0.011690834656100773
+  },
+  "verizonwireless.com": {
+    "total_time": 26.289316750006037,
+    "ad_time": 2.7974785000042175,
+    "ad_plus_inherited": 2.7974785000042175,
+    "ad_ratio": 0.10641122881231119,
+    "ad_plus_inherited_ratio": 0.10641122881231119
+  },
+  "squarespace.com": {
+    "total_time": 48.3988297500382,
+    "ad_time": 2.6469974999999977,
+    "ad_plus_inherited": 2.6469974999999977,
+    "ad_ratio": 0.054691353358557356,
+    "ad_plus_inherited_ratio": 0.054691353358557356
+  },
+  "t.co": {
+    "total_time": 0.09257800000341376,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "weebly.com": {
+    "total_time": 9.098492749999423,
+    "ad_time": 1.5516290000050503,
+    "ad_plus_inherited": 1.5516290000050503,
+    "ad_ratio": 0.17053692766916242,
+    "ad_plus_inherited_ratio": 0.17053692766916242
+  },
+  "shutterstock.com": {
+    "total_time": 37.934351000043534,
+    "ad_time": 1.8588362500049698,
+    "ad_plus_inherited": 1.8588362500049698,
+    "ad_ratio": 0.04900139849506946,
+    "ad_plus_inherited_ratio": 0.04900139849506946
+  },
+  "fidelity.com": {
+    "total_time": 0.20941199999651872,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "xnxx.com": {
+    "total_time": 124.82489000003079,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "expedia.com": {
+    "total_time": 7.542578750000757,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "mlb.com": {
+    "total_time": 147.19529950004835,
+    "ad_time": 20.21077449999575,
+    "ad_plus_inherited": 20.21077449999575,
+    "ad_ratio": 0.137305841753385,
+    "ad_plus_inherited_ratio": 0.137305841753385
+  },
+  "huffpost.com": {
+    "total_time": 131.28426600004605,
+    "ad_time": 7.849239000002854,
+    "ad_plus_inherited": 7.849239000002854,
+    "ad_ratio": 0.0597881165744576,
+    "ad_plus_inherited_ratio": 0.0597881165744576
+  },
+  "eventbrite.com": {
+    "total_time": 12.381629500008785,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "vimeo.com": {
+    "total_time": 46.89809775001049,
+    "ad_time": 1.0687135000007402,
+    "ad_plus_inherited": 1.0687135000007402,
+    "ad_ratio": 0.022787992504461466,
+    "ad_plus_inherited_ratio": 0.022787992504461466
+  },
+  "thesaurus.com": {
+    "total_time": 80.28024066668878,
+    "ad_time": 11.74494666664638,
+    "ad_plus_inherited": 15.7345996666457,
+    "ad_ratio": 0.1462993455065686,
+    "ad_plus_inherited_ratio": 0.19599592049024042
+  },
+  "vice.com": {
+    "total_time": 57.89628900003481,
+    "ad_time": 6.418952000007266,
+    "ad_plus_inherited": 6.418952000007266,
+    "ad_ratio": 0.11086983485251371,
+    "ad_plus_inherited_ratio": 0.11086983485251371
+  },
+  "tripadvisor.com": {
+    "total_time": 391.57480224986466,
+    "ad_time": 6.518997749984919,
+    "ad_plus_inherited": 6.762345999984973,
+    "ad_ratio": 0.01664815435653373,
+    "ad_plus_inherited_ratio": 0.0172696147993453
+  },
+  "trello.com": {
+    "total_time": 21.076441499966677,
+    "ad_time": 0.15378949999649194,
+    "ad_plus_inherited": 0.15378949999649194,
+    "ad_ratio": 0.0072967488366921475,
+    "ad_plus_inherited_ratio": 0.0072967488366921475
+  },
+  "fedex.com": {
+    "total_time": 5.077122250004322,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "nfl.com": {
+    "total_time": 42.68984024998281,
+    "ad_time": 4.877605999990919,
+    "ad_plus_inherited": 4.877605999990919,
+    "ad_ratio": 0.11425683421227803,
+    "ad_plus_inherited_ratio": 0.11425683421227803
+  },
+  "booking.com": {
+    "total_time": 60.310806500012404,
+    "ad_time": 8.44615650000378,
+    "ad_plus_inherited": 8.44615650000378,
+    "ad_ratio": 0.14004383277484514,
+    "ad_plus_inherited_ratio": 0.14004383277484514
+  },
+  "bankofamerica.com": {
+    "total_time": 59.27826999995705,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "cnbc.com": {
+    "total_time": 56.66122599996743,
+    "ad_time": 5.865822999994634,
+    "ad_plus_inherited": 6.499048250003398,
+    "ad_ratio": 0.10352446309576864,
+    "ad_plus_inherited_ratio": 0.1147000993237798
+  },
+  "adp.com": {
+    "total_time": 62.306899000004705,
+    "ad_time": 1.2354365000101097,
+    "ad_plus_inherited": 1.2354365000101097,
+    "ad_ratio": 0.019828245665219457,
+    "ad_plus_inherited_ratio": 0.019828245665219457
+  },
+  "brobible.com": {
+    "total_time": 118.28843000007332,
+    "ad_time": 14.314355666659447,
+    "ad_plus_inherited": 17.234802666656236,
+    "ad_ratio": 0.12101230582442064,
+    "ad_plus_inherited_ratio": 0.14570150831020037
+  },
+  "duckduckgo.com": {
+    "total_time": 2.4129754999794386,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "realtor.com": {
+    "total_time": 71.29509274992779,
+    "ad_time": 8.558027249990118,
+    "ad_plus_inherited": 10.154404999981125,
+    "ad_ratio": 0.12003669425058412,
+    "ad_plus_inherited_ratio": 0.14242782509026766
+  },
+  "usatoday.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "heavy.com": {
+    "total_time": 59.96548349994919,
+    "ad_time": 13.81124600001931,
+    "ad_plus_inherited": 17.423919000026217,
+    "ad_ratio": 0.2303199306319445,
+    "ad_plus_inherited_ratio": 0.29056580524429493
+  },
+  "godaddy.com": {
+    "total_time": 1.0555089999943448,
+    "ad_time": 0.030839250001008622,
+    "ad_plus_inherited": 0.030839250001008622,
+    "ad_ratio": 0.02921742022206713,
+    "ad_plus_inherited_ratio": 0.02921742022206713
+  },
+  "khanacademy.org": {
+    "total_time": 69.01911399997152,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "att.com": {
+    "total_time": 47.753834749992166,
+    "ad_time": 1.511659999985568,
+    "ad_plus_inherited": 1.511659999985568,
+    "ad_ratio": 0.03165525884778952,
+    "ad_plus_inherited_ratio": 0.03165525884778952
+  },
+  "ca.gov": {
+    "total_time": 42.9146035000158,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "fiverr.com": {
+    "total_time": 60.22785349996411,
+    "ad_time": 0.42451700000674464,
+    "ad_plus_inherited": 0.42451700000674464,
+    "ad_ratio": 0.007048516182085048,
+    "ad_plus_inherited_ratio": 0.007048516182085048
+  },
+  "blackboard.com": {
+    "total_time": 27.73720375006451,
+    "ad_time": 1.0719930000013846,
+    "ad_plus_inherited": 1.0719930000013846,
+    "ad_ratio": 0.0386482000731199,
+    "ad_plus_inherited_ratio": 0.0386482000731199
+  },
+  "cbssports.com": {
+    "total_time": 116.62853199984238,
+    "ad_time": 14.818119999981718,
+    "ad_plus_inherited": 15.50876399999106,
+    "ad_ratio": 0.12705398709812915,
+    "ad_plus_inherited_ratio": 0.13297572844363692
+  },
+  "aol.com": {
+    "total_time": 75.58100449994345,
+    "ad_time": 5.264075999995839,
+    "ad_plus_inherited": 5.264075999995839,
+    "ad_ratio": 0.06964813493580622,
+    "ad_plus_inherited_ratio": 0.06964813493580622
+  },
+  "alibaba.com": {
+    "total_time": 86.14072900005885,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "buzzfeed.com": {
+    "total_time": 121.04197625004963,
+    "ad_time": 5.233815249985128,
+    "ad_plus_inherited": 5.840395499986698,
+    "ad_ratio": 0.043239671163110095,
+    "ad_plus_inherited_ratio": 0.04825099259715948
+  },
+  "archive.org": {
+    "total_time": 31.087048749983296,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "taboola.com": {
+    "total_time": 44.77246950000517,
+    "ad_time": 0.6511075000053097,
+    "ad_plus_inherited": 0.6511075000053097,
+    "ad_ratio": 0.014542586265098342,
+    "ad_plus_inherited_ratio": 0.014542586265098342
+  },
+  "slack.com": {
+    "total_time": 70.173405250016,
+    "ad_time": 0.2869780000037281,
+    "ad_plus_inherited": 0.2869780000037281,
+    "ad_ratio": 0.004089554995674984,
+    "ad_plus_inherited_ratio": 0.004089554995674984
+  },
+  "macys.com": {
+    "total_time": 0.7734649999983958,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "goodreads.com": {
+    "total_time": 48.7566100000422,
+    "ad_time": 5.517466000021159,
+    "ad_plus_inherited": 9.0664657500256,
+    "ad_ratio": 0.1131634459413069,
+    "ad_plus_inherited_ratio": 0.18595357121870762
+  },
+  "chegg.com": {
+    "total_time": 51.604439750068195,
+    "ad_time": 2.043031000004703,
+    "ad_plus_inherited": 2.043031000004703,
+    "ad_ratio": 0.039590217622738615,
+    "ad_plus_inherited_ratio": 0.039590217622738615
+  },
+  "amazon.co.jp": {
+    "total_time": 87.98734349996994,
+    "ad_time": 0.35564449999583303,
+    "ad_plus_inherited": 0.35564449999583303,
+    "ad_ratio": 0.004041996108178383,
+    "ad_plus_inherited_ratio": 0.004041996108178383
+  },
+  "dailymail.co.uk": {
+    "total_time": 168.13045600002806,
+    "ad_time": 37.91580899999826,
+    "ad_plus_inherited": 56.590215999975044,
+    "ad_ratio": 0.22551422212280167,
+    "ad_plus_inherited_ratio": 0.3365851574206496
+  },
+  "drudgereport.com": {
+    "total_time": 32.70576699999219,
+    "ad_time": 11.610967000022356,
+    "ad_plus_inherited": 16.544651000018348,
+    "ad_ratio": 0.35501283305862014,
+    "ad_plus_inherited_ratio": 0.5058634154649942
+  },
+  "costco.com": {
+    "total_time": 0.25458099999923434,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "ticketmaster.com": {
+    "total_time": 116.67762449998736,
+    "ad_time": 0.4986872499957826,
+    "ad_plus_inherited": 0.4986872499957826,
+    "ad_ratio": 0.004274060704722666,
+    "ad_plus_inherited_ratio": 0.004274060704722666
+  },
+  "bloomberg.com": {
+    "total_time": 134.4112222500371,
+    "ad_time": 16.535749000018768,
+    "ad_plus_inherited": 17.848642000026302,
+    "ad_ratio": 0.12302357439513727,
+    "ad_plus_inherited_ratio": 0.1327913079074867
+  },
+  "nypost.com": {
+    "total_time": 183.77719966664634,
+    "ad_time": 19.77537566669343,
+    "ad_plus_inherited": 24.29878400001812,
+    "ad_ratio": 0.10760516376658262,
+    "ad_plus_inherited_ratio": 0.1322187085454219
+  },
+  "surveymonkey.com": {
+    "total_time": 18.06039099996815,
+    "ad_time": 0.49592825000581797,
+    "ad_plus_inherited": 0.49592825000581797,
+    "ad_ratio": 0.027459441493082437,
+    "ad_plus_inherited_ratio": 0.027459441493082437
+  },
+  "yahoo.co.jp": {
+    "total_time": 77.61662349998005,
+    "ad_time": 10.41775449998022,
+    "ad_plus_inherited": 10.609612999980527,
+    "ad_ratio": 0.1342206608611736,
+    "ad_plus_inherited_ratio": 0.136692534685991
+  },
+  "rakuten.com": {
+    "total_time": 27.247411749933235,
+    "ad_time": 1.9069867499911197,
+    "ad_plus_inherited": 1.9069867499911197,
+    "ad_ratio": 0.06998781269548629,
+    "ad_plus_inherited_ratio": 0.06998781269548629
+  },
+  "csdn.net": {
+    "total_time": 437.9597412500243,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "nbcnews.com": {
+    "total_time": 78.64038650016664,
+    "ad_time": 6.664698500020677,
+    "ad_plus_inherited": 6.93109000001823,
+    "ad_ratio": 0.08474905575402474,
+    "ad_plus_inherited_ratio": 0.08813652003100904
+  },
+  "onlinesbi.com": {
+    "total_time": 30.864359999992313,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "discover.com": {
+    "total_time": 53.005028000004465,
+    "ad_time": 8.941767999984831,
+    "ad_plus_inherited": 8.941767999984831,
+    "ad_ratio": 0.1686965998769792,
+    "ad_plus_inherited_ratio": 0.1686965998769792
+  },
+  "creditkarma.com": {
+    "total_time": 13.885147999998777,
+    "ad_time": 1.073849333333783,
+    "ad_plus_inherited": 1.073849333333783,
+    "ad_ratio": 0.0773379825216035,
+    "ad_plus_inherited_ratio": 0.0773379825216035
+  },
+  "wayfair.com": {
+    "total_time": 53.98196900002709,
+    "ad_time": 5.83539799999562,
+    "ad_plus_inherited": 5.83539799999562,
+    "ad_ratio": 0.1080990209896325,
+    "ad_plus_inherited_ratio": 0.1080990209896325
+  },
+  "google.com.sg": {
+    "total_time": 2.27485800000189,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "southwest.com": {
+    "total_time": 0.339643333335213,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "wowhead.com": {
+    "total_time": 142.53563600001507,
+    "ad_time": 20.294294999963313,
+    "ad_plus_inherited": 21.206853999974555,
+    "ad_ratio": 0.14238049914732318,
+    "ad_plus_inherited_ratio": 0.14878282087977152
+  },
+  "creditonebank.com": {
+    "total_time": 147.1810916666215,
+    "ad_time": 1.0168823333200028,
+    "ad_plus_inherited": 1.0168823333200028,
+    "ad_ratio": 0.006909055516610335,
+    "ad_plus_inherited_ratio": 0.006909055516610335
+  },
+  "giphy.com": {
+    "total_time": 26.22518866666358,
+    "ad_time": 1.643729333334098,
+    "ad_plus_inherited": 1.643729333334098,
+    "ad_ratio": 0.06267750269509183,
+    "ad_plus_inherited_ratio": 0.06267750269509183
+  },
+  "webmd.com": {
+    "total_time": 0,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "npr.org": {
+    "total_time": 44.905376999966414,
+    "ad_time": 1.9751900000095097,
+    "ad_plus_inherited": 1.9751900000095097,
+    "ad_ratio": 0.043985601100977,
+    "ad_plus_inherited_ratio": 0.043985601100977
+  },
+  "marriott.com": {
+    "total_time": 114.71277399993899,
+    "ad_time": 8.106538000012126,
+    "ad_plus_inherited": 8.106538000012126,
+    "ad_ratio": 0.07066813675010977,
+    "ad_plus_inherited_ratio": 0.07066813675010977
+  },
+  "wix.com": {
+    "total_time": 83.58698533334245,
+    "ad_time": 5.824999999997089,
+    "ad_plus_inherited": 5.824999999997089,
+    "ad_ratio": 0.06968788235114784,
+    "ad_plus_inherited_ratio": 0.06968788235114784
+  },
+  "google.com.tw": {
+    "total_time": 2.0086806666610446,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "lowes.com": {
+    "total_time": 0.7661906666665648,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "alipay.com": {
+    "total_time": 4.778597333325402,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "delta.com": {
+    "total_time": 0.15837066666669367,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "udemy.com": {
+    "total_time": 19.98399733332191,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "google.com.hk": {
+    "total_time": 2.0901683333286205,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "shopify.com": {
+    "total_time": 29.56209166668847,
+    "ad_time": 0.7802173333329847,
+    "ad_plus_inherited": 0.7802173333329847,
+    "ad_ratio": 0.026392494216238394,
+    "ad_plus_inherited_ratio": 0.026392494216238394
+  },
+  "okezone.com": {
+    "total_time": 260.24998900006176,
+    "ad_time": 15.265031000002637,
+    "ad_plus_inherited": 25.637465999971027,
+    "ad_ratio": 0.05865526088456055,
+    "ad_plus_inherited_ratio": 0.09851092059014437
+  },
+  "groupon.com": {
+    "total_time": 41.47461833335061,
+    "ad_time": 4.509042333348285,
+    "ad_plus_inherited": 7.3123366666792835,
+    "ad_ratio": 0.10871811518811421,
+    "ad_plus_inherited_ratio": 0.1763087150774159
+  },
+  "babytree.com": {
+    "total_time": 208.05550866664993,
+    "ad_time": 8.399825666669734,
+    "ad_plus_inherited": 8.47530433333789,
+    "ad_ratio": 0.04037300295724483,
+    "ad_plus_inherited_ratio": 0.04073578434742224
+  },
+  "hootsuite.com": {
+    "total_time": 30.72117833326776,
+    "ad_time": 0.4305313333267501,
+    "ad_plus_inherited": 0.4305313333267501,
+    "ad_ratio": 0.014014154296306095,
+    "ad_plus_inherited_ratio": 0.014014154296306095
+  },
+  "westernjournal.com": {
+    "total_time": 95.90283100004804,
+    "ad_time": 8.752686666644877,
+    "ad_plus_inherited": 11.94450333330072,
+    "ad_ratio": 0.09126619699725541,
+    "ad_plus_inherited_ratio": 0.12454797432720977
+  },
+  "irs.gov": {
+    "total_time": 0.36630066666596883,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "teacherspayteachers.com": {
+    "total_time": 39.3805073333375,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "schoology.com": {
+    "total_time": 12.06324700000792,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "bongacams.com": {
+    "total_time": 18.714473666698417,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  },
+  "evernote.com": {
+    "total_time": 21.163804333344157,
+    "ad_time": 0,
+    "ad_plus_inherited": 0,
+    "ad_ratio": 0.0,
+    "ad_plus_inherited_ratio": 0.0
+  }
+}
