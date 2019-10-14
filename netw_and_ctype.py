@@ -52,13 +52,25 @@ def get_netw_time(crawl, ad_only=False) -> dict:
 
   return ret
 
-def get_num_ctypes(crawl) -> dict:
+def get_num_ctypes(crawl, ad_only=False) -> dict:
   # return dictionary
   ret = {}
 
   # loop thru the crawls
   for site, data in crawl.items():
     for snap in data['snapshots']:
+      # prune for ads
+      if ad_only:
+        adsPresent = False
+        for layer in snap['tree_full']:
+          if adsPresent:
+            break
+          for url, info in layer.items():
+            if info['ad'] != 'no':
+              adsPresent = True
+              break
+        if not adsPresent:
+          continue
       for layer in snap['tree_full']:
         for url, info in layer.items():
           # get the content type
