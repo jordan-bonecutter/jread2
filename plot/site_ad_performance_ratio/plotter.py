@@ -57,10 +57,10 @@ plt.xlabel('Computation Cost Ratio of Ads')
 plt.ylabel('Fraction of Websites')
 plt.title('Ads Computation Cost (CDF)') 
 
-plt.savefig('computation_cost_cdf', format='pdf')
 
 axpolygons = [poly for poly in ax.get_children() if isinstance(poly, mpl.patches.Polygon)]
 for poly in axpolygons:
   poly.set_xy(poly.get_xy()[:-1])
 
+plt.savefig('computation_cost_cdf', format='pdf')
 plt.show()
