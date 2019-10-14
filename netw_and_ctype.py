@@ -52,7 +52,13 @@ def get_num_ctypes(crawl) -> dict:
           ctype = nodetype(info)
           if ctype not in ret:
             # for each content type, gather total# and #related to ads
-            ret[ctype] = {'total': 0., 'ad': 0., 'ad_plus_inherited': 0.}
+            ret[ctype] = {'total': 0., 'ad': 0., 'ad_plus_inherited': 0., 'network_total': 0., 'network_ad_total': 0., 'network_ad_plus_inherited_total': 0}
+          if 'timing' in info:
+            ret[ctype]['network_total'] += info['timing'] / len(data['snapshots'])
+            if info['ad'] != 'no':
+              ret[ctype]['network_ad_plus_inherited_total'] += info['timing'] / len(data['snapshots'])
+              if info['ad'] == 'yes':
+                ret[ctype]['network_ad_total'] += info['timing'] / len(data['snapshots'])
           ret[ctype]['total'] += 1./len(data['snapshots'])
           if info['ad'] != 'no':
             ret[ctype]['ad_plus_inherited'] += 1./len(data['snapshots'])
@@ -75,5 +81,4 @@ def main(argv) -> int:
 if __name__ == '__main__':
   import json
   import sys
-  from pprint import pprint
   main(sys.argv)
