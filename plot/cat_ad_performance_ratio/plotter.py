@@ -63,10 +63,10 @@ l_catAd_to_catTotal = plt.bar(l+0.2, ratio_catAd_to_catTotal, width=0.2, color='
 y_pos = range(len(label))
 plt.xticks(y_pos, label, rotation=50)
 plt.ylabel('Fraction')
-plt.title('Contribution of ad domains in performance cost')
-plt.legend( (l_catAd_to_ads[0], l_catTotal_to_total[0], l_catAd_to_catTotal[0] ), ('ratio of stage ad activities', 'ratio of stage activites ', 'ratio of stage ad activity to all stage activities') )
+plt.title('Contribution of stages in performance cost of ads')
+plt.legend( (l_catAd_to_ads[0], l_catTotal_to_total[0], l_catAd_to_catTotal[0] ), ('ratio of stage ad-workload to total ad-workload ', 'ratio of stage workload to total workload  ', 'ratio of stage ad-workload to stage workload') )
 plt.tight_layout()
-plt.savefig('domain_contribution', format='pdf')
+plt.savefig('stage_ratio', format='pdf')
 plt.show()
 
 

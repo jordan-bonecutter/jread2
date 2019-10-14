@@ -1,0 +1,98 @@
+{
+  "HTML": {
+    "total": 1070.416666666668,
+    "ad": 141.91666666666677,
+    "ad_plus_inherited": 227.5833333333339,
+    "network_total": 289.8603082500403,
+    "network_ad_total": 13.006900916703673,
+    "network_ad_plus_inherited_total": 27.99134608337104
+  },
+  "unknown": {
+    "total": 589.3333333333372,
+    "ad": 39.66666666666668,
+    "ad_plus_inherited": 126.41666666666649,
+    "network_total": 0.0,
+    "network_ad_total": 0.0,
+    "network_ad_plus_inherited_total": 0
+  },
+  "Image": {
+    "total": 11015.58333333542,
+    "ad": 1076.2500000000084,
+    "ad_plus_inherited": 1385.166666666628,
+    "network_total": 4955.6045697501595,
+    "network_ad_total": 240.94981200009585,
+    "network_ad_plus_inherited_total": 315.5001413335169
+  },
+  "Script": {
+    "total": 12914.916666669487,
+    "ad": 1365.666666666648,
+    "ad_plus_inherited": 1548.2499999999814,
+    "network_total": 4386.893579583537,
+    "network_ad_total": 885.5625694165599,
+    "network_ad_plus_inherited_total": 916.6526945833015
+  },
+  "Font": {
+    "total": 475.5833333333294,
+    "ad": 0.0,
+    "ad_plus_inherited": 11.25,
+    "network_total": 122.24045916659995,
+    "network_ad_total": 0.0,
+    "network_ad_plus_inherited_total": 0.29822599999230687
+  },
+  "Stylesheet": {
+    "total": 1546.9999999999502,
+    "ad": 18.666666666666664,
+    "ad_plus_inherited": 24.0,
+    "network_total": 265.498762750052,
+    "network_ad_total": 2.372059999978471,
+    "network_ad_plus_inherited_total": 2.7576421666581155
+  },
+  "XHR": {
+    "total": 1427.8333333333046,
+    "ad": 68.00000000000004,
+    "ad_plus_inherited": 68.00000000000004,
+    "network_total": 389.56104033332184,
+    "network_ad_total": 21.337547666610284,
+    "network_ad_plus_inherited_total": 21.337547666610284
+  },
+  "Media": {
+    "total": 58.50000000000003,
+    "ad": 0.0,
+    "ad_plus_inherited": 2.5,
+    "network_total": 8.985862999927727,
+    "network_ad_total": 0.0,
+    "network_ad_plus_inherited_total": 0.05624199998601398
+  },
+  "Document": {
+    "total": 409.16666666666396,
+    "ad": 48.833333333333385,
+    "ad_plus_inherited": 73.74999999999993,
+    "network_total": 143.47366374993132,
+    "network_ad_total": 29.33340366663651,
+    "network_ad_plus_inherited_total": 31.549661999946686
+  },
+  "Other": {
+    "total": 408.6666666666633,
+    "ad": 29.749999999999993,
+    "ad_plus_inherited": 29.749999999999993,
+    "network_total": 71.60744849988444,
+    "network_ad_total": 3.535671499999201,
+    "network_ad_plus_inherited_total": 3.535671499999201
+  },
+  "XML": {
+    "total": 66.16666666666667,
+    "ad": 19.5,
+    "ad_plus_inherited": 19.5,
+    "network_total": 17.003791000004032,
+    "network_ad_total": 8.289295999995375,
+    "network_ad_plus_inherited_total": 8.289295999995375
+  },
+  "Fetch": {
+    "total": 186.3333333333337,
+    "ad": 65.66666666666671,
+    "ad_plus_inherited": 65.66666666666671,
+    "network_total": 65.23583650003204,
+    "network_ad_total": 16.49993883332595,
+    "network_ad_plus_inherited_total": 16.49993883332595
+  }
+}

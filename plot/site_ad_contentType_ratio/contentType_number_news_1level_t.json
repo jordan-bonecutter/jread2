@@ -1,0 +1,106 @@
+{
+  "HTML": {
+    "total": 2608.5,
+    "ad": 593.5,
+    "ad_plus_inherited": 1018.0,
+    "network_total": 648.7526119996619,
+    "network_ad_total": 49.63601449995622,
+    "network_ad_plus_inherited_total": 102.8556669998361
+  },
+  "Image": {
+    "total": 19146.333333333332,
+    "ad": 3047.0,
+    "ad_plus_inherited": 4237.5,
+    "network_total": 6933.76794633288,
+    "network_ad_total": 550.9749904996061,
+    "network_ad_plus_inherited_total": 808.1987339998595
+  },
+  "Script": {
+    "total": 24830.0,
+    "ad": 4702.5,
+    "ad_plus_inherited": 5408.5,
+    "network_total": 6031.783111167341,
+    "network_ad_total": 1320.558232499682,
+    "network_ad_plus_inherited_total": 1424.489966499447
+  },
+  "Font": {
+    "total": 1385.5,
+    "ad": 17.0,
+    "ad_plus_inherited": 83.0,
+    "network_total": 323.6465058334652,
+    "network_ad_total": 3.5101510000167764,
+    "network_ad_plus_inherited_total": 8.900745999955689
+  },
+  "Stylesheet": {
+    "total": 3514.0,
+    "ad": 69.0,
+    "ad_plus_inherited": 97.0,
+    "network_total": 643.5957473333353,
+    "network_ad_total": 9.919248500089452,
+    "network_ad_plus_inherited_total": 12.058337000053143
+  },
+  "XML": {
+    "total": 70.0,
+    "ad": 32.0,
+    "ad_plus_inherited": 32.0,
+    "network_total": 17.463453999880585,
+    "network_ad_total": 7.432398999968427,
+    "network_ad_plus_inherited_total": 7.432398999968427
+  },
+  "Media": {
+    "total": 103.0,
+    "ad": 4.0,
+    "ad_plus_inherited": 4.5,
+    "network_total": 19.214055833300034,
+    "network_ad_total": 0.4829450000252109,
+    "network_ad_plus_inherited_total": 0.5562895000257413
+  },
+  "Document": {
+    "total": 766.5,
+    "ad": 60.0,
+    "ad_plus_inherited": 131.0,
+    "network_total": 211.98962149993895,
+    "network_ad_total": 6.100926999897638,
+    "network_ad_plus_inherited_total": 14.255987499884213
+  },
+  "unknown": {
+    "total": 1441.0,
+    "ad": 158.0,
+    "ad_plus_inherited": 511.0,
+    "network_total": 0.0,
+    "network_ad_total": 0.0,
+    "network_ad_plus_inherited_total": 0
+  },
+  "Other": {
+    "total": 722.0,
+    "ad": 135.0,
+    "ad_plus_inherited": 136.0,
+    "network_total": 115.07243250025203,
+    "network_ad_total": 15.258371499898203,
+    "network_ad_plus_inherited_total": 15.392385499901138
+  },
+  "XHR": {
+    "total": 2789.5,
+    "ad": 204.0,
+    "ad_plus_inherited": 204.0,
+    "network_total": 1308.1019555002276,
+    "network_ad_total": 60.9441769997502,
+    "network_ad_plus_inherited_total": 60.9441769997502
+  },
+  "Fetch": {
+    "total": 293.5,
+    "ad": 180.0,
+    "ad_plus_inherited": 180.0,
+    "network_total": 79.08140549997188,
+    "network_ad_total": 34.776475000035134,
+    "network_ad_plus_inherited_total": 34.776475000035134
+  },
+  "TextTrack": {
+    "total": 2.0,
+    "ad": 0.0,
+    "ad_plus_inherited": 0.0,
+    "network_total": 0.6325740000174847,
+    "network_ad_total": 0.0,
+    "network_ad_plus_inherited_total": 0
+  }
+}
