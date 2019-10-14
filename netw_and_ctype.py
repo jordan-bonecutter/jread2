@@ -5,7 +5,7 @@
 
 from nodetype import nodetype
 import filehelper
-def get_netw_time(crawl) -> dict:
+def get_netw_time(crawl, ad_only=False) -> dict:
   # return dictionary
   ret = {}
 
@@ -14,6 +14,19 @@ def get_netw_time(crawl) -> dict:
     # foreach site, record total time and time for ads
     ret[site] = {'total_time': 0, 'ad_time': 0, 'ad_plus_inherited': 0}
     for snap in data['snapshots']:
+      # prune for ads
+      if ad_only:
+        adsPresent = False
+        for layer in snap['tree_full']:
+          if adsPresent:
+            break
+          for url, info in layer.items():
+            if info['ad'] != 'no':
+              adsPresent = True
+              break
+        if not adsPresent:
+          continue
+      
       for layer in snap['tree_full']:
         for url, info in layer.items():
           # if the current node has no timing info (< 2%)
