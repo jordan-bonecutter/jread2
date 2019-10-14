@@ -12,7 +12,6 @@ def get_netw_time(crawl, ad_only=False) -> dict:
   # loop thru the whole crawl
   for site, data in crawl.items():
     # foreach site, record total time and time for ads
-    ret[site] = {'total_time': 0, 'ad_time': 0, 'ad_plus_inherited': 0}
     for snap in data['snapshots']:
       # prune for ads
       if ad_only:
@@ -29,6 +28,8 @@ def get_netw_time(crawl, ad_only=False) -> dict:
       
       for layer in snap['tree_full']:
         for url, info in layer.items():
+          if site not in ret:
+            ret[site] = {'total_time': 0, 'ad_time': 0, 'ad_plus_inherited': 0}
           # if the current node has no timing info (< 2%)
           # then skip it
           if 'timing' not in info:
