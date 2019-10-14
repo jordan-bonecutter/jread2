@@ -1,5 +1,6 @@
+import numpy as np
 import json
-import matplotlib
+import matplotlib as mpl
 #matplotlib.use('agg')
 import matplotlib.pyplot as plt
 
@@ -31,27 +32,35 @@ with open('site_stat_ustop200_1level_t.json','r') as f:
 for site, time in stat.items():
   ratio_ustop200_1level.append(time['ratio'])
 
-n_bins = 100  
+fig, ax = plt.subplots()
+plt.xticks(np.arange(0, 1.1, step=0.1))
+plt.yticks(np.arange(0, 1.1, step=0.1))
+plt.grid(b=True, which='major', color='gray', linestyle='-', alpha=0.2)
+plt.grid(b=True, which='minor', color='gray', linestyle='-', alpha=0.2)
+
+n_bins = 10000
 n, bins, patches = plt.hist(ratio_news, n_bins, density=True, histtype='step',
-                           cumulative=True, label='News')
+                           cumulative=True, label='News (landing)', range=(0., 1.))
 
 n, bins, patches = plt.hist(ratio_news_1level, n_bins, density=True, histtype='step',
-                           cumulative=True, label='News_1L')
+                           cumulative=True, label='News (post-click)', range=(0., 1.))
 
 n, bins, patches = plt.hist(ratio_ustop200, n_bins, density=True, histtype='step',
-                           cumulative=True, label='top200')
+                           cumulative=True, label='General (landing)', range=(0., 1.))
 
 n, bins, patches = plt.hist(ratio_ustop200_1level, n_bins, density=True, histtype='step',
-                           cumulative=True, label='top200_1L')
+                           cumulative=True, label='General (post-click)', range=(0., 1.))
 
-plt.legend()
+plt.legend(loc='lower right')
 
-plt.xlabel('computation cost ratio of ads')
-plt.ylabel('Fraction of websites')
-plt.title('ads computation cost (CDF)') 
+plt.xlabel('Computation Cost Ratio of Ads')
+plt.ylabel('Fraction of Websites')
+plt.title('Ads Computation Cost (CDF)') 
 
 plt.savefig('computation_cost_cdf', format='pdf')
+
+axpolygons = [poly for poly in ax.get_children() if isinstance(poly, mpl.patches.Polygon)]
+for poly in axpolygons:
+  poly.set_xy(poly.get_xy()[:-1])
+
 plt.show()
-
-
-
