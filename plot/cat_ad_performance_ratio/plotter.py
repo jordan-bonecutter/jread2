@@ -57,17 +57,14 @@ for cat, time in aggregatedStat_news.items():
 
 
 l = np.arange(len(label))
-l_catAd_to_ads = plt.bar(l-0.2, ratio_catAd_to_ads, width=0.2, color='b', align='center')
-l_catTotal_to_total = plt.bar(l, ratio_catTotal_to_total, width=0.2, color='r', align='center')
-l_catAd_to_catTotal = plt.bar(l+0.2, ratio_catAd_to_catTotal, width=0.2, color='g', align='center')
+l_catAd_to_catTotal = plt.bar(l-0.2, ratio_catAd_to_catTotal, width=0.2, color='g', align='center')
+l_catAd_to_ads = plt.bar(l, ratio_catAd_to_ads, width=0.2, color='b', align='center')
+l_catTotal_to_total = plt.bar(l+0.2, ratio_catTotal_to_total, width=0.2, color='r', align='center')
 y_pos = range(len(label))
 plt.xticks(y_pos, label, rotation=50)
 plt.ylabel('Fraction')
 plt.title('Contribution of stages in performance cost of ads')
-plt.legend( (l_catAd_to_ads[0], l_catTotal_to_total[0], l_catAd_to_catTotal[0] ), ('ratio of stage ad-workload to total ad-workload ', 'ratio of stage workload to total workload  ', 'ratio of stage ad-workload to stage workload') )
+plt.legend( ( l_catAd_to_catTotal[0], l_catAd_to_ads[0], l_catTotal_to_total[0]), ('Ratio of Stage Ad-Workload to Stage Workload', 'Ratio of Stage Ad-Workload to Total Ad-Workload ', 'Ratio of Stage Workload to Total Workload  ') )
 plt.tight_layout()
 plt.savefig('stage_ratio', format='pdf')
 plt.show()
-
-
-
