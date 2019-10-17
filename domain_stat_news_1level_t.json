@@ -1,0 +1,1297 @@
+{
+  "redditstatic.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0017453169944724554,
+    "average_per_site_ad_ratio": 0.05592858405835869,
+    "ratio_to_all": 6.553897553844563e-06,
+    "ratio_to_ads": 3.534970356919489e-05
+  },
+  "amazon-adsystem.com": {
+    "number_of_websites": 86,
+    "average_per_site_ratio": 0.010379242764277484,
+    "average_per_site_ad_ratio": 0.10696523830487108,
+    "ratio_to_all": 0.004161613377423601,
+    "ratio_to_ads": 0.022446459996193175
+  },
+  "doubleclick.net": {
+    "number_of_websites": 183,
+    "average_per_site_ratio": 0.03890490633799562,
+    "average_per_site_ad_ratio": 0.37891214871859,
+    "ratio_to_all": 0.034441872574035935,
+    "ratio_to_ads": 0.1857688460732734
+  },
+  "reddit.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.013507814099405255,
+    "average_per_site_ad_ratio": 0.4328571363803289,
+    "ratio_to_all": 5.072363935276879e-05,
+    "ratio_to_ads": 0.00027358767822351765
+  },
+  "nytimes.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0006359362867110868,
+    "average_per_site_ad_ratio": 0.011144589349786212,
+    "ratio_to_all": 3.1510348890930692e-06,
+    "ratio_to_ads": 1.699571107886632e-05
+  },
+  "nyt.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 9.553519329954111e-05,
+    "average_per_site_ad_ratio": 0.001674225107175774,
+    "ratio_to_all": 4.733724643705825e-07,
+    "ratio_to_ads": 2.553225184837277e-06
+  },
+  "googlesyndication.com": {
+    "number_of_websites": 152,
+    "average_per_site_ratio": 0.026113331914838358,
+    "average_per_site_ad_ratio": 0.14761659330157242,
+    "ratio_to_all": 0.02069502888970434,
+    "ratio_to_ads": 0.1116226078599341
+  },
+  "fonts.net": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0029984219001403115,
+    "average_per_site_ad_ratio": 0.052546428742555475,
+    "ratio_to_all": 1.4857041840506346e-05,
+    "ratio_to_ads": 8.013430491737602e-05
+  },
+  "gstatic.com": {
+    "number_of_websites": 13,
+    "average_per_site_ratio": 0.005723279539673336,
+    "average_per_site_ad_ratio": 0.028531786511290878,
+    "ratio_to_all": 0.00033575814805334185,
+    "ratio_to_ads": 0.0018109759737799192
+  },
+  "fastly.net": {
+    "number_of_websites": 9,
+    "average_per_site_ratio": 0.004226157584890455,
+    "average_per_site_ad_ratio": 0.018006890956792084,
+    "ratio_to_all": 0.0002890855356824201,
+    "ratio_to_ads": 0.0015592382866163165
+  },
+  "trustx.org": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.0052563746159185075,
+    "average_per_site_ad_ratio": 0.025309497445563534,
+    "ratio_to_all": 4.0507613407334526e-05,
+    "ratio_to_ads": 0.0002184855827361596
+  },
+  "adsafeprotected.com": {
+    "number_of_websites": 35,
+    "average_per_site_ratio": 0.03503361230341151,
+    "average_per_site_ad_ratio": 0.14952363884964853,
+    "ratio_to_all": 0.007146525611532882,
+    "ratio_to_ads": 0.0385461566711786
+  },
+  "2mdn.net": {
+    "number_of_websites": 55,
+    "average_per_site_ratio": 0.06705466869837921,
+    "average_per_site_ad_ratio": 0.2512087189415536,
+    "ratio_to_all": 0.027412679048517474,
+    "ratio_to_ads": 0.1478555425136501
+  },
+  "pubmatic.com": {
+    "number_of_websites": 28,
+    "average_per_site_ratio": 0.016239464642752742,
+    "average_per_site_ad_ratio": 0.11305750435403351,
+    "ratio_to_all": 0.001688379321901906,
+    "ratio_to_ads": 0.00910659772314869
+  },
+  "indiatimes.in": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 7.81366811371662e-05,
+    "average_per_site_ad_ratio": 0.0003747699280406713,
+    "ratio_to_all": 3.410831898158406e-07,
+    "ratio_to_ads": 1.83969760792989e-06
+  },
+  "clmbtech.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.02031279866057663,
+    "average_per_site_ad_ratio": 0.09742704683047965,
+    "ratio_to_all": 8.866967550200819e-05,
+    "ratio_to_ads": 0.0004782569026783159
+  },
+  "about:blank": {
+    "number_of_websites": 62,
+    "average_per_site_ratio": 0.0012059922898633427,
+    "average_per_site_ad_ratio": 0.005277920394260247,
+    "ratio_to_all": 0.0003997088553737899,
+    "ratio_to_ads": 0.0021559063801900825
+  },
+  "googletagservices.com": {
+    "number_of_websites": 106,
+    "average_per_site_ratio": 0.06360985812525974,
+    "average_per_site_ad_ratio": 0.27809695809726026,
+    "ratio_to_all": 0.03967900333205297,
+    "ratio_to_ads": 0.21401631535823595
+  },
+  "rubiconproject.com": {
+    "number_of_websites": 11,
+    "average_per_site_ratio": 0.011379416407931699,
+    "average_per_site_ad_ratio": 0.04097075722050852,
+    "ratio_to_all": 0.0007150283105084241,
+    "ratio_to_ads": 0.00385664234333781
+  },
+  "fncstatic.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 3.8472918741847506e-05,
+    "average_per_site_ad_ratio": 0.0012941102172921446,
+    "ratio_to_all": 4.717786176892e-07,
+    "ratio_to_ads": 2.5446284670432124e-06
+  },
+  "media.net": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00016242301766193151,
+    "average_per_site_ad_ratio": 0.002015614272988783,
+    "ratio_to_all": 1.1324280671222184e-06,
+    "ratio_to_ads": 6.107967992683116e-06
+  },
+  "cnbc.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 5.4211711518491945e-05,
+    "average_per_site_ad_ratio": 0.002788732394366197,
+    "ratio_to_all": 2.3668623218529124e-07,
+    "ratio_to_ads": 1.2766125924186385e-06
+  },
+  "googleadservices.com": {
+    "number_of_websites": 15,
+    "average_per_site_ratio": 0.003638644506556926,
+    "average_per_site_ad_ratio": 0.18506359304833134,
+    "ratio_to_all": 0.0001649607407530597,
+    "ratio_to_ads": 0.0008897473966090267
+  },
+  "openx.net": {
+    "number_of_websites": 27,
+    "average_per_site_ratio": 0.0018396565241724533,
+    "average_per_site_ad_ratio": 0.041192518408581645,
+    "ratio_to_all": 0.00022687530893804168,
+    "ratio_to_ads": 0.0012236954960372721
+  },
+  "adtechus.com": {
+    "number_of_websites": 4,
+    "average_per_site_ratio": 0.00032371445882902215,
+    "average_per_site_ad_ratio": 0.003612026592328981,
+    "ratio_to_all": 1.1447803789029323e-05,
+    "ratio_to_ads": 6.174592555587119e-05
+  },
+  "criteo.net": {
+    "number_of_websites": 29,
+    "average_per_site_ratio": 0.0007028738905358896,
+    "average_per_site_ad_ratio": 0.005044568489409103,
+    "ratio_to_all": 0.00011249051107860933,
+    "ratio_to_ads": 0.000606739148469513
+  },
+  "simpli.fi": {
+    "number_of_websites": 9,
+    "average_per_site_ratio": 0.004292388678047241,
+    "average_per_site_ad_ratio": 0.01839778877919559,
+    "ratio_to_all": 0.0002450730534227256,
+    "ratio_to_ads": 0.001321848521451008
+  },
+  "truste.com": {
+    "number_of_websites": 11,
+    "average_per_site_ratio": 0.0027569088146364115,
+    "average_per_site_ad_ratio": 0.010074719039490422,
+    "ratio_to_all": 0.00020949361395422556,
+    "ratio_to_ads": 0.0011299439901340973
+  },
+  "casalemedia.com": {
+    "number_of_websites": 10,
+    "average_per_site_ratio": 0.0005027112557807399,
+    "average_per_site_ad_ratio": 0.0025169828329624157,
+    "ratio_to_all": 3.209369677631666e-05,
+    "ratio_to_ads": 0.00017310350950129096
+  },
+  "yimg.com": {
+    "number_of_websites": 7,
+    "average_per_site_ratio": 0.002629893350196726,
+    "average_per_site_ad_ratio": 0.016938756698990465,
+    "ratio_to_all": 0.00012972636909107895,
+    "ratio_to_ads": 0.0006997040546945309
+  },
+  "wsj.net": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.005985700578585282,
+    "average_per_site_ad_ratio": 0.07492392640424202,
+    "ratio_to_all": 7.058031259165827e-05,
+    "ratio_to_ads": 0.00038068845407457624
+  },
+  "adnxs.com": {
+    "number_of_websites": 22,
+    "average_per_site_ratio": 0.0026965567338429358,
+    "average_per_site_ad_ratio": 0.014415708525402955,
+    "ratio_to_all": 0.0004842122156506644,
+    "ratio_to_ads": 0.0026116914625547126
+  },
+  "advertising.com": {
+    "number_of_websites": 40,
+    "average_per_site_ratio": 0.0006622710765465464,
+    "average_per_site_ad_ratio": 0.008569958694693154,
+    "ratio_to_all": 0.00016349758949955062,
+    "ratio_to_ads": 0.0008818556096740751
+  },
+  "yahoo.com": {
+    "number_of_websites": 9,
+    "average_per_site_ratio": 0.0006626120594611567,
+    "average_per_site_ad_ratio": 0.008742496124057947,
+    "ratio_to_all": 3.1672124329091006e-05,
+    "ratio_to_ads": 0.00017082967764476078
+  },
+  "ml314.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0014955927830080514,
+    "average_per_site_ad_ratio": 0.013676599737148638,
+    "ratio_to_all": 1.7796892044316242e-05,
+    "ratio_to_ads": 9.599095088852875e-05
+  },
+  "doubleverify.com": {
+    "number_of_websites": 14,
+    "average_per_site_ratio": 0.05415993666721589,
+    "average_per_site_ad_ratio": 0.17173852908462722,
+    "ratio_to_all": 0.004513741127818081,
+    "ratio_to_ads": 0.024345728560077037
+  },
+  "moatads.com": {
+    "number_of_websites": 16,
+    "average_per_site_ratio": 0.05661643441835603,
+    "average_per_site_ad_ratio": 0.20217543706436647,
+    "ratio_to_all": 0.007371838950723169,
+    "ratio_to_ads": 0.039761427383777685
+  },
+  "evidon.com": {
+    "number_of_websites": 4,
+    "average_per_site_ratio": 0.005800782879539488,
+    "average_per_site_ad_ratio": 0.03595069144985806,
+    "ratio_to_all": 0.00019009012445507582,
+    "ratio_to_ads": 0.001025287547709151
+  },
+  "googleapis.com": {
+    "number_of_websites": 32,
+    "average_per_site_ratio": 0.006677497989821363,
+    "average_per_site_ad_ratio": 0.09035104022000749,
+    "ratio_to_all": 0.0015013063492146871,
+    "ratio_to_ads": 0.008097583762223705
+  },
+  "adlightning.com": {
+    "number_of_websites": 3,
+    "average_per_site_ratio": 0.055596330846809344,
+    "average_per_site_ad_ratio": 0.1750029243967508,
+    "ratio_to_all": 0.0012744111171931283,
+    "ratio_to_ads": 0.006873780807214006
+  },
+  "wp.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.003059675431997081,
+    "average_per_site_ad_ratio": 0.010202979222148372,
+    "ratio_to_all": 6.309321780586429e-05,
+    "ratio_to_ads": 0.0003403053722369564
+  },
+  "newscgp.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.057011629878294626,
+    "average_per_site_ad_ratio": 0.2059598552387851,
+    "ratio_to_all": 0.0006689127475526456,
+    "ratio_to_ads": 0.003607909209043233
+  },
+  "realvu.net": {
+    "number_of_websites": 4,
+    "average_per_site_ratio": 0.004141155841971296,
+    "average_per_site_ad_ratio": 0.019233864742681652,
+    "ratio_to_all": 0.0001420436162448024,
+    "ratio_to_ads": 0.0007661394898070645
+  },
+  "mathtag.com": {
+    "number_of_websites": 3,
+    "average_per_site_ratio": 0.0011844249571624282,
+    "average_per_site_ad_ratio": 0.00357258807968134,
+    "ratio_to_all": 3.816465878570235e-05,
+    "ratio_to_ads": 0.00020584840757888417
+  },
+  "betrad.com": {
+    "number_of_websites": 8,
+    "average_per_site_ratio": 0.0009100954208911033,
+    "average_per_site_ad_ratio": 0.006630130408619129,
+    "ratio_to_all": 5.03081766511551e-05,
+    "ratio_to_ads": 0.00027134680045186473
+  },
+  "adrta.com": {
+    "number_of_websites": 12,
+    "average_per_site_ratio": 0.0018258173992741426,
+    "average_per_site_ad_ratio": 0.009205405331557477,
+    "ratio_to_all": 0.00015789920303119483,
+    "ratio_to_ads": 0.0008516596384224222
+  },
+  "rudo.video": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0007429550412713274,
+    "average_per_site_ad_ratio": 0.0024488206033216674,
+    "ratio_to_all": 9.819689403997167e-06,
+    "ratio_to_ads": 5.296437832923389e-05
+  },
+  "houstonchronicle.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0005682241367999609,
+    "average_per_site_ad_ratio": 0.3229604709840202,
+    "ratio_to_all": 9.180556884762812e-07,
+    "ratio_to_ads": 4.951709449381386e-06
+  },
+  "hearstnp.com": {
+    "number_of_websites": 7,
+    "average_per_site_ratio": 0.0004996210867133647,
+    "average_per_site_ad_ratio": 0.10120907518294472,
+    "ratio_to_all": 1.3672813756239199e-05,
+    "ratio_to_ads": 7.37469435963858e-05
+  },
+  "s-nbcnews.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.03914705848154938,
+    "average_per_site_ad_ratio": 0.581250611436891,
+    "ratio_to_all": 0.00016098568712969192,
+    "ratio_to_ads": 0.0008683071824306288
+  },
+  "nbcuni.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 1.7828559026095583e-05,
+    "average_per_site_ad_ratio": 0.00026471620696203623,
+    "ratio_to_all": 7.33169473435919e-08,
+    "ratio_to_ads": 3.9544901852698567e-07
+  },
+  "jwpcdn.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0010629415099681972,
+    "average_per_site_ad_ratio": 0.07836299794163942,
+    "ratio_to_all": 2.578843930476776e-06,
+    "ratio_to_ads": 1.3909489390797018e-05
+  },
+  "thgim.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 3.3960791296140286e-05,
+    "average_per_site_ad_ratio": 0.0020535386872020537,
+    "ratio_to_all": 2.2313853539354056e-07,
+    "ratio_to_ads": 1.2035404911690869e-06
+  },
+  "omnitagjs.com": {
+    "number_of_websites": 3,
+    "average_per_site_ratio": 8.94137197812105e-05,
+    "average_per_site_ad_ratio": 0.0016976826221996224,
+    "ratio_to_all": 1.7835144364669422e-06,
+    "ratio_to_ads": 9.61972721155863e-06
+  },
+  "lijit.com": {
+    "number_of_websites": 17,
+    "average_per_site_ratio": 0.0007631929691218273,
+    "average_per_site_ad_ratio": 0.020693900415285186,
+    "ratio_to_all": 3.0048791484103e-05,
+    "ratio_to_ads": 0.00016207392057150568
+  },
+  "stickyadstv.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 1.2977873816739323e-05,
+    "average_per_site_ad_ratio": 0.0007847451411807847,
+    "ratio_to_all": 8.527079745396015e-08,
+    "ratio_to_ads": 4.599244019824725e-07
+  },
+  "tremorhub.com": {
+    "number_of_websites": 3,
+    "average_per_site_ratio": 0.00013228018942740475,
+    "average_per_site_ad_ratio": 0.005688499054402792,
+    "ratio_to_all": 3.077717941749477e-06,
+    "ratio_to_ads": 1.6600262060339334e-05
+  },
+  "sfgate.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00017452896671054882,
+    "average_per_site_ad_ratio": 0.0009705855866372711,
+    "ratio_to_all": 1.3914281528468637e-06,
+    "ratio_to_ads": 7.504934634218663e-06
+  },
+  "consumable.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.06290259864235256,
+    "average_per_site_ad_ratio": 0.3498121644503295,
+    "ratio_to_all": 0.00050148951367685,
+    "ratio_to_ads": 0.002704879883442376
+  },
+  "google.com": {
+    "number_of_websites": 15,
+    "average_per_site_ratio": 0.001633811480733214,
+    "average_per_site_ad_ratio": 0.10474254986599647,
+    "ratio_to_all": 7.325638116969936e-05,
+    "ratio_to_ads": 0.0003951223432508112
+  },
+  "cdnsynd.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 3.041196439380289e-05,
+    "average_per_site_ad_ratio": 0.00010392001957719079,
+    "ratio_to_all": 1.4822774136856623e-07,
+    "ratio_to_ads": 7.994947548480363e-07
+  },
+  "cloudflare.com": {
+    "number_of_websites": 11,
+    "average_per_site_ratio": 0.029412609044039008,
+    "average_per_site_ad_ratio": 0.13237861539870024,
+    "ratio_to_all": 0.0017270587931656949,
+    "ratio_to_ads": 0.009315222870575058
+  },
+  "amazonaws.com": {
+    "number_of_websites": 6,
+    "average_per_site_ratio": 0.012404081095366825,
+    "average_per_site_ad_ratio": 0.06277486610363352,
+    "ratio_to_all": 0.0005779184466658411,
+    "ratio_to_ads": 0.0031171139934622737
+  },
+  "facebook.com": {
+    "number_of_websites": 3,
+    "average_per_site_ratio": 9.576599378116591e-05,
+    "average_per_site_ad_ratio": 0.0006062946169581514,
+    "ratio_to_all": 1.4790897203228974e-06,
+    "ratio_to_ads": 7.977754112892234e-06
+  },
+  "theatlantic.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.041356829232705936,
+    "average_per_site_ad_ratio": 0.12710474688288242,
+    "ratio_to_all": 0.00015541041143821616,
+    "ratio_to_ads": 0.0008382358635869898
+  },
+  "cloudfront.net": {
+    "number_of_websites": 9,
+    "average_per_site_ratio": 0.024582599726111713,
+    "average_per_site_ad_ratio": 0.15448522564558081,
+    "ratio_to_all": 0.0009571407937204819,
+    "ratio_to_ads": 0.005162522461486342
+  },
+  "adform.net": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.023389217573257445,
+    "average_per_site_ad_ratio": 0.05244570015892636,
+    "ratio_to_all": 0.00013112417263065135,
+    "ratio_to_ads": 0.0007072433761999258
+  },
+  "createjs.com": {
+    "number_of_websites": 11,
+    "average_per_site_ratio": 0.21286257207673334,
+    "average_per_site_ad_ratio": 0.5922809202897996,
+    "ratio_to_all": 0.025369613055374128,
+    "ratio_to_ads": 0.1368358741961992
+  },
+  "quantcount.com": {
+    "number_of_websites": 6,
+    "average_per_site_ratio": 0.0007425915881298797,
+    "average_per_site_ad_ratio": 0.0022458267799186126,
+    "ratio_to_all": 2.5694402350566196e-05,
+    "ratio_to_ads": 0.00013858768755812035
+  },
+  "trustarc.com": {
+    "number_of_websites": 5,
+    "average_per_site_ratio": 0.01901869928038603,
+    "average_per_site_ad_ratio": 0.06404886831028325,
+    "ratio_to_all": 0.0006294801837319035,
+    "ratio_to_ads": 0.0033952221124591703
+  },
+  "jetpackdigital.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.2905528827963616,
+    "average_per_site_ad_ratio": 0.9853985381301357,
+    "ratio_to_all": 0.004920352933168938,
+    "ratio_to_ads": 0.026538867325033213
+  },
+  "dvtps.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.0014987621507109423,
+    "average_per_site_ad_ratio": 0.003825103488988928,
+    "ratio_to_all": 2.0380517514837165e-05,
+    "ratio_to_ads": 0.00010992623043270795
+  },
+  "myfinance.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00010435553932247166,
+    "average_per_site_ad_ratio": 0.060089686098654706,
+    "ratio_to_all": 8.543018212209839e-07,
+    "ratio_to_ads": 4.60784073761879e-06
+  },
+  "sitescout.com": {
+    "number_of_websites": 4,
+    "average_per_site_ratio": 0.0018003954045227968,
+    "average_per_site_ad_ratio": 0.008671982705892728,
+    "ratio_to_all": 3.7447427779080255e-05,
+    "ratio_to_ads": 0.00020197988457155497
+  },
+  "business-standard.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 5.356471266703065e-05,
+    "average_per_site_ad_ratio": 0.00016144826811728173,
+    "ratio_to_all": 4.502616874905372e-07,
+    "ratio_to_ads": 2.428572776823336e-06
+  },
+  "criteo.com": {
+    "number_of_websites": 10,
+    "average_per_site_ratio": 0.03860153164407712,
+    "average_per_site_ad_ratio": 0.15364256766230422,
+    "ratio_to_all": 0.001818485026503154,
+    "ratio_to_ads": 0.009808347796678208
+  },
+  "ampproject.org": {
+    "number_of_websites": 32,
+    "average_per_site_ratio": 0.02462644672270902,
+    "average_per_site_ad_ratio": 0.16902198070679267,
+    "ratio_to_all": 0.0034279075745793967,
+    "ratio_to_ads": 0.018489077015385613
+  },
+  "freeskreen.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0033206138456252517,
+    "average_per_site_ad_ratio": 0.06227223790854984,
+    "ratio_to_all": 2.4430481932229927e-05,
+    "ratio_to_ads": 0.00013177049034742688
+  },
+  "appspot.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0002985259576769048,
+    "average_per_site_ad_ratio": 0.0055983261898474475,
+    "ratio_to_all": 2.196320726944992e-06,
+    "ratio_to_ads": 1.184627712022144e-05
+  },
+  "turn.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.002504959775258403,
+    "average_per_site_ad_ratio": 0.007919272882892714,
+    "ratio_to_all": 3.490843001563804e-05,
+    "ratio_to_ads": 0.0001882853131256096
+  },
+  "rd.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0004361057222165497,
+    "average_per_site_ad_ratio": 0.006865910085247988,
+    "ratio_to_all": 3.301653400483709e-06,
+    "ratio_to_ads": 1.7808100910405455e-05
+  },
+  "iasds01.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 6.511586061894959e-05,
+    "average_per_site_ad_ratio": 0.0005201399809143652,
+    "ratio_to_all": 7.204186999848595e-07,
+    "ratio_to_ads": 3.885716442917338e-06
+  },
+  "everquote.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0019502652512696352,
+    "average_per_site_ad_ratio": 0.007460755085714602,
+    "ratio_to_all": 1.7183261071984006e-05,
+    "ratio_to_ads": 9.268121453781376e-05
+  },
+  "andbeyond.media": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0030949887624768676,
+    "average_per_site_ad_ratio": 0.010387127595188063,
+    "ratio_to_all": 3.895201904630527e-05,
+    "ratio_to_ads": 0.00021009518616915224
+  },
+  "tribalfusion.com": {
+    "number_of_websites": 6,
+    "average_per_site_ratio": 0.004865189609654918,
+    "average_per_site_ad_ratio": 0.11992668307873368,
+    "ratio_to_all": 0.00010795920496343907,
+    "ratio_to_ads": 0.0005822986797809865
+  },
+  "media-amazon.com": {
+    "number_of_websites": 4,
+    "average_per_site_ratio": 0.0014498347828731393,
+    "average_per_site_ad_ratio": 0.007248830499712285,
+    "ratio_to_all": 2.4690278941295262e-05,
+    "ratio_to_ads": 0.00013317175534785947
+  },
+  "aniview.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00011283747237476528,
+    "average_per_site_ad_ratio": 0.00037869514658179815,
+    "ratio_to_all": 1.4201173931117474e-06,
+    "ratio_to_ads": 7.659675554511832e-06
+  },
+  "adlooxtracking.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.018845838655293434,
+    "average_per_site_ad_ratio": 0.28907027442849487,
+    "ratio_to_all": 0.00019804182554849278,
+    "ratio_to_ads": 0.001068176572783741
+  },
+  "scorecardresearch.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 7.259161639422263e-05,
+    "average_per_site_ad_ratio": 0.0013924138760371902,
+    "ratio_to_all": 3.506462699041352e-07,
+    "ratio_to_ads": 1.8912779146942794e-06
+  },
+  "pub.network": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.09341054668147471,
+    "average_per_site_ad_ratio": 0.2985084979525724,
+    "ratio_to_all": 0.0006864522333579185,
+    "ratio_to_ads": 0.0037025117900080203
+  },
+  "thestar.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 3.07671385741312e-05,
+    "average_per_site_ad_ratio": 0.0002531508953923363,
+    "ratio_to_all": 2.54218545680498e-07,
+    "ratio_to_ads": 1.3711764881533525e-06
+  },
+  "centro.net": {
+    "number_of_websites": 4,
+    "average_per_site_ratio": 0.005055902230834463,
+    "average_per_site_ad_ratio": 0.021762322946710592,
+    "ratio_to_all": 0.00011751112812496399,
+    "ratio_to_ads": 0.0006338188095208174
+  },
+  "pagefair.net": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 8.902244088658308e-05,
+    "average_per_site_ad_ratio": 0.0003974303162688978,
+    "ratio_to_all": 9.72246475643284e-07,
+    "ratio_to_ads": 5.243997854379593e-06
+  },
+  "dotomi.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.01535297652428606,
+    "average_per_site_ad_ratio": 0.03372117189670791,
+    "ratio_to_all": 9.516699149866367e-05,
+    "ratio_to_ads": 0.0005133014227658215
+  },
+  "jsrdn.com": {
+    "number_of_websites": 4,
+    "average_per_site_ratio": 0.0033768462705998513,
+    "average_per_site_ad_ratio": 0.033359981853754696,
+    "ratio_to_all": 8.658333019607858e-05,
+    "ratio_to_ads": 0.00046700379908588493
+  },
+  "everesttech.net": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.0007692815226275744,
+    "average_per_site_ad_ratio": 0.006307285380000183,
+    "ratio_to_all": 8.968575276138949e-06,
+    "ratio_to_ads": 4.837373102720323e-05
+  },
+  "aolcdn.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.020157830031713828,
+    "average_per_site_ad_ratio": 0.8383017163504969,
+    "ratio_to_all": 5.694495423243155e-05,
+    "ratio_to_ads": 0.000307143533346351
+  },
+  "atwola.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0024198648960484944,
+    "average_per_site_ad_ratio": 0.10063468600053965,
+    "ratio_to_all": 6.836008416449253e-06,
+    "ratio_to_ads": 3.687132261874438e-05
+  },
+  "mediavoice.com": {
+    "number_of_websites": 3,
+    "average_per_site_ratio": 0.0005692595671993854,
+    "average_per_site_ad_ratio": 0.017948549278094156,
+    "ratio_to_all": 5.581651078201279e-06,
+    "ratio_to_ads": 3.01057057148153e-05
+  },
+  "1rx.io": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0004253414594887484,
+    "average_per_site_ad_ratio": 0.004773717306759994,
+    "ratio_to_all": 4.300198346369803e-06,
+    "ratio_to_ads": 2.319394460838712e-05
+  },
+  "pymx5.com": {
+    "number_of_websites": 4,
+    "average_per_site_ratio": 0.00013105647322669692,
+    "average_per_site_ad_ratio": 0.004163284098729798,
+    "ratio_to_all": 1.8655975405581373e-06,
+    "ratio_to_ads": 1.0062458177952973e-05
+  },
+  "adweek.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0005844040101803178,
+    "average_per_site_ad_ratio": 0.00926504991545642,
+    "ratio_to_all": 1.275077345105946e-06,
+    "ratio_to_ads": 6.877374235251925e-06
+  },
+  "news.com.au": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.013265248864724905,
+    "average_per_site_ad_ratio": 0.05396201163006263,
+    "ratio_to_all": 0.00024042380265313306,
+    "ratio_to_ads": 0.0012967718956457207
+  },
+  "mantisadnetwork.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.045880596426358514,
+    "average_per_site_ad_ratio": 1.0,
+    "ratio_to_all": 8.715711500137625e-05,
+    "ratio_to_ads": 0.0004700986174917483
+  },
+  "thebetterindia.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00020904027519256342,
+    "average_per_site_ad_ratio": 1.0,
+    "ratio_to_all": 5.578463384838514e-07,
+    "ratio_to_ads": 3.0088512279227174e-06
+  },
+  "akamaihd.net": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0004036379849173554,
+    "average_per_site_ad_ratio": 0.001429904952974974,
+    "ratio_to_all": 3.337514950814814e-06,
+    "ratio_to_ads": 1.8001527060771915e-05
+  },
+  "newsday.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0008376628009635845,
+    "average_per_site_ad_ratio": 0.005899688041527973,
+    "ratio_to_all": 4.902672391932363e-06,
+    "ratio_to_ads": 2.644350393454365e-05
+  },
+  "flashtalking.com": {
+    "number_of_websites": 4,
+    "average_per_site_ratio": 0.01683669304727097,
+    "average_per_site_ad_ratio": 0.04878386016734827,
+    "ratio_to_all": 0.0004762095114634432,
+    "ratio_to_ads": 0.0025685273425107126
+  },
+  "sltrib.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 7.891739680205186e-05,
+    "average_per_site_ad_ratio": 0.0004621869546231451,
+    "ratio_to_all": 4.909047778657892e-07,
+    "ratio_to_ads": 2.6477890805719913e-06
+  },
+  "wtop.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.026429997024783648,
+    "average_per_site_ad_ratio": 0.5957235597009063,
+    "ratio_to_all": 6.64753604637578e-05,
+    "ratio_to_ads": 0.0003585476073959621
+  },
+  "krxd.net": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.022562495775774762,
+    "average_per_site_ad_ratio": 0.07756616151441158,
+    "ratio_to_all": 0.00032893648425702505,
+    "ratio_to_ads": 0.0017741820216213213
+  },
+  "siasat.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00017400479197466438,
+    "average_per_site_ad_ratio": 0.0005669409712526954,
+    "ratio_to_all": 4.255570639291095e-07,
+    "ratio_to_ads": 2.29532365101533e-06
+  },
+  "mediaplex.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.002792848044534604,
+    "average_per_site_ad_ratio": 0.010780973039473578,
+    "ratio_to_all": 8.492015118405601e-06,
+    "ratio_to_ads": 4.5803312406777824e-05
+  },
+  "wn.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00019585852675378714,
+    "average_per_site_ad_ratio": 0.8028872848417545,
+    "ratio_to_all": 1.1523511506394987e-06,
+    "ratio_to_ads": 6.215426965108928e-06
+  },
+  "chrome-error://chromewebdata/": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 1.22904888647293e-05,
+    "average_per_site_ad_ratio": 4.979289711435935e-05,
+    "ratio_to_all": 1.1156926769677028e-07,
+    "ratio_to_ads": 6.017702455845434e-07
+  },
+  "gannett-cdn.com": {
+    "number_of_websites": 4,
+    "average_per_site_ratio": 0.002237977088375312,
+    "average_per_site_ad_ratio": 0.017084689825607895,
+    "ratio_to_all": 8.059206052076202e-05,
+    "ratio_to_ads": 0.00043468873689799496
+  },
+  "polarcdn.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.019703117245083068,
+    "average_per_site_ad_ratio": 0.06263668629380661,
+    "ratio_to_all": 0.00037252819099283457,
+    "ratio_to_ads": 0.0020093022532889967
+  },
+  "polarcdn-terrax.com": {
+    "number_of_websites": 3,
+    "average_per_site_ratio": 0.0012069850122985737,
+    "average_per_site_ad_ratio": 0.0038071442863524528,
+    "ratio_to_all": 3.432906674695553e-05,
+    "ratio_to_ads": 0.000185160406207467
+  },
+  "timesunion.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0003724541170217146,
+    "average_per_site_ad_ratio": 0.002253149030523187,
+    "ratio_to_all": 1.9030529375706246e-06,
+    "ratio_to_ads": 1.0264481046113498e-05
+  },
+  "thedrum.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0007454927118278305,
+    "average_per_site_ad_ratio": 0.018783984181908058,
+    "ratio_to_all": 1.7867021298297069e-06,
+    "ratio_to_ads": 9.63692064714676e-06
+  },
+  "cogocast.net": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0009417446010840736,
+    "average_per_site_ad_ratio": 0.0033113477455515962,
+    "ratio_to_all": 3.5160257791296463e-06,
+    "ratio_to_ads": 1.8964359453707183e-05
+  },
+  "poynter.org": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0007442975164766542,
+    "average_per_site_ad_ratio": 0.053551912568306013,
+    "ratio_to_all": 1.0543295797344793e-06,
+    "ratio_to_ads": 5.686728820773936e-06
+  },
+  "firstimpression.io": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0001614544067891578,
+    "average_per_site_ad_ratio": 0.0009373212653220423,
+    "ratio_to_all": 4.845293911402595e-07,
+    "ratio_to_ads": 2.6134022093957314e-06
+  },
+  "leya.tech": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00020829312667232974,
+    "average_per_site_ad_ratio": 0.0010962291794386892,
+    "ratio_to_all": 6.726032995433866e-07,
+    "ratio_to_ads": 3.6278149090953903e-06
+  },
+  "adventive.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.010480715741971427,
+    "average_per_site_ad_ratio": 0.06587281489745646,
+    "ratio_to_all": 0.00013128833883883375,
+    "ratio_to_ads": 0.0007081288381327144
+  },
+  "gatehousemedia.com": {
+    "number_of_websites": 11,
+    "average_per_site_ratio": 8.941365167502486e-05,
+    "average_per_site_ad_ratio": 0.0024600109558384573,
+    "ratio_to_all": 4.42292454083625e-06,
+    "ratio_to_ads": 2.3855891878530117e-05
+  },
+  "lmtonline.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00034957495498421243,
+    "average_per_site_ad_ratio": 0.0013655536366612951,
+    "ratio_to_all": 1.695055945650217e-06,
+    "ratio_to_ads": 9.142609373988029e-06
+  },
+  "cjr.org": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00038515958982012144,
+    "average_per_site_ad_ratio": 0.002022228675519417,
+    "ratio_to_all": 6.104432789694717e-07,
+    "ratio_to_ads": 3.292542915126859e-06
+  },
+  "dallasobserver.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00014027196531456857,
+    "average_per_site_ad_ratio": 0.06121932709334683,
+    "ratio_to_all": 7.714217937890974e-07,
+    "ratio_to_ads": 4.160811412327415e-06
+  },
+  "technoratimedia.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0018812093530100509,
+    "average_per_site_ad_ratio": 0.8210220086010624,
+    "ratio_to_all": 1.0345658808853369e-05,
+    "ratio_to_ads": 5.5801295201275306e-05
+  },
+  "adacado.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 3.970508109110722e-05,
+    "average_per_site_ad_ratio": 0.01732861118138123,
+    "ratio_to_all": 2.1835699534939327e-07,
+    "ratio_to_ads": 1.1777503377868923e-06
+  },
+  "maven.io": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.012032014869769342,
+    "average_per_site_ad_ratio": 0.5294179856875948,
+    "ratio_to_all": 2.393638946100137e-05,
+    "ratio_to_ads": 0.00012910550783126678
+  },
+  "uexpress.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.012267554963239495,
+    "average_per_site_ad_ratio": 0.05853485515839404,
+    "ratio_to_all": 8.811581378022778e-05,
+    "ratio_to_ads": 0.00047526954324487834
+  },
+  "thehour.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0002613780076259761,
+    "average_per_site_ad_ratio": 0.006045047120648609,
+    "ratio_to_all": 1.7564190428834406e-06,
+    "ratio_to_ads": 9.473583009059526e-06
+  },
+  "about:srcdoc": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0071868263871405135,
+    "average_per_site_ad_ratio": 0.06592921341903601,
+    "ratio_to_all": 4.235806940441953e-05,
+    "ratio_to_ads": 0.00022846637209506895
+  },
+  "yieldpass.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.054241459121576185,
+    "average_per_site_ad_ratio": 0.35414666579209425,
+    "ratio_to_all": 0.0003786389991692548,
+    "ratio_to_ads": 0.0020422620693114416
+  },
+  "crispadvertising.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.003931519995177786,
+    "average_per_site_ad_ratio": 0.02566919696364363,
+    "ratio_to_all": 2.7444446006724107e-05,
+    "ratio_to_ads": 0.00014802688369600363
+  },
+  "youtube.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 2.8353721136986905e-05,
+    "average_per_site_ad_ratio": 0.004266850013144325,
+    "ratio_to_all": 1.6815082488584665e-07,
+    "ratio_to_ads": 9.069537272738476e-07
+  },
+  "m32.media": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.0046189486042218795,
+    "average_per_site_ad_ratio": 0.02767330068623198,
+    "ratio_to_all": 5.5370233711225706e-05,
+    "ratio_to_ads": 0.00029864997616581485
+  },
+  "townnews.com": {
+    "number_of_websites": 16,
+    "average_per_site_ratio": 0.001465157677026801,
+    "average_per_site_ad_ratio": 0.07354997170902056,
+    "ratio_to_all": 8.262899657956876e-05,
+    "ratio_to_ads": 0.0004456753422388099
+  },
+  "newstimes.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00019899167587074338,
+    "average_per_site_ad_ratio": 0.0006929491678661924,
+    "ratio_to_all": 1.4854651070484272e-06,
+    "ratio_to_ads": 8.012140984068492e-06
+  },
+  "mxptint.net": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00044239351116328354,
+    "average_per_site_ad_ratio": 0.001540547935427844,
+    "ratio_to_all": 3.3024503238244003e-06,
+    "ratio_to_ads": 1.7812399269302487e-05
+  },
+  "ibj.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00022610555310388975,
+    "average_per_site_ad_ratio": 0.03414656474573168,
+    "ratio_to_all": 5.945048121556474e-07,
+    "ratio_to_ads": 3.20657573718621e-06
+  },
+  "servedbyadbutler.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.006395513774859488,
+    "average_per_site_ad_ratio": 0.9658534352542684,
+    "ratio_to_all": 1.6815879411925355e-05,
+    "ratio_to_ads": 9.06996710862818e-05
+  },
+  "abqjournal.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 1.4157317717188613e-05,
+    "average_per_site_ad_ratio": 0.00010528689188128804,
+    "ratio_to_all": 8.447387411326892e-08,
+    "ratio_to_ads": 4.5562604308544006e-07
+  },
+  "ap.org": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.007835297909096891,
+    "average_per_site_ad_ratio": 0.033388988646490765,
+    "ratio_to_all": 0.00012057609529326241,
+    "ratio_to_ads": 0.0006503502978388042
+  },
+  "nr-data.net": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.00010108050972562727,
+    "average_per_site_ad_ratio": 0.0005353996041413281,
+    "ratio_to_all": 1.4416343233104102e-06,
+    "ratio_to_ads": 7.775731244731707e-06
+  },
+  "spotxcdn.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.01401511321206396,
+    "average_per_site_ad_ratio": 0.09338926240233998,
+    "ratio_to_all": 0.0001346951861202887,
+    "ratio_to_ads": 0.0007265043224175282
+  },
+  "governing.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0020905203446298323,
+    "average_per_site_ad_ratio": 0.0113781656294288,
+    "ratio_to_all": 4.7090200201443974e-06,
+    "ratio_to_ads": 2.5399002722564767e-05
+  },
+  "bntech.io": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 4.236106658202191e-05,
+    "average_per_site_ad_ratio": 0.00022182904121993818,
+    "ratio_to_all": 2.3270161548183516e-07,
+    "ratio_to_ads": 1.2551207979334763e-06
+  },
+  "broadcastingcable.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0033310345404703222,
+    "average_per_site_ad_ratio": 0.02181896737956362,
+    "ratio_to_all": 1.0785560492914921e-05,
+    "ratio_to_ads": 5.817398931243722e-05
+  },
+  "deployads.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.00023875942613311134,
+    "average_per_site_ad_ratio": 0.0013086105920317827,
+    "ratio_to_all": 1.5866743713162117e-06,
+    "ratio_to_ads": 8.558032563991614e-06
+  },
+  "adnxtr.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.00910619096458053,
+    "average_per_site_ad_ratio": 0.026740285211047123,
+    "ratio_to_all": 0.00014566483590490329,
+    "ratio_to_ads": 0.0007856712326351799
+  },
+  "collegemagazine.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00019348092014289772,
+    "average_per_site_ad_ratio": 0.0012904211465378246,
+    "ratio_to_all": 7.538894802938906e-07,
+    "ratio_to_ads": 4.0662475165927e-06
+  },
+  "worldnow.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.005186820967178148,
+    "average_per_site_ad_ratio": 0.011073127760012907,
+    "ratio_to_all": 3.708403073572506e-05,
+    "ratio_to_ads": 0.00020001983291450818
+  },
+  "eviesays.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00021802170051576176,
+    "average_per_site_ad_ratio": 0.00046544543556507596,
+    "ratio_to_all": 1.558782054392019e-06,
+    "ratio_to_ads": 8.407590002595478e-06
+  },
+  "thecrimson.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.000134615752863824,
+    "average_per_site_ad_ratio": 0.0003118674324331504,
+    "ratio_to_all": 9.355880019714879e-07,
+    "ratio_to_ads": 5.0462733451161e-06
+  },
+  "adblockrelief.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 3.7609852588870765e-05,
+    "average_per_site_ad_ratio": 8.713161655713231e-05,
+    "ratio_to_all": 2.6139085574671896e-07,
+    "ratio_to_ads": 1.4098617182266447e-06
+  },
+  "33across.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0806959519758875,
+    "average_per_site_ad_ratio": 0.1869501809043624,
+    "ratio_to_all": 0.0005608419733215097,
+    "ratio_to_ads": 0.003025008759016662
+  },
+  "harpers.org": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 1.0466621616582792e-05,
+    "average_per_site_ad_ratio": 5.323490790360933e-05,
+    "ratio_to_all": 7.650464070635676e-08,
+    "ratio_to_ads": 4.126424541151155e-07
+  },
+  "serving-sys.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.011180599860427232,
+    "average_per_site_ad_ratio": 0.03491522738475258,
+    "ratio_to_all": 0.000149854261906917,
+    "ratio_to_ads": 0.0008082677053568796
+  },
+  "exponential.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.0018204459711873898,
+    "average_per_site_ad_ratio": 0.004462572681174268,
+    "ratio_to_all": 2.456436505346605e-05,
+    "ratio_to_ads": 0.00013249261464212835
+  },
+  "eyereturn.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0026423835219382442,
+    "average_per_site_ad_ratio": 0.009105322961766964,
+    "ratio_to_all": 1.8219261414882586e-05,
+    "ratio_to_ads": 9.826908110395594e-05
+  },
+  "justpremium.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.006241865019971008,
+    "average_per_site_ad_ratio": 0.4255617109788496,
+    "ratio_to_all": 3.2935247824086585e-05,
+    "ratio_to_ads": 0.00017764257649655722
+  },
+  "infolinks.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.022308355772993237,
+    "average_per_site_ad_ratio": 0.09005069527206792,
+    "ratio_to_all": 0.00022493639445013994,
+    "ratio_to_ads": 0.0012132375888407921
+  },
+  "jsdelivr.net": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0011504725292327406,
+    "average_per_site_ad_ratio": 0.019661949375626892,
+    "ratio_to_all": 3.57738887636287e-06,
+    "ratio_to_ads": 1.9295333088778684e-05
+  },
+  "circularhub.com": {
+    "number_of_websites": 3,
+    "average_per_site_ratio": 0.008196453186673273,
+    "average_per_site_ad_ratio": 0.05602769423712676,
+    "ratio_to_all": 0.00011504624423220606,
+    "ratio_to_ads": 0.000620523985452296
+  },
+  "netdna-cdn.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0008219901168939704,
+    "average_per_site_ad_ratio": 0.005290537662158603,
+    "ratio_to_all": 4.770383117377621e-06,
+    "ratio_to_ads": 2.5729976357636264e-05
+  },
+  "smartadserver.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0001444593389529664,
+    "average_per_site_ad_ratio": 0.000929777083292825,
+    "ratio_to_all": 8.383633544071596e-07,
+    "ratio_to_ads": 4.521873559678141e-06
+  },
+  "zedo.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.03537248950404033,
+    "average_per_site_ad_ratio": 0.22766634790278703,
+    "ratio_to_all": 0.00020528267102201317,
+    "ratio_to_ads": 0.0011072314617221778
+  },
+  "prfct.cc": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.022725737642432114,
+    "average_per_site_ad_ratio": 0.29034969007594996,
+    "ratio_to_all": 0.0003092556654353148,
+    "ratio_to_ads": 0.001668029750300208
+  },
+  "santafenewmexican.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0005940076097502518,
+    "average_per_site_ad_ratio": 0.005267406453722437,
+    "ratio_to_all": 1.643255928505288e-06,
+    "ratio_to_ads": 8.863216045680918e-06
+  },
+  "journalism.co.uk": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0022778176791661887,
+    "average_per_site_ad_ratio": 1.0,
+    "ratio_to_all": 2.815530162662067e-06,
+    "ratio_to_ads": 1.5186101983215657e-05
+  },
+  "2adpro.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.010139879371360898,
+    "average_per_site_ad_ratio": 0.04452778655361128,
+    "ratio_to_all": 6.963834920296124e-05,
+    "ratio_to_ads": 0.0003756077938582839
+  },
+  "localstars.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0038749786199673377,
+    "average_per_site_ad_ratio": 0.017016397786451698,
+    "ratio_to_all": 2.6612458039042478e-05,
+    "ratio_to_ads": 0.00014353939700750175
+  },
+  "hcpress.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.00015174342354841157,
+    "average_per_site_ad_ratio": 1.0,
+    "ratio_to_all": 3.90492436938696e-07,
+    "ratio_to_ads": 2.106195859545902e-06
+  },
+  "wishabi.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.0013466298272814849,
+    "average_per_site_ad_ratio": 0.0035196280307018954,
+    "ratio_to_all": 2.1762382587595735e-05,
+    "ratio_to_ads": 0.00011737958476016224
+  },
+  "flipp.com": {
+    "number_of_websites": 2,
+    "average_per_site_ratio": 0.0006920000258844492,
+    "average_per_site_ad_ratio": 0.001766936026817411,
+    "ratio_to_all": 1.1365720684938127e-05,
+    "ratio_to_ads": 6.130319458947685e-05
+  },
+  "zdassets.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.13949789746976798,
+    "average_per_site_ad_ratio": 0.4561041686272704,
+    "ratio_to_all": 0.0007261182957174832,
+    "ratio_to_ads": 0.003916458305748913
+  },
+  "jquery.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.014862134007877057,
+    "average_per_site_ad_ratio": 0.0480963426017594,
+    "ratio_to_all": 5.420194409377238e-05,
+    "ratio_to_ads": 0.00029234858202276527
+  },
+  "encclassifieds.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 4.354827326090972e-05,
+    "average_per_site_ad_ratio": 0.00026635235048295497,
+    "ratio_to_all": 6.933233064013581e-08,
+    "ratio_to_ads": 3.739572240418234e-07
+  },
+  "gotricities.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.0018830073277803737,
+    "average_per_site_ad_ratio": 1.0,
+    "ratio_to_all": 1.6089882248555658e-06,
+    "ratio_to_ads": 8.678386613108524e-06
+  },
+  "assoc-amazon.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.012192488252101499,
+    "average_per_site_ad_ratio": 0.09195921259186196,
+    "ratio_to_all": 2.1100936214822024e-05,
+    "ratio_to_ads": 0.0001138119468756253
+  },
+  "google-analytics.com": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.008499550009136006,
+    "average_per_site_ad_ratio": 0.02632581696083959,
+    "ratio_to_all": 5.968318283104657e-05,
+    "ratio_to_ads": 0.0003219126945165545
+  },
+  "ad.plus": {
+    "number_of_websites": 1,
+    "average_per_site_ratio": 0.028593090366667948,
+    "average_per_site_ad_ratio": 0.43667800032284265,
+    "ratio_to_all": 0.00013581805110732262,
+    "ratio_to_ads": 0.0007325607101034469
+  }
+}
