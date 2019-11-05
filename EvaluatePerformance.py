@@ -243,6 +243,71 @@ class EvaluatePerformance():
             no_ad_perfEvents[website] = [run]
     return no_ad_perfEvents
 
+  def calculateAdPerformanceByLevelOfTrust(self, ad_only = False):
+    with open('addomainsVt5.json', 'r') as fi:
+      trust_info = json.load(fi)
+    if ad_only:
+      perfEvents = self.prune_sites_with_no_ad()
+    else:
+      perfEvents = self.perfEvents
+    # format of trust_info:
+    #   dict{domain: trustworthiness}
+    #
+    # let's sort the ad domains by trustworthiness
+    trust_info = [(k, v) for k, v in trust_info.items()]
+    trust_info = sorted(trust_info, key = lambda x : x[1], reverse=True)
+
+    # if there is no WOT data for this website, put
+    # it in the ignore set
+    ignore = set()
+    for domain, trustv in trust_info:
+      if trustv < 0:
+        ignore |= {domain}
+
+    # trim the trust info so that it only contains 
+    # websites with data
+    trust_info = [v for v in trust_info if v[1] >= 0]
+
+    ret = []
+    for trustv in range(1000):
+      s = 0
+      for site, datas in perfEvents.items():
+        u, a = 0, 0
+        for data in datas:
+          for activity_type, time in data['activity_time'].items():
+            a += time[0]
+          for adDomain, activities in data['adDomain_time'].items():
+            # get total time for addomain
+            time = 0
+            for _, t in activities.items():
+              time += t 
+
+            # if we have no WOT data, then ignore its contribution
+            for ignoreDomain in ignore:
+              if adDomain in ignoreDomain or ignoreDomain in adDomain:
+                a -= time
+                continue
+
+            # find the current trust level
+            trust = 0
+            for domain, t in trust_info:
+              if adDomain in domain or domain in adDomain:
+                trust = t
+                break
+
+            if trust >= trustv/1000.:
+              u += time
+        s += (float(u) / float(a))
+
+      s /= len(perfEvents)
+      ret.append(s)
+    
+    ret2 = [[ret[0], 0]]
+    for i, r in enumerate(ret):
+      if r != ret2[-1]:
+        ret2.append([r, i])
+    filehelper.json_save(ret2, 'trust_stat.json')
+
   def calculateAdPerformance(self, ad_only = False):
     if ad_only:
       perfEvents = self.prune_sites_with_no_ad()
