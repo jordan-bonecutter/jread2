@@ -16,8 +16,9 @@ import os
 import shutil
 from collections import OrderedDict
 from EvaluatePerformance import EvaluatePerformance
+import random
 
-__chrome_path__ = "/home/behnam/Desktop/webKitProject/chromium/src/out/first_build/chrome"
+__chrome_path__ = "/Applications/Chromium.app/Contents/MacOS/Chromium"
 time_max = 120
 
 class ParseError(RuntimeError):
@@ -30,10 +31,22 @@ class Crawler:
     ofile = None
 
     def __init__(self, **kwargs):
-        if "sites" in kwargs:
-            self.sites = kwargs["sites"]
-        else:
-            self.sites = []
+        #if "sites" in kwargs:
+        #    self.sites = kwargs["sites"]
+        #else:
+        #    self.sites = []
+        with open('setup_files/top200news.json') as fi:
+          self.sites = json.load(fi)
+        #with open('../crawler/top200news_output.json') as fi:
+        #  somesites = json.load(fi)
+
+        
+        #self.sites = []
+        # 
+        #for dom, ss in somesites.items():
+        #  if len(ss) <= 1:
+        #    continue
+        #  self.sites.append(ss[random.randint(1, len(ss)-1)])
 
         if "data" in kwargs:
             try:
@@ -117,12 +130,15 @@ class Crawler:
                         self.data[site]["snapshots"].append(trees)
                         l = len(self.data[site]["snapshots"])
                         if perfFile:
+                          site = treehelper.get_url(site)
                           try:
                             trace_path = os.path.join("./trace", site+"_"+str(l))
                             shutil.move('trace.json',trace_path)
                           except:
+                            print('failed :(')
                             pass
                         if draw:
+                            site = treehelper.get_url(site)
                             dbprint("drawing full")
                             drawtree.draw_tree(trees["tree_full"], "res/img/"+site+str(l)+"full.pdf")
                             dbprint("drawing trim")

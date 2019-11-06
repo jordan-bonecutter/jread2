@@ -61,7 +61,9 @@ def __get(*args, **kwargs):
 
     # set up local variables
     start = time.time()
-    domain = "http://www." + kwargs["domain"]
+    domain = kwargs["domain"]
+    if 'http' not in domain:
+      domain = 'https://www.' + domain
     zopts = ("node", zbpath+"index.js", domain, str(port))
 
     # append so cleanup is easier

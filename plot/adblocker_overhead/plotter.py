@@ -54,7 +54,7 @@ plt.yticks(np.arange(0, 1.1, step=0.1))
 plt.grid(b=True, which='major', color='gray', linestyle='-', alpha=0.2)
 plt.grid(b=True, which='minor', color='gray', linestyle='-', alpha=0.2)
 
-n_bins = len(tohist)*3
+n_bins = int(len(tohist)*5)
 
 n, bins, patches = plt.hist(tohist, n_bins, density=True, histtype='step',
                            cumulative=True, label='With Modified Adblocker')

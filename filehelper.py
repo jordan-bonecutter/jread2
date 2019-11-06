@@ -75,7 +75,7 @@ def to_json(o, level=1):
     else:
       ret += 'false'
   else:
-    ret += 'null'
+    ret += '"null"'
   return ret
 
 

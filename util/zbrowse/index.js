@@ -87,7 +87,7 @@ function enableInstanceProperties(instance) {
     });
     
     instance.once('ready', () => {
-        instance.Tracing.start({traceConfig:{includedCategories:['devtools.timeline', 'disabled-by-default-devtools.timeline']}});
+        instance.Tracing.start({traceConfig:{includedCategories:['*', 'disabled-by-default-devtools.timeline']}});
         instance.Page.navigate({url: url});
     });
 }

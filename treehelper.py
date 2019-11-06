@@ -64,6 +64,8 @@ def get_url(url: str) -> str:
     if ext.domain == "" or ext.suffix == "":
         return url
     else:
+        if ext.subdomain != 'www' and ext.subdomain != '':
+            return '.'.join((ext.subdomain, ext.domain, ext.suffix))
         return ".".join((ext.domain, ext.suffix))
 
 def _get_vtscore(url: str) -> Dict[str, str]:
@@ -178,12 +180,13 @@ def traverse_tree(rtree: ZBTree, tree: Tree, performance: Any, layer: int):
 
         # set content type
         try:
-            tree[layer][nname]["type"]=rtree["networkData"]["response"]["response"]["headers"]["content-type"]
+            tree[layer][nname]["resptype"]=rtree["networkData"]["response"]["response"]["headers"]["content-type"]
         except KeyError:
-            try:
-                tree[layer][nname]["type"] = rtree["networkData"]["request"]["type"]
-            except KeyError:
-                tree[layer][nname]["type"] = "unknown"
+            tree[layer][nname]["resptype"]="unknown"
+        try:
+            tree[layer][nname]["reqtype"] = rtree["networkData"]["request"]["type"]
+        except KeyError:
+            tree[layer][nname]["reqtype"] = "unknown"
 
         # set frameId
         try: 
