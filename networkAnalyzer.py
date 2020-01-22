@@ -4,8 +4,13 @@
 #
 
 from treehelper import get_url as get_domain
+import json
 
-def calculateByDomain(crawl):
+def calculateByDomain(path_to_crawl):
+  # read the file
+  with open(path_to_crawl, 'r') as fi:
+    crawl = json.load(fi)
+  
   # return dicts
   ret = {}
   total = 0
